@@ -16,5 +16,7 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+- text: Test Page Hola
+  href: /hola
 - text: News
   href: /news/
