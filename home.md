@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 title: SIB Uruguay
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
+description: Sistema de Información sobre Biodiversidad de Uruguay.
+background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F60621648%2Foriginal.jpeg%3F1580528513
 imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+  *Ardea alba* Linnaeus, 1758. Photo by Florencia Grattarola via [iNaturalist](https://www.gbif.org/occurrence/2574245767)
 cta:
   - text: Start exploring
     href: /data
