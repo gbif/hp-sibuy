@@ -8,9 +8,9 @@ imageLicense: |
 height: 70vh
 ---
 
-## Procris quippe mentior urbes ubi
+## Bienvenides al Portal de Datos de Biodiversidad de Uruguay
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
+Primero: **GRACIAS GBIF**. Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
 pontum ut** avus quamquam de trabes vestemque cruorem tremor.
 
