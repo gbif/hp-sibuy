@@ -1,14 +1,14 @@
 ---
 lang-ref: Acerca de
 title: SIBUy
-description: Portal de datos sobre biodiversidad de Uruguay
+description: Bienvenidos y bienvenidas!
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by Leo Lagos via [inaturalist.org](https://www.inaturalist.org/photos/111055418)
 height: 70vh
 ---
 
-## Bienvenidos y bienvenidas al Portal de Datos de Biodiversidad de Uruguay
+## Portal de Datos sobre Biodiversidad de Uruguay
 
 La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés), fundada y financiada por los gobiernos en el 2001, es la iniciativa multilateral más grande del mundo, creada para facilitar el acceso libre a datos sobre biodiversidad a través de Internet.La misión de GBIF consiste en promover y facilitar el acceso libre y gratuito a datos sobre biodiversidad en todo el mundo, a través de Internet, para apoyar a la ciencia, la conservación y el desarrollo sostenible. Puede obtener más información acerca de GBIF en http://www.gbif.org/.
 SIBUy es el nodo de Uruguay en GBIF. Actualmente está conformado por el Museo Nacional de Historia Natural, el Ministerio de Ambiente, y Biodiversidata. 
