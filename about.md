@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: About
+title: Sistema de Información de Biodiversidad de Uruguay
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/moss.jpg
 imageLicense: |
