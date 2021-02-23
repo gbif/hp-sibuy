@@ -1,7 +1,7 @@
 ---
 lang-ref: archive
 layout: archive
-title: News
+title: Noticias
 description: News and events
 permalink: /news/
 ---
