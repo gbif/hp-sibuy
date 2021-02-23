@@ -8,11 +8,18 @@ imageLicense: |
 height: 70vh
 ---
 
-## Bienvenides al Portal de Datos de Biodiversidad de Uruguay
+## Bienvenidos y bienvenidas al Portal de Datos de Biodiversidad de Uruguay
 
-Primero: **GRACIAS GBIF**. Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+La Infraestructura Mundial de Información en Biodiversidad (GBIF, por sus siglas en inglés), fundada y financiada por los gobiernos en el 2001, es la iniciativa multilateral más grande del mundo, creada para facilitar el acceso libre a datos sobre biodiversidad a través de Internet.La misión de GBIF consiste en promover y facilitar el acceso libre y gratuito a datos sobre biodiversidad en todo el mundo, a través de Internet, para apoyar a la ciencia, la conservación y el desarrollo sostenible. Puede obtener más información acerca de GBIF en http://www.gbif.org/.
+SIBUy es el nodo de Uruguay en GBIF. Actualmente está conformado por el Museo Nacional de Historia Natural, el Ministerio de Ambiente, y Biodiversidata. 
+Los objetivos del nodo son: 
+1.    Impulsar y fomentar la movilización de los datos sobre biodiversidad en el país.
+2.    Aportar conocimientos especializados de administración de los datos sobre biodiversidad y sobre la mejora de su calidad.
+3.    Promover la utilización de datos sobre biodiversidad para la investigación científica y la toma de decisiones. 
+4.    Impulsar la colaboración entre las iniciativas existentes relacionadas con la biodiversidad, incluyendo el establecimiento de vínculos con la red regional e internacional de GBIF.
+ 
+El nodo de Uruguay en GBIF forma parte de la red de América Latina y el Caribe, donde con países de la región coordinamos acciones conjuntas de cooperación y capacitación para promover la movilización de datos sobre biodiversidad
+
 
 Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
 Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
