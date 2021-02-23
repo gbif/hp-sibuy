@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: Sistema de Información de Biodiversidad de Uruguay
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+description: Portal de datos sobre biodiversidad de Uruguay
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
