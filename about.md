@@ -4,7 +4,7 @@ title: SIBUy
 description: Portal de datos sobre biodiversidad de Uruguay
 background: /assets/images/moss.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by Leo Lagos via [inaturalist.org](https://www.inaturalist.org/photos/111055418)
 height: 70vh
 ---
 
