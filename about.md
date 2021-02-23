@@ -1,6 +1,6 @@
 ---
-lang-ref: about
-title: Sistema de Información de Biodiversidad de Uruguay
+lang-ref: Acerca de
+title: SIBUy
 description: Portal de datos sobre biodiversidad de Uruguay
 background: /assets/images/moss.jpg
 imageLicense: |
@@ -21,11 +21,7 @@ Los objetivos del nodo son:
 El nodo de Uruguay en GBIF forma parte de la red de América Latina y el Caribe, donde con países de la región coordinamos acciones conjuntas de cooperación y capacitación para promover la movilización de datos sobre biodiversidad
 
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+
 
 ## Quam ex te videt
 
