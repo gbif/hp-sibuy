@@ -3,16 +3,18 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: Nodo GBIF Uruguay
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: Ministerio de Ambiente
+      href: https://www.gub.uy/ministerio-ambiente/inicio
+    - text: Museo Nacional de Historia Natural
+      href: https://www.mnhn.gub.uy/
+    - text: Biodiversidata
+      href: https://biodiversidata.org/es/#projects
 
   - name: Code
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+      Este proyecto es de código abierto
 
   - name: Contact
     description: | # Can be Markdown
