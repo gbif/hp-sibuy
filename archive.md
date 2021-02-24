@@ -3,7 +3,7 @@ lang-ref: archive
 layout: archive
 title: Noticias
 description: News and events
-permalink: /Noticias/
+permalink: /news/
 ---
 {% comment %}
   No content here. The layout will insert a card for each post in your _posts folder
