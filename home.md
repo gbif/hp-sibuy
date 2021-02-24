@@ -7,10 +7,10 @@ background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalis
 imageLicense: |
   *Microgramma squamulosa* (Kaulf.) de la Sota. Photo by Florencia Grattarola via [iNaturalist](https://www.gbif.org/occurrence/2574046426)
 cta:
-  - text: Start exploring
+  - text: Comenzar a explorar
     href: /data
     isPrimary: true
-  - text: About
+  - text: Acerca del sitio
     href: /about
 permalink: /
 ---
