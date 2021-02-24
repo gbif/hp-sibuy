@@ -1,10 +1,10 @@
 ---
-title:  "Getting started for authors"
+title:  "Artículos recientes"
 date:   2021-01-14 15:20:00 +0100
 categories: ["Getting started", "Jekyll"]
 lang-ref: for authors
-background: http://via.placeholder.com/600x300
+background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F59405704%2Foriginal.jpeg%3F1578702003
 ---
-You’ll find this post in your `_posts` directory.
+Múltiples formas de puntos calientes de biodiversidad de tetrápodos y los desafíos de la escasez de datos de acceso abierto
 
-Read more in the "[Getting started guide for authors](https://github.com/gbif/hosted-portals/blob/main/getting-started/for-authors.md)" to get started with your new website.
+"[Descargalo aquí](https://biodiversidata.org/files/s41598-020-79074-8.pdf)" 
