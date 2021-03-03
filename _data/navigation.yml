@@ -2,16 +2,16 @@
 
 - text: Acerca de
   href: /about
-- text: Data
+- text: Datos
   href: /data
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Docs" # Title for block of menu items
-  - text: Jekyll documentation
-    href: https://jekyllrb.com/docs/pages/
+  - text: "Documentación" # Title for block of menu items
+  - text: Estándares de datos
+    href: https://www.gbif.org/es/standards
   - text: Markdown tutorial
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
