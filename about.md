@@ -2,7 +2,7 @@
 lang-ref: Acerca de
 title: SIBUy
 description: Bienvenidos y bienvenidas!
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F60599159%2Foriginal.jpeg%3F1580500056
+background: /assets/images/moss.jpg
 imageLicense: |
   Photo by 
     jmass via [gbif.org](https://www.gbif.org/occurrence/2573800569)
