@@ -8,3 +8,5 @@ background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalis
 Múltiples formas de puntos calientes de biodiversidad de tetrápodos y los desafíos de la escasez de datos de acceso abierto
 
 [Descargalo aquí](https://biodiversidata.org/files/s41598-020-79074-8.pdf) 
+
+[Descargalo aquí](https://biodiversidata.org/files/s41598-020-79074-8.pdf){: .button .is-primary}
