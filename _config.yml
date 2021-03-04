@@ -38,7 +38,7 @@ plugins:
 remote_theme: gbif/jekyll-hp-base-theme
 
 algae:
-  rootLang: en
+  rootLang: es
   # latestPostLimit: 2
   # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
@@ -85,7 +85,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
-      lang: en
+      lang: es
   -
     scope:
       path: "_posts" # an empty string here means all files in the project
@@ -96,9 +96,9 @@ defaults:
     scope:
       path: ""
     values:
-      lang: en
+      lang: es
   -
     scope:
-      path: "da/"
+      path: "en/"
     values:
-      lang: da
+      lang: en
