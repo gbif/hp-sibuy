@@ -2,91 +2,23 @@
 lang-ref: about
 title: Om
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/moss.jpg
+background: /assets/images/Ñandú EMG.JPG
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by 
+    jmass via [gbif.org](https://www.gbif.org/occurrence/2573800569)
 height: 70vh
 ---
 
-## Procris quippe mentior urbes ubi
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+## Uruguayan Biodiversity Data Portal
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+The Global Biodiversity Information Facility (GBIF) founded in 2001, is the world's largest multilateral initiative created to facilitate free access to biodiversity data through the Internet. GBIF's mission is to promote and facilitate free and open access to biodiversity data worldwide, through the Internet, in support of science, conservation and sustainable development. More information about GBIF is available at http://www.gbif.org/.
 
-## Quam ex te videt
-
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
-cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
-ubi**.
-
-    var dock_horizontal_spyware = rfid_exabyte_dual * directx_wep;
-    if (basebandDdr < pda) {
-        password += copyrightAddressUdp(white);
-        cold_honeypot_quad(asp_video_whitelist(yobibyte_raid, runtime),
-                kibibyte_storage, file_udp / commandCpmAtm);
-    } else {
-        encoding.dragWhoisWww = lun_token * ram;
-        boxCpm(media_drag_southbridge);
-        url_key.gnutellaTrinitron += uddi_login_overwrite;
-    }
-    if (phreaking(digitalMulticasting, compression)) {
-        mashup -= serverWidgetTask(9) + mashupDirectory;
-        safeCifsIde = odbc_modem;
-    }
-
-### Turbatque promittat memorque
-
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
-
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-### Turbatque promittat memorque
-
-Ne arvis relinquit ossibus deus. Superis et oppugnare suo armis? Adfata nec
-lavit sed disces cum surgimus peteret gladios; pabula. Quod vos fugit, manebat
-dum: fateor profugus renovatus exhalantem.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| tables        | are useful    |    $1 |
-
---------
-
-### In frustra albus
-
-Levia in bella idque Dianam instabilis illo contentus Oriens auctor non litat
-genitas trementi hoc bina tulisti! Tuae at aequor!
-
-* Level 1 a
-* Level 1 b
-  * Level 2 a
-  * Level 2 b
-
-## Est mea videndo
-
-Nec bene filia fraxineam flumina, praesens amici nitidaeque inguine infractaque!
-Non quae illuc! E alto cum quod: fessi fatum patulis ore actaque quaque, ore.
-Honor praemia veniunt violavit tu
-[aequore](http://pete-munere.com/caeneus-dare.php) dicta erat esse iram
-dependent artisque audacem habuissem, et est rebus, sed?
-
-[Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
-
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
+SIBUy is Uruguay's node in GBIF. It is currently comformed by the National Museum of Natural History, the Ministry of Environment, and Biodiversidata. 
+The objectives of the node are: 
+1.    To promote and foster the mobilisation of biodiversity data in the country.
+2.    To provide expertise in biodiversity data management and data quality improvement.
+3.    Promote the use of biodiversity data for scientific research and decision making. 
+4.    To foster collaboration between existing biodiversity-related initiatives, including the establishment of links with the regional and international GBIF network.
+ 
+The Uruguayan node in GBIF is part of the Latin American and Caribbean network, where we coordinate with countries in the region on joint cooperation and capacity building actions to promote the mobilisation of biodiversity data.
