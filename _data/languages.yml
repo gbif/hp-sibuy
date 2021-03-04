@@ -1,5 +1,7 @@
+es:
+  label: Español
+  icon:  # optional
+
 en:
   label: English
-  icon:  # optional
-da:
-  label: Dansk
+  icon:
