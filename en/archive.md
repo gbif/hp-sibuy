@@ -1,9 +1,9 @@
 ---
 lang-ref: archive
 layout: archive
-title: Nyheder
-description: Nyheder og begivenheder
-permalink: /da/nyheder
+title: News
+description: News and events
+permalink: /en/news/
 ---
 {% comment %}
   No content here. The layout will insert a card for each post in your _posts folder
