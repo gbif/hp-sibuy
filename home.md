@@ -21,4 +21,5 @@ Acá podrán encontrar información abierta de registros sobre la biodiversidad 
 Los datos publicados a través de este portal son de uso público.
 
 ¿Querés compartir tus datos? Aquí te contamos cómo hacerlo 
+[¿Cómo participar?](){: .button .is-primary}
 
