@@ -17,10 +17,8 @@ permalink: /
 
 Bienvenidos y bienvenidas!
 
-Acá podrán encontrar información abierta de registros sobre la biodiversidad de Uruguay aportada por los miembros del nodo uruguayo en GBIF. 
-Los datos publicados a través de este portal son de uso público bajo la licencia CC BY 4.0 
+Acá podrán encontrar información abierta de registros sobre la biodiversidad de Uruguay aportada por los miembros del nodo uruguayo en GBIF y otros publicadores de datos.  
+Los datos publicados a través de este portal son de uso público.
 
-¿Querés compartir tus datos? Aquí te contamos cómo hacerlo [plura
-tollebat altius](http://virgineusque.net/est.html).
-
+¿Querés compartir tus datos? Aquí te contamos cómo hacerlo 
 
