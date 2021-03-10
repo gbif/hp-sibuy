@@ -2,7 +2,7 @@
 lang-ref: Acerca de
 title: SIBUy
 description: Bienvenidos y bienvenidas!
-background: /assets/images/Ñandú EMG.JPG
+background: /assets/images/about.JPG
 imageLicense: |
   Photo by 
     jmass via [gbif.org](https://www.gbif.org/occurrence/2573800569)
