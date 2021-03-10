@@ -1,5 +1,5 @@
 ---
-layout: text
+layout: default
 title: "¿Por qué compartir datos de biodiversidad?"
 description: "Importancia y utilidad de datos abiertos"
 background: 
