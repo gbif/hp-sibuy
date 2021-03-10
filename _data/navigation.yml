@@ -9,7 +9,7 @@
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
   - text: ¿Por qué compartir datos de biodiversidad?
-  - href: /recursos/hola
+    href: /recursos/hola
 
 #- text: Links
 #  menu: # Dropdown menu (one level deep only)
