@@ -1,7 +1,7 @@
 ---
 lang-ref: about
-title: Om
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+title: About
+description: Welcome
 background: /assets/images/Ñandú EMG.JPG
 imageLicense: |
   Photo by 
