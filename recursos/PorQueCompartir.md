@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "¿Por qué compartir datos de biodiversidad?"
-permalink: /recursos/PorQueCompartir
+permalink: /faq/PorQueCompartir
 description: "Importancia y utilidad de los datos abiertos"
 toc: true
 ---
