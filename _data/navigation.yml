@@ -6,7 +6,7 @@
 - text: Datos
   href: /data
   
-- text: Recursos
+- text: Preguntas Frecuentes
   menu: # Dropdown menu (one level deep only)
   - text: ¿Por qué compartir datos de biodiversidad?
     href: /faq/PorQueCompartir
