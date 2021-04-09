@@ -1,11 +1,12 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Petición!"
 date:   2020-09-25 21:37:12 +0200
 categories: jekyll update
 lang-ref: welcome to jekyll
 background: http://via.placeholder.com/600x300
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Petición de Latinoamericana para la Incorporación de Otros Idiomas distintos del inglés en los estándares TDWG
+
 
 Jekyll requires blog post files to be named according to the following format:
 
