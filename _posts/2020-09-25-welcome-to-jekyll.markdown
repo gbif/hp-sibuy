@@ -14,6 +14,11 @@ Si bien se reconoce que el inglés se considera actualmente el “idioma univers
 
 El lenguaje afecta la comprensión y el uso de los estándares de datos de biodiversidad y documentación relacionada para toda la comunidad, tanto angloparlantes como no angloparlantes. Nuestros hallazgos en la región de América Latina sugieren que la disponibilidad de materiales en otros idiomas, es decir, español y portugués, beneficiaría enormemente a la región y mejoraría nuestra participación en el intercambio de datos sobre biodiversidad. Además, por otro lado, la comunidad angloparlantes se beneficiaría de una mejor comprensión del conocimiento en otros idiomas distintos al inglés, lo que permite un uso más amplio de datos de todas las regiones. Este trabajo también constituye un alegato desde la comunidad latinoamericana y de habla hispana en general a los Estándares de información sobre biodiversidad (TDWG) para explorar e incorporar otros lenguajes, fomentar la comprensión y, por lo tanto, ampliar el uso de los estándares TDWG en nuestra región. 
 
+[Descargalo aquí](https://biss.pensoft.net/article/58973/download/pdf/) 
+
+[Descargalo aquí](https://biss.pensoft.net/article/58973/download/pdf/){: .button .is-primary}
+
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
