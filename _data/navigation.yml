@@ -10,6 +10,8 @@
   menu: # Dropdown menu (one level deep only)
   - text: ¿Por qué compartir datos de biodiversidad?
     href: /faq/PorQueCompartir
+  - text: ¿Qué datos se pueden compartir? 
+    href: /faq/QueDatosCompartir
 
 #- text: Links
 #  menu: # Dropdown menu (one level deep only)
