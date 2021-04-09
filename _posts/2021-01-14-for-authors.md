@@ -1,5 +1,5 @@
 ---
-title:  "Artículos recientes"
+title:  "Publicación reciente"
 date:   2021-01-14 15:20:00 +0100
 categories: ["Tetrápodos", "Hotspots"]
 lang-ref: for authors
