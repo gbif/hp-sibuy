@@ -1,5 +1,5 @@
 ---
-title: "Publicación reciente: *Hotspots* de biodiversidad en Uruguay"
+title: "Publicación reciente: Hotspots de biodiversidad en Uruguay"
 date: 2020-12-15 15:00:00
 categories: ["Tetrápodos", "Hotspots"]
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F59405704%2Foriginal.jpeg%3F1578702003
