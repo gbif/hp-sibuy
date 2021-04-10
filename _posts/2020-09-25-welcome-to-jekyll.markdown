@@ -3,7 +3,7 @@ title:  "Petición!"
 date:   2020-09-25 21:37:12 +0200
 categories: jekyll update
 lang-ref: welcome to jekyll
-background:https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F110681615%2Foriginal.jpeg%3F1611150874
+background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F110681615%2Foriginal.jpeg%3F1611150874
 ---
 Petición de Ámerica Latina para la incorporación de otros idiomas distintos del inglés en los estándares TDWG
 
