@@ -10,7 +10,7 @@ columns:
     - text: Museo Nacional de Historia Natural
       href: https://www.mnhn.gub.uy/
     - text: Biodiversidata
-      href: https://biodiversidata.org/es/#projects
+      href: https://biodiversidata.org/es
 
   - name: Code
     description: | # Can be Markdown
