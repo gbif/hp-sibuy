@@ -1,5 +1,5 @@
 ---
-title: "Petición!"
+title: "Resumen: Petición a TDWG"
 date: 2020-09-29 00:00:00
 categories: ["Estándares-de-Biodiversidad"]
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F110681615%2Foriginal.jpeg%3F1611150874
