@@ -11,7 +11,15 @@
   - text: ¿Por qué compartir datos de biodiversidad?
     href: /faq/por-que-compartir-datos-de-biodiversidad
   - text: ¿Qué datos se pueden compartir? 
-    href: /faq/que-datos-compartir
+    href: /faq/que-datos-se-pueden-compartir
+  - text: ¿Qué son los estándares de datos de biodiversidad? 
+    href: /faq/que-son-los-estandares-de-datos-de-biodiversidad
+  - text: ¿Cómo pueden aportar los datos a la toma de decisiones? 
+    href: /faq/como-pueden-aportar-los-datos-a-la-toma-de-decisiones
+  - text: ¿Cómo puedo convertirme en publicador de datos?
+    href: /faq/como-puedo-convertirme-en-publicador-de-datos
+  - text: ¿Quiénes pueden utilizar datos y cómo puedo descargarlos?
+    href: /faq/quienes-pueden-utilizar-datos-y-como-puedo-descargarlos
 
 #- text: Links
 #  menu: # Dropdown menu (one level deep only)
