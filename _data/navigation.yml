@@ -34,5 +34,22 @@
 #  - text: YAML tutorial
 #    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 
+- text: Recursos
+  menu: # Dropdown menu (one level deep only)
+  - text: Estándar Darwin Core
+    href: /resources/estandar-darwin-core
+  - text: Plantilla para publicación de datos 
+    href: /resources/plantilla-para-publicacion-de-datos
+  - text: Manual IPT (Kit de herramientas de publicación integrada) 
+    href: /resources/manual-IPT
+  - text: Buenas prácticas para georreferenciación 
+    href: /resources/buenas-practicas-para-georreferenciacion
+  - text: Guía para georreferenciación de datos
+    href: /resources/guia-para-georreferenciacion-de-datos
+  - text: Buenas prácticas para publicación de datos sensibles
+    href: /resources/buenas-practicas-para-publicacion-de-datos-sensibles
+  - text: Guía para la limpieza de datos
+    href: /resources/guia-para-la-limpieza-de-datos-open-refine
+ 
 - text: Noticias
   href: /news/
