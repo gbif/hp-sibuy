@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "¿Qué datos se pueden compartir?"
-permalink: /faq/QueDatosCompartir
 description: "Importancia y utilidad de los datos abiertos"
 toc: true
 ---
