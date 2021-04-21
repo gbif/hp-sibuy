@@ -9,9 +9,9 @@
 - text: Preguntas Frecuentes
   menu: # Dropdown menu (one level deep only)
   - text: ¿Por qué compartir datos de biodiversidad?
-    href: /faq/PorQueCompartir
+    href: /faq/por-que-compartir-datos-de-biodiversidad
   - text: ¿Qué datos se pueden compartir? 
-    href: /faq/QueDatosCompartir
+    href: /faq/que-datos-compartir
 
 #- text: Links
 #  menu: # Dropdown menu (one level deep only)
