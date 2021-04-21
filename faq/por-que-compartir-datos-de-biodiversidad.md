@@ -7,22 +7,6 @@ toc: true
 
 # ¿Por qué compartir datos de biodiversidad?
 
-## Importancia y utilidad de los datos abiertos
+La [**Estrategia Nacional de Biodiversidad 2016 - 2020**](https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/estrategia-nacional-biodiversidad-2016-2020) destaca las debilidades en la generación y gestión de información como una de las causas subyacentes de pérdida de biodiversidad. La falta de de sistemas de información ambiental, particularmente vinculados a la biodiversidad, siguen siendo una necesidad. En este sentido, la falta de articulación entre instituciones públicas y privadas, tanto del ámbito académico como de la gestión, es una de las mayores debilidades. A su vez, el no contar con un sistema que reúna la información sobre biodiversidad con la que cuenta el país, dificulta los procesos de evaluación ambiental y la identificación de vacíos de información.   
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [pluratollebat altius](http://virgineusque.net/est.html).
-
-Tabla de ejemplo
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      | $12   |
-| tables        | are useful    | $1    |
-
-## Otro título para ver si funciona la Tabla de contenidos
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-### Y otro subtítulo más pequeño
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+En este contexto, **SIBUy** invita a publicar, y por tanto compartir, datos de biodiversidad para facilitar la investigación y la gestión de la biodiversidad, disponibilizado también los datos al conjunto de la sociedad. Para la publicación de datos se utiliza un formato estándar globalmente aceptado ([Darwin Core](https://dwc.tdwg.org/terms/)), ofreciendo libre acceso y uso de acuerdo con las licencias de uso establecidas por cada conjunto de datos. En todos los casos los colectores, generadores, y custodios de los datos son quienes reciben el crédito correspondiente.
