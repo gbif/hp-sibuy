@@ -30,10 +30,6 @@ SIBUy es el nodo de **GBIF** en Uruguay. Actualmente está conformado por el [**
 </table>
 
 
-| Museo Nacional de Historia Natural 	| Ministerio de Ambiente 	| Biodiversidata 	|
-|-	|-	|-	|
-| foto 	| foto 	| foto 	|
-
 ## Los objetivos del nodo son: 
 
 1. Impulsar y fomentar la movilización de los datos sobre biodiversidad en el país.
