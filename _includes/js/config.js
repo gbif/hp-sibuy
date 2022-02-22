@@ -5,9 +5,9 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 var siteConfig = {
     occurrence: {
       mapSettings: {
-        lat: -32.689529,
-        lng: -55.999250,
-        zoom: 6
+        lat: -34.531472,
+        lng: -54.288967,
+        zoom: 3
       },
       rootPredicate: {
         "type": "and",
@@ -25,6 +25,6 @@ var siteConfig = {
         ] 
      },
     highlightedFilters: ['taxonKey', 'stateProvince', 'year', 'basisOfRecord', 'publishingOrg', 'datasetName','occurrenceIssue'],
-    occurrenceSearchTabs: ['TABLE',  'MAP','GALLERY', 'DATASETS']
+    occurrenceSearchTabs: ['TABLE',  'MAP', 'GALLERY', 'DATASETS']
   }
 };
