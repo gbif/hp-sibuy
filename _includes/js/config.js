@@ -8,8 +8,8 @@ var siteConfig = {
         lat: -32.689529,
         lng: -55.999250,
         zoom: 0.10
-    }
-    rootPredicate: {
+      },
+      rootPredicate: {
         "type": "and",
         "predicates": [
    		    {
@@ -22,8 +22,8 @@ var siteConfig = {
             "key": "notIssues",
             "value": "COUNTRY_COORDINATE_MISMATCH"
           }
-        ]
-      },
+       ] 
+     },
     highlightedFilters: ['taxonKey', 'stateProvince', 'year', 'basisOfRecord', 'publishingOrg', 'datasetName','occurrenceIssue'],
     occurrenceSearchTabs: ['TABLE',  'MAP','GALLERY', 'DATASETS']
   }
