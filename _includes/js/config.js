@@ -8,23 +8,23 @@ var siteConfig = {
         lat: -32.689529,
         lng: -55.999250,
         zoom: 0.10
-      }
+    }
     rootPredicate: {
-    "type": "and",
-    "predicates": [
-   		{
-        "type":"equals",
-        "key": "country",
-        "value": "UY"
+        "type": "and",
+        "predicates": [
+   		    {
+            "type":"equals",
+            "key": "country",
+            "value": "UY"
+          },
+          {
+            "type": "equals",
+            "key": "notIssues",
+            "value": "COUNTRY_COORDINATE_MISMATCH"
+          }
+        ]
       },
-      {
-        "type": "equals",
-        "key": "notIssues",
-        "value": "COUNTRY_COORDINATE_MISMATCH"
-      }
-    ]
-  },
-    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'],
-    highlightedFilters: ['taxonKey', 'stateProvince', 'year', 'basisOfRecord', 'publishingOrg', 'datasetName','occurrenceIssue']
+    highlightedFilters: ['taxonKey', 'stateProvince', 'year', 'basisOfRecord', 'publishingOrg', 'datasetName','occurrenceIssue'],
+    occurrenceSearchTabs: ['TABLE',  'MAP','GALLERY', 'DATASETS']
   }
 };
