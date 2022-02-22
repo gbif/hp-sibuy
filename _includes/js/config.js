@@ -3,7 +3,13 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 
 var siteConfig = {
-  rootPredicate: {
+  occurrence: {
+    mapSettings: {
+      lat: -32.689529,
+      lng: -55.999250,
+      zoom: 0.10
+    }
+    rootPredicate: {
     "type": "and",
     "predicates": [
    		{
@@ -17,5 +23,7 @@ var siteConfig = {
         "value": "COUNTRY_COORDINATE_MISMATCH"
       }
     ]
+  },
+    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS']
   }
 };
