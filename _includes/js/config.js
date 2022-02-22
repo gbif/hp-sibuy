@@ -7,7 +7,7 @@ var siteConfig = {
       mapSettings: {
         lat: -32.689529,
         lng: -55.999250,
-        zoom: 0.10
+        zoom: 6
       },
       rootPredicate: {
         "type": "and",
