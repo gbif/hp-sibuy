@@ -3,12 +3,12 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 
 var siteConfig = {
-  occurrence: {
-    mapSettings: {
-      lat: -32.689529,
-      lng: -55.999250,
-      zoom: 0.10
-    }
+    occurrence: {
+      mapSettings: {
+        lat: -32.689529,
+        lng: -55.999250,
+        zoom: 0.10
+      }
     rootPredicate: {
     "type": "and",
     "predicates": [
@@ -24,6 +24,7 @@ var siteConfig = {
       }
     ]
   },
-    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS']
+    occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'],
+    highlightedFilters: ['taxonKey', 'stateProvince', 'year', 'basisOfRecord', 'publishingOrg', 'datasetName','occurrenceIssue']
   }
 };
