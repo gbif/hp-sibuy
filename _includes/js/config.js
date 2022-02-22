@@ -12,7 +12,7 @@ var siteConfig = {
       rootPredicate: {
         "type": "and",
         "predicates": [
-   		    {
+          {
             "type":"equals",
             "key": "country",
             "value": "UY"
@@ -22,7 +22,7 @@ var siteConfig = {
             "key": "notIssues",
             "value": "COUNTRY_COORDINATE_MISMATCH"
           }
-       ] 
+        ] 
      },
     highlightedFilters: ['taxonKey', 'stateProvince', 'year', 'basisOfRecord', 'publishingOrg', 'datasetName','occurrenceIssue'],
     occurrenceSearchTabs: ['TABLE',  'MAP','GALLERY', 'DATASETS']
