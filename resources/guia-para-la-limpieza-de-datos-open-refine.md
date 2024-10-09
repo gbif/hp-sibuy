@@ -1,9 +1,7 @@
 ---
 layout: default
 title: "Guía para la limpieza de datos (Open Refine)"
-description: ""
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F110871053%2Foriginal.jpg%3F1611360477
-toc: true
+description: "Guía para la limpieza de datos (Open Refine)"
 ---
 
 # Guía para la limpieza de datos (Open Refine)
@@ -12,4 +10,4 @@ toc: true
 
 El objetivo de esta guía en Español es mostrar cómo utilizar algunas de las funciones básicas de OpenRefine que pueden utilizarse para evaluar y mejorar la calidad de datos de biodiversidad.
 
-[Accedé a la guía](https://docs.gbif.org/sensitive-species-best-practices/master/en/){: .button .is-primary}
+[Accedé a la guía](https://docs.gbif.org/openrefine-guide/3.0/es/){: .button .is-primary target="_blank"}
