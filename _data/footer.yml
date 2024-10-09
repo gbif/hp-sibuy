@@ -3,25 +3,34 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Integrantes Nodo GBIF Uruguay
-    description: | # Can be Markdown
-      [<img src="/assets/images/logoMA.png style="width: 220px"/>](https://www.gub.uy/ministerio-ambiente)
-      [<img src="/assets/images/logoMNHN.png" style="width: 220px"/>](https://www.mna.gub.uy/innovaportal/v/3811/14/mecweb/museo-nacional-de-historia-natural)
-  
-  - name: Enlaces
+  - name: Nodo GBIF Uruguay
     links:
-    - text: Preguntas frecuentes
-      href: /faq/
+    - text: Ministerio de Ambiente
+      href: https://www.gub.uy/ministerio-ambiente/inicio
+    - text: Museo Nacional de Historia Natural
+      href: https://www.mnhn.gub.uy/
+    - text: Biodiversidata
+      href: https://biodiversidata.org/es
 
-  - name: Contacto
-      * Juncal 1385
-      * 2917 3380
-      * Uruguay 
-    connectIcons: false
+  - name: Code
+    description: | # Can be Markdown
+      Este proyecto es de código abierto
 
-# Small print license statement to add at the bottom of the footer. Can be Markdown
-# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
-# Will be postfixed by "Powered by GBIF"
-# (Disabled by default, remove the '#' lines on the following two lines to enable.)
-#license: >
-#  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+  - name: Contact
+    description: | # Can be Markdown
+      Social icons links defined in `_config.yml`
+      * Street name
+      * 1234 postal code
+      * Country
+    connectIcons: true
+
+  # EXAMPLE
+  #- name: Group name
+  #  description: |
+  #    An optional description. Can be markdown
+  #  links: # optional as well
+  #  - text: link title
+  #    href: http://example.com
+  #  - text: link title 2
+  #    href: http://example2.com
+  #  connectIcons: true # optional - show social icons (defined in _config.yml)

@@ -2,7 +2,7 @@
 title: "Publicación reciente: Hotspots de biodiversidad en Uruguay"
 date: 2020-12-15 15:00:00
 categories: ["Tetrápodos", "Hotspots"]
-background: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/-Comadreja_colorada_chica_%28Monodelphis_dimidiata%29%2C_Uruguay%2C_2020.jpg/673px--Comadreja_colorada_chica_%28Monodelphis_dimidiata%29%2C_Uruguay%2C_2020.jpg
+background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F59405704%2Foriginal.jpeg%3F1578702003
 ---
 
 # Múltiples tipos de *hotspots* de biodiversidad de tetrápodos y los desafíos de la escasez de datos de acceso abierto

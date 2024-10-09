@@ -6,6 +6,34 @@
 - text: Datos
   href: /data
   
+- text: Preguntas Frecuentes
+  menu: # Dropdown menu (one level deep only)
+  - text: ¿Por qué compartir datos de biodiversidad?
+    href: /faq/por-que-compartir-datos-de-biodiversidad
+  - text: ¿Qué datos se pueden compartir? 
+    href: /faq/que-datos-se-pueden-compartir
+  - text: ¿Qué son los estándares de datos de biodiversidad? 
+    href: /faq/que-son-los-estandares-de-datos-de-biodiversidad
+  - text: ¿Cómo pueden aportar los datos a la toma de decisiones? 
+    href: /faq/como-pueden-aportar-los-datos-a-la-toma-de-decisiones
+  - text: ¿Cómo puedo convertirme en publicador de datos?
+    href: /faq/como-puedo-convertirme-en-publicador-de-datos
+  - text: ¿Quiénes pueden utilizar datos y cómo puedo descargarlos?
+    href: /faq/quienes-pueden-utilizar-datos-y-como-puedo-descargarlos
+
+#- text: Links
+#  menu: # Dropdown menu (one level deep only)
+#  - text: Base theme demo
+#    href: https://hp-base-theme.gbif-staging.org/
+#  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+#  - text: "Documentación" # Title for block of menu items
+#  - text: Estándares de datos
+#    href: https://www.gbif.org/es/standards
+#  - text: Markdown tutorial
+#    href: https://guides.github.com/features/mastering-markdown/
+#  - text: YAML tutorial
+#    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
   - text: Estándar Darwin Core
@@ -23,8 +51,5 @@
   - text: Guía para la limpieza de datos
     href: /resources/guia-para-la-limpieza-de-datos-open-refine
  
-- text: Barcoding
-  href: /about
-
 - text: Noticias
   href: /news/

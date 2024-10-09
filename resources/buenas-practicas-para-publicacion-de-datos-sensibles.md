@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Buenas prácticas para publicación de datos sensibles"
-description: "Buenas prácticas para publicación de datos sensibles"
+description: ""
+background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F110871053%2Foriginal.jpg%3F1611360477
+toc: true
 ---
 
 # Buenas prácticas para publicación de datos sensibles
@@ -12,4 +14,4 @@ A principios de 2006, **GBIF** inició un proceso para abordar este problema, es
 
 Este documento tiene como objetivo proporcionar las mejores prácticas para tratar con datos sensibles de ocurrencia de especies, y proporcionar orientación sobre cómo hacer que la mayor cantidad de datos esté disponible sin al mismo tiempo abrir la especie al daño porque los datos se han colocado en el dominio público. 
 
-[Accedé al documento](https://docs.gbif.org/sensitive-species-best-practices/master/en/){: .button .is-primary target="_blank"}
+[Accedé al documento](https://docs.gbif.org/sensitive-species-best-practices/master/en/){: .button .is-primary}

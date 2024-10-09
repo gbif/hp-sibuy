@@ -21,7 +21,9 @@
 title: SIBUy # the title of your site should go here
 email: your-email@example.com
 description: >- # this means to ignore newlines (until baseurl:)
-  Acá podrán encontrar información abierta de registros sobre la biodiversidad de Uruguay aportada por los miembros del nodo uruguayo en GBIF y otros publicadores de datos. Los datos publicados a través de este portal son de uso público.
+  Descripcion del sitio. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-sibuy.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -50,7 +52,7 @@ siteMeasurements:
 
 algae:
   rootLang: es
-  latestPostLimit: 2
+  # latestPostLimit: 2
   # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
