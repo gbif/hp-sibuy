@@ -3,24 +3,23 @@ lang-ref: home
 layout: home
 title: SIB Uruguay
 description: Biodiversity Information System of Uruguay
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/58912610/original.jpeg
-imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+background: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tucu_tucu_%28Ctenomys_pearsoni%29%2C_Uruguay%2C_2022.jpg/1280px-Tucu_tucu_%28Ctenomys_pearsoni%29%2C_Uruguay%2C_2022.jpg
+imageLicense: CC BY 4.0
+  *Ctenomys pearsoni* (Tucu Tucu). Museo Nacional de Historia Natural de Uruguay via Wikimedia Commons
 cta:
-  - text: Explore data
-    href: /en/data
+  - text: Data
+    href: /data
     isPrimary: true
   - text: About
-    href: /en/about
-permalink: /en
+    href: /about
+permalink: /
 ---
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+# Welcome!
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+Here you can find open information on Uruguay's biodiversity records contributed by members of the Uruguay node in GBIF and other data publishers.  
+The data published through this portal are for public use.
+
+**Do you want to share your data? Here we tell you how to do it**
+
+[How to participate?](faq/#cómo-puedo-convertirme-en-una-organización-publicador-de-datos){: .button .is-primary}

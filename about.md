@@ -1,21 +1,21 @@
 ---
-lang-ref: Acerca de
-title: SIBUy
+lang-ref: about
+title: Acerca del SIBUy
 description: Bienvenidos y bienvenidas!
 background: /assets/images/about.JPG
 imageLicense: |
-  Photo by 
+  Foto por 
     jmass via [gbif.org](https://www.gbif.org/occurrence/2573800569)
 height: 80vh
 ---
 
 ## Portal de Datos sobre Biodiversidad de Uruguay
 
-La Infraestructura Mundial de Información en Biodiversidad ([**GBIF**](http://www.gbif.org/), por sus siglas en inglés), fundada y financiada por los gobiernos en el 2001, es la iniciativa multilateral más grande del mundo, creada para facilitar el acceso libre a datos sobre biodiversidad a través de Internet.
+La Infraestructura Mundial de Información en Biodiversidad ([**GBIF**](http://www.gbif.org/){: target="_blank"}, por sus siglas en inglés), fundada y financiada por los gobiernos en el 2001, es la iniciativa multilateral más grande del mundo, creada para facilitar el acceso libre a datos sobre biodiversidad a través de Internet.
 
 La misión de GBIF consiste en promover y facilitar el acceso libre y gratuito a datos sobre biodiversidad en todo el mundo, a través de Internet, para apoyar a la ciencia, la conservación y el desarrollo sostenible. 
 
-SIBUy es el nodo de **GBIF** en Uruguay. Actualmente está conformado por el [**Ministerio de Ambiente**](https://www.gub.uy/ministerio-ambiente/inicio) y el [**Museo Nacional de Historia Natural**](https://www.mnhn.gub.uy/). 
+SIBUy es el nodo de **GBIF** en Uruguay. Actualmente está conformado por el [**Ministerio de Ambiente**](https://www.gub.uy/ministerio-ambiente/inicio){: target="_blank"} y el [**Museo Nacional de Historia Natural**](https://www.mnhn.gub.uy/){: target="_blank"}. 
 
 ## Los objetivos del nodo son: 
 

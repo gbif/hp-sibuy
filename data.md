@@ -1,6 +1,6 @@
 ---
 lang-ref: data
 title: Data
-description: We publish open data
+description: Publicamos datos abiertos
 layout: occurrence
 ---

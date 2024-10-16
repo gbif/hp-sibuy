@@ -1,4 +1,5 @@
 ---
+lang-ref: faq
 layout: default
 title: "Preguntas frecuentes"
 description: "En esta sección podés encontrar información sobre el SIBUy."
