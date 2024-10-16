@@ -5,8 +5,8 @@
 columns:
   - name: Integrantes Nodo GBIF Uruguay
     description: | # Can be Markdown
-      [<img src="/assets/images/logoMA.png style="width: 220px"/>](https://www.gub.uy/ministerio-ambiente)
-      [<img src="/assets/images/logoMNHN.png" style="width: 220px"/>](https://www.mna.gub.uy/innovaportal/v/3811/14/mecweb/museo-nacional-de-historia-natural)
+      [<img src="/assets/images/logoMA.png" alt="Logo Ministerio de Ambiente" style="width: 220px"/>](https://www.gub.uy/ministerio-ambiente)
+      [<img src="/assets/images/logoMNHN.png" alt="Logo Museo de Historia Natural" style="width: 220px"/>](https://www.mna.gub.uy/innovaportal/v/3811/14/mecweb/museo-nacional-de-historia-natural)
   
   - name: Enlaces
     links:
@@ -14,9 +14,11 @@ columns:
       href: /faq/
 
   - name: Contacto
+    description: |
       * Juncal 1385
       * 2917 3380
-      * Uruguay 
+      * Uruguay
+      * Administrador del nodo SIBUy 
     connectIcons: false
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
