@@ -1,9 +1,7 @@
 ---
 layout: default
 title: "Plantilla para publicación de datos"
-description: "..."
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F110871053%2Foriginal.jpg%3F1611360477
-toc: true
+description: "Plantilla para publicación de datos"
 ---
 
 # Plantilla para publicación de datos

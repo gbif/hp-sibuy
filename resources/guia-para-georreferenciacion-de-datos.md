@@ -1,9 +1,7 @@
 ---
 layout: default
 title: "Guía para georreferenciación de datos"
-description: ""
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F110871053%2Foriginal.jpg%3F1611360477
-toc: true
+description: "Guía para georreferenciación de datos"
 ---
 
 # Guía para georreferenciación de datos
@@ -12,4 +10,4 @@ La guía de referencia rápida de georreferenciación explica cómo implementar 
 
 Este documento cubre los requisitos y métodos recomendados para georreferenciar ubicaciones. Proporcionando una guía práctica para implementar la teoría del método de georreferenciación de punto-radio.
 
-[Descargá la guía](https://docs.gbif.org/georeferencing-quick-reference-guide/1.0/en/georeferencing-quick-reference-guide.en.pdf){: .button .is-primary}
+[Descargá la guía](https://docs.gbif.org/georeferencing-quick-reference-guide/1.0/en/georeferencing-quick-reference-guide.en.pdf){: .button .is-primary target="_blank"}
