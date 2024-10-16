@@ -4,7 +4,10 @@
   href: /about
   
 - text: Data
-  href: /data
+  href: /occurrence/search
+
+- text: Institutions
+  href: /institution/search
   
 - text: Resources
   menu: # Dropdown menu (one level deep only)
