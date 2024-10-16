@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: SIB Uruguay
 description: Sistema de Información sobre la Biodiversidad de Uruguay
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F60070380%2Foriginal.jpeg%3F1579695925
+background: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tucu_tucu_%28Ctenomys_pearsoni%29%2C_Uruguay%2C_2022.jpg/1280px-Tucu_tucu_%28Ctenomys_pearsoni%29%2C_Uruguay%2C_2022.jpg
 imageLicense: CC-BY
   *Microgramma squamulosa* (Kaulf.) de la Sota. Photo by Florencia Grattarola via [iNaturalist](https://www.gbif.org/occurrence/2574046426)
 cta:
