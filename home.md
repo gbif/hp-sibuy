@@ -21,4 +21,4 @@ Los datos publicados a través de este portal son de uso público.
 
 **¿Querés compartir tus datos? Aquí te contamos cómo hacerlo**
 
-[¿Cómo participar?](/faq/como-puedo-convertirme-en-publicador-de-datos){: .button .is-primary}
+[¿Cómo participar?](faq/#cómo-puedo-convertirme-en-una-organización-publicador-de-datos){: .button .is-primary}
