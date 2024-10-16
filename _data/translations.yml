@@ -4,3 +4,20 @@ relatedPosts:
 differentLanguage:
   es: "Esta página está disponible en los siguientes idiomas"
   en: "This page is available in following languages"
+searchOccurrences:
+  es: Buscar ocurrencias
+  en: Search occurrences
+tocTitle:
+  es: "En esta página"
+  en: "On this page"
+terms:
+  es: |
+    Este sitio web usa cookies, algunas son técnicamente necesarias otras mejoran la experiencia de usuario. Puede rechazar las cookies no esenciales seleccionando “Rechazar”. Consulte la [Política de Privacidad](/privacy) del sitio web para obtener más información.
+  en: |
+    We use cookies on our website. Some are technically necessary, while others help us improve your user experience. You can decline non-essential cookies by selecting “Reject”. Please see our [Privacy Policy](/privacy) for further information about our privacy practices and use of cookies.
+acceptTerms:
+  es: 'Aceptar'
+  en: 'Accept'
+rejectTerms:
+  es: 'Rechazar'
+  en: 'Reject'
