@@ -1,5 +1,6 @@
 ---
 lang-ref: home
+lang: es
 layout: home
 title: SIB Uruguay
 description: Sistema de Información sobre la Biodiversidad de Uruguay
