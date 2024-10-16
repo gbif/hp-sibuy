@@ -1,3 +1,6 @@
 es:
   label: Español
   icon:  # optional
+en:
+  label: English
+  icon:  # optional
