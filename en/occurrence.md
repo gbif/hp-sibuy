@@ -1,7 +1,7 @@
 ---
 lang-ref: occurrence/search
-title: Búsqueda de datos
+title: Occurrence search
 description: We publish open data
 layout: occurrence
-permalink: /occurrence/search
+permalink: /en/occurrence/search
 ---
