@@ -4,10 +4,16 @@
   href: /about
   
 - text: Datos
-  href: /occurrence/search
+  menu:
+  - text: Registros
+    href: /occurrence/search
+  - text: Listas de especies
+    href: /dataset/search?type=CHECKLIST
+  - text: Mapa de ocurrencias
+    href: /occurrence/search/?view=MAP
 
-- text: Instituciones
-  href: /institution/search
+- text: Colecciones
+  href: /collection/search
   
 - text: Recursos
   menu: # Dropdown menu (one level deep only)

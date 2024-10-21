@@ -4,10 +4,16 @@
   href: /about
   
 - text: Data
-  href: /occurrence/search
+  menu:
+  - text: Ocurrences
+    href: /occurrence/search
+  - text: Checklist
+    href: /dataset/search?type=CHECKLIST
+  - text: Ocurrences map
+    href: /occurrence/search/?view=MAP   
 
-- text: Institutions
-  href: /institution/search
+- text: Collections
+  href: /collection/search
   
 - text: Resources
   menu: # Dropdown menu (one level deep only)
