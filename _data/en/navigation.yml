@@ -1,24 +1,24 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: About
-  href: /about
+  href: /en/about
   
 - text: Data
   menu:
   - text: Ocurrences
-    href: /occurrence/search
+    href: /en/occurrence/search
   - text: Checklist
-    href: /dataset/search?type=CHECKLIST
+    href: /en/dataset/search?type=CHECKLIST
   - text: Ocurrences map
-    href: /occurrence/search/?view=MAP   
+    href: /en/occurrence/search/?view=MAP   
 
 - text: Collections
-  href: /collection/search
+  href: /en/collection/search
   
 - text: Resources
   menu: # Dropdown menu (one level deep only)
   - text: Darwin Core Standard
-    href: /resources/estandar-darwin-core
+    href: /resources/estandar-darwin-core.md
   - text: Template for data publishing
     href: /resources/plantilla-para-publicacion-de-datos
   - text: IPT Manual (Integrated Publishing Toolkit) 
@@ -33,7 +33,7 @@
     href: /resources/guia-para-la-limpieza-de-datos-open-refine
  
 - text: Barcoding
-  href: /about
+  href: /en/about
 
 - text: News
   href: /news/

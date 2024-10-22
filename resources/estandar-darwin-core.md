@@ -3,7 +3,6 @@ layout: default
 title: Estándar Darwin Core
 description: Conocé sus elementos, definiciones y extensiones
 toc: true
-permalink: /estandar-darwin-core
 ---
 
 # Estándar Darwin Core
