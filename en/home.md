@@ -17,11 +17,11 @@ cta:
 permalink: /en
 composition:
   - type: heroImage
-  - data: sections.stats
+  - data: en.sections.stats
     type: stats
-  - data: sections.welcome
+  - data: en.sections.welcome
     type: split
-  - type: sections.checklist
+  - type: en.sections.checklist
     data: features
   - type: latestPosts
     data: we_do_not_want_any_header
