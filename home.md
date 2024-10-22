@@ -20,8 +20,8 @@ composition:
     type: stats
   - data: sections.welcome
     type: split
-  - type: sections.checklist
-    data: features
+  - data: sections.checklist
+    type: features
   - type: latestPosts
     data: we_do_not_want_any_header
 ---
