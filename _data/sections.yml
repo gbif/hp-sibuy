@@ -15,13 +15,13 @@ stats:
       href: /collection/search
 welcome:
   reverse: true
-  title: Bienvenidos y bienvenidas!
+  title: ¡Bienvenidos y bienvenidas!
   description: |
-    Acá podrán encontrar información abierta de registros sobre la biodiversidad de Uruguay aportada por los miembros del nodo uruguayo en GBIF y otros publicadores de datos.  
-    Los datos publicados a través de este portal son de uso público.
+    Here you can find open information on Uruguay's biodiversity records contributed by members of the Uruguay node in GBIF and other data publishers.  
+    The data published through this portal are for public use.
   background: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Misto_%28Sicalis_luteola%29%2C_Uruguay%2C_2019.jpg/523px-Misto_%28Sicalis_luteola%29%2C_Uruguay%2C_2019.jpg
   imageLicense: |
-    CC BY 4.0 - <em>Sicalis luteola</em> (Misto). Por Enrique González, Museo Nacional de Historia Natural de Uruguay. 2019. Via Wikimedia Commons.
+    CC BY 4.0 - <em>Sicalis luteola</em> (Misto). By Enrique González, Museo Nacional de Historia Natural de Uruguay. 2019. Via Wikimedia Commons.
   cta: 
     - text: ¿Querés compartir tus datos?
       href: /faq/#cómo-puedo-convertirme-en-una-organización-publicador-de-datos

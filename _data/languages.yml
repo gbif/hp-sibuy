@@ -1,6 +1,8 @@
 es:
   label: Español
   icon:  # optional
+  widgetLocale: es
 en:
   label: English
   icon:  # optional
+  widgetLocale: en

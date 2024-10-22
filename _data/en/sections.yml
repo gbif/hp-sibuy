@@ -1,0 +1,48 @@
+stats:
+  klass: contentTypesStat
+  features:
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY">1700000</span>
+      description: Ocurrences
+      background: assets/images/icons/ocurrences.png
+      href: /occurrence/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&hostingCountry=UY">2</span>
+      description: Checklists
+      background: assets/images/icons/checklists.png
+      href: /dataset/search?type=CHECKLIST
+    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?country=UY&displayOnNHCPortal=true">15</span>
+      description: Collections
+      background: assets/images/icons/collections.png
+      href: /collection/search
+welcome:
+  reverse: true
+  title: Welcome!
+  description: |
+    Acá podrán encontrar información abierta de registros sobre la biodiversidad de Uruguay aportada por los miembros del nodo uruguayo en GBIF y otros publicadores de datos.  
+    Los datos publicados a través de este portal son de uso público.
+  background: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Misto_%28Sicalis_luteola%29%2C_Uruguay%2C_2019.jpg/523px-Misto_%28Sicalis_luteola%29%2C_Uruguay%2C_2019.jpg
+  imageLicense: |
+    CC BY 4.0 - <em>Sicalis luteola</em> (Misto). Por Enrique González, Museo Nacional de Historia Natural de Uruguay. 2019. Via Wikimedia Commons.
+  cta: 
+    - text: Do you want to share your data?
+      href: /faq/#cómo-puedo-convertirme-en-una-organización-publicador-de-datos
+checklist:
+  title: Checklistdee
+  description: |
+    You will find the lists of species published by the National Directorate of Biodiversity and Ecosystem Services of the Ministry of Environment.
+  features:
+    - preTitle: Red list
+      title: Species of Uruguayan fauna evaluated and reported in Red Lists
+      description: |
+        This list compiles the fauna species evaluated and reported in the Red Lists of Uruguay, published by the Ministry of Environment. The species that were part of the assessments of the conservation status of the avifauna (Aspiro, Alfaro & Jiménez, 2012) and herpetofauna (Carreira & Maneyro, 2015) of Uruguay, based on the criteria of the International Union for Conservation of Nature, are shared.
+      background: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Amphisbaena_darwinii_Uruguay%2C_2020.jpg/640px-Amphisbaena_darwinii_Uruguay%2C_2020.jpg
+      imageLicense: |
+        CC BY SA 4.0 - <em>Amphisbaena darwinii</em> (Misto). By Enrique González, Museo Nacional de Historia Natural de Uruguay. 2020. Via Wikimedia Commons.
+      href: https://www.gbif.org/dataset/1d68f3a2-6b42-437d-a0f7-e850d74e0e9f#description
+    - preTitle: Amphibians
+      title: List of Amphibians of Uruguay
+      description: |
+        Taxonomic list of the amphibians of Uruguay
+      background: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cururu_%28Rhinella_schneideri%29_en_la_noche%2C_Uruguay%2C_2019.jpg/442px-Cururu_%28Rhinella_schneideri%29_en_la_noche%2C_Uruguay%2C_2019.jpg
+      imageLicense: |
+        CC BY 4.0 - <em>Rhinella schneideri</em> (Cururu). By Enrique González, Museo Nacional de Historia Natural de Uruguay. 2019. Via Wikimedia Commons.
+      href: https://www.gbif.org/dataset/e5ee77ad-627f-440f-a9b5-b87fb78e1aaa
