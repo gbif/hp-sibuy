@@ -3,15 +3,15 @@ stats:
   features:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY">1700000</span>
       description: Registros biológicos
-      background: /assets/images/icons/ocurrences.svg
-      href: /ocurrence/search/
+      background: assets/images/icons/ocurrences.png
+      href: /occurrence/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&hostingCountry=UY">2</span>
       description: Listas de especies
-      background: /assets/images/icons/datasets.svg
+      background: assets/images/icons/checklists.png
       href: /dataset/search?type=CHECKLIST
     - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?country=UY&displayOnNHCPortal=true">15</span>
       description: Colecciones
-      background: /assets/images/icons/collections.svg
+      background: assets/images/icons/collections.png
       href: /collection/search
 welcome:
   reverse: true
@@ -30,14 +30,16 @@ checklist:
   description: |
     Encontrá los listados de especies publicados por la Dirección Nacional de Biodiversidad y Servicios Ecosistémicos del Ministerio de Ambiente.
   features:
-    - title: Especies de fauna del Uruguay evaluadas y reportadas en Listas Rojas
+    - preTitle: Listas rojas
+      title: Especies de fauna del Uruguay evaluadas y reportadas en Listas Rojas
       description: |
         La presente lista compila las especies de fauna evaluadas y reportadas en las Listas Rojas del Uruguay, publicadas por el Ministerio de Ambiente. Se comparten así las especies que hicieron parte de las evaluaciones del estado de conservación de la avifauna (Aspiro, Alfaro & Jiménez, 2012) y la herpetofauna (Carreira & Maneyro, 2015) de Uruguay, con base en los criterios de la Unión Internacional para la Conservación de la Naturaleza.
       background: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Amphisbaena_darwinii_Uruguay%2C_2020.jpg/640px-Amphisbaena_darwinii_Uruguay%2C_2020.jpg
       imageLicense: |
         CC BY SA 4.0 - <em>Amphisbaena darwinii</em> (Misto). Por Enrique González, Museo Nacional de Historia Natural de Uruguay. 2020. Via Wikimedia Commons.
       href: https://www.gbif.org/dataset/1d68f3a2-6b42-437d-a0f7-e850d74e0e9f#description
-    - title: Lista de Anfibios de Uruguay
+    - preTitle: Anfibios
+      title: Lista de Anfibios de Uruguay
       description: |
         Listado taxonómico de los anfibios de Uruguay
       background: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cururu_%28Rhinella_schneideri%29_en_la_noche%2C_Uruguay%2C_2019.jpg/442px-Cururu_%28Rhinella_schneideri%29_en_la_noche%2C_Uruguay%2C_2019.jpg
