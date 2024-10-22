@@ -24,6 +24,6 @@ composition:
     data: sections.welcome
   - type: split
     data: sections.checklist
-  - type: lastestPosts
+  - type: latestPosts
     data: we_do_not_want_any_header
 ---
