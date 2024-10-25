@@ -27,6 +27,11 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 - La documentación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
 - La documentación oficial y en inglés de las extensiones: [https://rs.gbif.org/extensions.html](https://rs.gbif.org/extensions.html){:target="_blank"}
 
+*Fuentes:*
+- Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, et al. (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. [](https://doi.org/10.1371/journal.pone.0029715)
+- Darwin Core Maintenance Group. 2021. Darwin Core Quick Reference Guide. Biodiversity Information Standards (TDWG). [](https://dwc.tdwg.org/terms/)
+- SiB Colombia (2020, abril 10) Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: [](https://biodiversidad.co/)
+
 *Fecha de última actualización: mayo de 2024.*
 
 ## Categorías DwC
