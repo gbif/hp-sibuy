@@ -821,8 +821,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador de la región geográfica, división político administrativa o del sitio específico donde se realizó el registro. |
-| Comentarios | Se sugiere utilizar un identificador persistente, como el código de la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"} precedida por "CO:" o utilizar MarineRegions [(https://www.marineregions.org/)](https://www.marineregions.org/){:target="_blank"} para regiones marinas, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> http://marineregions.org/mrgid/32556 (Islas del Rosario) |
-| Ejemplo | CO:15572<br> CO:68<br> http://marineregions.org/mrgid/32556<br> geonames.org/3674545/ |
+| Comentarios | Se sugiere utilizar un código o identificador persistente, como los códigos de departamento del Instituo Geográfico Militar (IGM) [(https://igm.gub.uy/geoportal/codigos-departamentos/)](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} o utilizar MarineRegions [(https://www.marineregions.org/)](https://www.marineregions.org/){:target="_blank"} para regiones marinas, como se muestra a continuación:<br><br> UYAR (Código IGM para el Departamento de 'Artigas')<br> http://marineregions.org/mrgid/8467 (Zona Económica Exclusiva de Uruguay) |
+| Ejemplo | http://marineregions.org/mrgid/25370<br> UYCA<br>|
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -832,7 +832,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de la geografía inmediatamente superior al sitio o ubicación donde se realizó el registro. Si hay modificaciones en la localidad para estandarizar su contenido puede documentar en este elemento los datos originales (sin estandarizar) de esos términos. |
 | Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América \| Sudamérica \| Colombia \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco (Con los valores resultantes de América del Sur en continent, Colombia en country, Valle del Cauca en stateProvince, La Cumbre en county y Bitaco en municipality). |
-| Ejemplo | América \| Sudamérica \| Colombia \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco |
+| Ejemplo | América \| Sudamérica \| Uruguay \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco |
 | Elementos relacionados | higherGeographyID, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -842,7 +842,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador de la región geográfica inmediatamente superior a la ubicación donde se realizó el registro. Este identificador debe ser acorde con la geografía superior documentada en el elemento higherGeography. |
-| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como el código de la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"} precedida por "CO:" o el Tesauro Getty de Nombres Geográficos, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> TGN: 7005075 (San Agustín (Huila), Colombia) |
+| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como los códigos de departamento del Instituo Geográfico Militar (IGM) [(https://igm.gub.uy/geoportal/codigos-departamentos/)](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} {:target="_blank"} precedida por "CO:" o el Tesauro Getty de Nombres Geográficos, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> TGN: 7005075 (San Agustín (Huila), Colombia) |
 | Ejemplo | CO:15572<br> CO:68<br> TGN: 7005075 |
 | Elementos relacionados | higherGeography, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
