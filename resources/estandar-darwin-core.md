@@ -24,13 +24,13 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 -    _**Core (Obligatoriedad)**_: _core_ al que hace parte el **elemento** y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio).
 -    **Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlados. Adicionalmente, en este campo se puede hacer un redireccionamiento al listado y definiciones de los vocabularios controlados del **elemento**.
 
-- La documentación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
-- La documentación oficial y en inglés de las extensiones: [https://rs.gbif.org/extensions.html](https://rs.gbif.org/extensions.html){:target="_blank"}
+- La documentación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/)
+- La documentación oficial y en inglés de las extensiones: [https://rs.gbif.org/extensions.html](https://rs.gbif.org/extensions.html)
 
 *Fuentes:*
-- Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, et al. (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. [](https://doi.org/10.1371/journal.pone.0029715)
-- Darwin Core Maintenance Group. 2021. Darwin Core Quick Reference Guide. Biodiversity Information Standards (TDWG). [](https://dwc.tdwg.org/terms/)
-- SiB Colombia (2020, abril 10) Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: [](https://biodiversidad.co/)
+- Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, et al. (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. [https://doi.org/10.1371/journal.pone.0029715](https://doi.org/10.1371/journal.pone.0029715)
+- Darwin Core Maintenance Group. 2021. Darwin Core Quick Reference Guide. Biodiversity Information Standards (TDWG). [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/)
+- SiB Colombia (2020, abril 10) Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: [https://biodiversidad.co/](https://biodiversidad.co/)
 
 *Fecha de última actualización: mayo de 2024.*
 
