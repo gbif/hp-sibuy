@@ -11,7 +11,7 @@ columns:
   - name: Links
     links:
     - text: FAQ
-      href: /faq/
+      href: /en/faq/
 
   - name: Contact
     description: |

@@ -1,8 +1,8 @@
 ---
 lang-ref: faq
 layout: default
-title: "Preguntas frecuentes"
-description: "En esta sección podés encontrar información sobre el SIBUy."
+title: Preguntas frecuentes
+description: En esta sección podés encontrar información sobre el SIBUy.
 permalink: /faq/
 toc: true
 ---
@@ -44,12 +44,14 @@ El estándar **Darwin Core** (DwC) ofrece un marco estable, sencillo y flexible 
 - [Manual de Darwin Core del SiB Colombia](https://biodiversidad.co/elementos-darwin-core){:target="_blank"}
  
 ### Plinian Core
+
 El estándar **Plinian Core** (PliC) es un estándar para compartir información principalmente a nivel de especie. Fue concebido como una forma de publicar información sobre especies y hacerla interoperable. Por 'información de especies' nos referimos a todo tipo de propiedades y rasgos relacionados con los taxones (de cualquier rango), incluidas descripciones, nomenclatura, estado de conservación, manejo, historia natural, etc. Por lo tanto, el alcance de Plinian Core va más allá de las descripciones taxonómicas. 
 
 - [Conoce más sobre el Plinian Core](https://github.com/tdwg/PlinianCore/wiki/About){:target="_blank"}
  
 ### EML
-**EML** o *Ecological Metadata Language*, es un estándar para metadatos que recoge información sobre conjuntos de datos ecológicos en una serie de documentos XML modulares y extensibles. Todas las descripciones de los conjuntos de datos disponibles a través de GBIF.org se basan en 'metadatos' — es decir, la información sobre los datos — y utilizan el estándar **EML** de código abierto, que administra y mantiene [*The Knowledge Network for Biocomplexity](https://knb.ecoinformatics.org/){:target="_blank"}.
+
+**EML** o *Ecological Metadata Language*, es un estándar para metadatos que recoge información sobre conjuntos de datos ecológicos en una serie de documentos XML modulares y extensibles. Todas las descripciones de los conjuntos de datos disponibles a través de GBIF.org se basan en 'metadatos' — es decir, la información sobre los datos — y utilizan el estándar **EML** de código abierto, que administra y mantiene [The Knowledge Network for Biocomplexity](https://knb.ecoinformatics.org/){:target="_blank"}.
 
 Cada *Darwin Core Archive* incluye como uno de sus componentes un archivo **EML** (escrito en formato XML). Este perfil del EML es conocido como Perfil de Metadatos de GBIF o GMP (GBIF Metadata Profile)
  
@@ -57,7 +59,8 @@ Cada *Darwin Core Archive* incluye como uno de sus componentes un archivo **EML*
 - [Estándar EML](https://eml.ecoinformatics.org/){:target="_blank"}
   
 ### BioCASe / ABCD
-El [*Biological Collection Access Service](http://www.biocase.org/){:target="_blank"} (Servicio de Acceso a Colecciones Biológicas), comúnmente conocido como **BioCASe**, es una red internacional que vincula datos de colecciones biológicas de museos de historia natural, jardines botánicos / zoológicos e instituciones de investigación. **BioCASe** se basa en el estándar de intercambio de datos de *Access to Biological Collections Data* (ABCD) (Acceso a Datos de Colecciones Biológicas), que TDWG también administra.
+
+El [Biological Collection Access Service](http://www.biocase.org/){:target="_blank"} (Servicio de Acceso a Colecciones Biológicas), comúnmente conocido como **BioCASe**, es una red internacional que vincula datos de colecciones biológicas de museos de historia natural, jardines botánicos / zoológicos e instituciones de investigación. **BioCASe** se basa en el estándar de intercambio de datos de *Access to Biological Collections Data* (ABCD) (Acceso a Datos de Colecciones Biológicas), que TDWG también administra.
 
 - [Protocolo BioCASe](http://www.biocase.org/products/protocols){:target="_blank"}
 - [Acceso de los usuarios de los datos de BioCASe a través de GBIF.org](http://www.biocase.org/whats_biocase/gbif_downloads.cgi?view=2){:target="_blank"}
@@ -65,7 +68,7 @@ El [*Biological Collection Access Service](http://www.biocase.org/){:target="_bl
 
 # ¿Cómo puedo convertirme en una organización publicador de datos?
 
-El kit de herramientas de publicación integrado (IPT) es una herramienta de software de código abierto gratuito escrita en Java que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través de la red GBIF. El siguiente video (idioma inglés) es una demostración sobre cómo un conjunto de datos se publica y registra correctamente a través de GBIF.org
+El kit de herramientas de publicación integrado (IPT) es una herramienta de software de código abierto gratuito escrita en Java que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través de la red GBIF. El siguiente video (idioma inglés) es una demostración sobre cómo un conjunto de datos se publica y registra correctamente a través de GBIF.org.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eDH9IoTrMVE?si=UfFDxVGLLYkALSZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
