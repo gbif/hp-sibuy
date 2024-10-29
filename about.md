@@ -27,14 +27,3 @@ SIBUy es el nodo de **GBIF** en Uruguay. Actualmente está conformado por el [**
 
 El nodo de Uruguay en GBIF forma parte de la red de América Latina y el Caribe, donde con países de la región coordinamos acciones conjuntas de cooperación y capacitación para promover la movilización de datos sobre biodiversidad.
 
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <th class="orga1"><img src="/assets/images/logoMA.png" alt="Logo Ministerio de Ambiente" class="profile-pic" style="width:200px"></th>
-    <th class="orga2"><img src="/assets/images/logoMNHN.png" alt="Logo Nacional de Historia Natural" class="profile-pic" style="width:200px"></th>
-  </tr>
-  <tr>
-    <td><a href="https://www.gub.uy/ministerio-ambiente/">Ministerio de Ambiente</a></td>
-    <td><a href="https://www.mna.gub.uy/innovaportal/v/3811/14/mecweb/museo-nacional-de-historia-natural">Museo Nacional de Historia Natural</a></td>
-  </tr>
-</table>
-
