@@ -1,6 +1,6 @@
 ---
 title: Colecciones
-description: We publish open data
+description: Colecciones que son parte del SIBuy
 permalink: /collection/_key_
 layout: collection-key
 ---

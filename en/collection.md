@@ -1,6 +1,6 @@
 ---
-title: Data
-description: We publish open data
+title: Collections
+description: Collections that are part of SIBuy
 permalink: /en/collection/search
 layout: collection-search
 lang-ref: collection/search
