@@ -1,6 +1,6 @@
 ---
 title: Conjuntos de datos
-description: We publish open data
+description: Conjuntos de datos por parte del SIBUy
 permalink: /dataset/_key_
 layout: dataset-key
 ---

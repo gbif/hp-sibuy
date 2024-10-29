@@ -1,6 +1,6 @@
 ---
 title: Datasets
-description: We publish open data
-permalink: /dataset/_key_
+description: Datasets by the SIBUy
+permalink: /en/dataset/_key_
 layout: dataset-key
 ---

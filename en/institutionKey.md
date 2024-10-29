@@ -1,6 +1,6 @@
 ---
 title: Institution
-description: Institution search
+description: Institutions within SIBUy
 permalink: /en/institution/_key_
 layout: institution-key
 ---

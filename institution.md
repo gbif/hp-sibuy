@@ -1,7 +1,6 @@
 ---
-title: Intituciones
-description: We publish open data
-permalink: /en/institution/search
+title: Instituciones
+description: Instituciones dentro del SIBUy
+permalink: /institution/search
 layout: institution-search
-lang-ref: institution/search
 ---
