@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Guía para la limpieza de datos (Open Refine)"
-description: "Guía para la limpieza de datos (Open Refine)"
+title: Guía para la limpieza de datos (Open Refine)
+description: Guía para la limpieza de datos (Open Refine)
+lang-ref: refine
+lang: es
 ---
 
 # Guía para la limpieza de datos (Open Refine)
@@ -10,4 +12,4 @@ description: "Guía para la limpieza de datos (Open Refine)"
 
 El objetivo de esta guía en Español es mostrar cómo utilizar algunas de las funciones básicas de OpenRefine que pueden utilizarse para evaluar y mejorar la calidad de datos de biodiversidad.
 
-[Accedé a la guía](https://docs.gbif.org/openrefine-guide/3.0/es/){: .button .is-primary target="_blank"}
+[Accedé a la guía](https://docs.gbif.org/openrefine-guide/3.0/es/guia-para-la-limpieza-de-datos-sobre-biodiversidad-con-openrefine.es.pdf){: .button .is-primary target="_blank"}

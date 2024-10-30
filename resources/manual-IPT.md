@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Manual IPT"
-description: "Kit de herramientas de publicación integrada"
+title: Manual IPT
+description: Kit de herramientas de publicación integrada
+lang-ref: ipt
+lang: es
 ---
 
 # Manual IPT (Kit de herramientas de publicación integrada)
@@ -13,5 +15,4 @@ Este manual tiene tres componentes principales:
 2. Una serie de tutoriales paso a paso y una guía de referencia completa que incluye una sección de 'introducción'.
 3. Secciones que describen en detalle los diferentes elementos de la herramienta.
 
-
-[Accedé al manual](https://ipt.gbif.org/manual/en/ipt/latest/){: .button .is-primary target="_blank"}
+[Accedé al manual](https://ipt.gbif.org/manual/es/ipt/latest/){: .button .is-primary target="_blank"}

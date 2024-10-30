@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Plantilla para publicación de datos"
-description: "Plantilla para publicación de datos"
+title: Plantilla para publicación de datos
+description: Plantilla para publicación de datos
+lang-ref: publish
+lang: es
 ---
 
 # Plantilla para publicación de datos
