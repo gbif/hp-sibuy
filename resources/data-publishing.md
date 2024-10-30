@@ -2,7 +2,7 @@
 layout: default
 title: Plantilla para publicación de datos
 description: Plantilla para publicación de datos
-lang-ref: publish
+lang-ref: data-publishing
 lang: es
 ---
 

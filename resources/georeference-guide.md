@@ -2,7 +2,7 @@
 layout: default
 title: Guía para georreferenciación de datos
 description: Guía para georreferenciación de datos
-lang-ref: georref
+lang-ref: georeference-guide
 lang: es
 ---
 
