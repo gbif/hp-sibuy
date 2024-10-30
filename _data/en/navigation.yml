@@ -18,7 +18,7 @@
 - text: Resources
   menu: # Dropdown menu (one level deep only)
   - text: Darwin Core Standard
-    href: /resources/estandar-darwin-core
+    href: /en/resources/estandar-darwin-core
   - text: Template for data publishing
     href: /en/resources/data-publishing
   - text: IPT Manual (Integrated Publishing Toolkit) 
