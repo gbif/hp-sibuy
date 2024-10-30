@@ -2,7 +2,7 @@
 layout: default
 title: Guía para la limpieza de datos (Open Refine)
 description: Guía para la limpieza de datos (Open Refine)
-lang-ref: refine
+lang-ref: open-refine
 lang: es
 ---
 

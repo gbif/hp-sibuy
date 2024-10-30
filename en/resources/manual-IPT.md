@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Manual IPT
-description: Kit de herramientas de publicación integrada
+title: IPT (Integrated Publishing Toolkit) Manual
+description: IPT (Integrated Publishing Toolkit) Manual
 lang-ref: ipt
 lang: en
 ---

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Guía para georreferenciación de datos
-description: Guía para georreferenciación de datos
-lang-ref: georref
+title: Guide for georeferencing data
+description: Guide for georeferencing data
+lang-ref: georeference-guide
 lang: en
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Buenas prácticas para publicación de datos sensibles
-description: Buenas prácticas para publicación de datos sensibles
-lang-ref: sensible
+title: Best practices for publishing sensitive data
+description: Best practices for publishing sensitive data
+lang-ref: sensible-data
 lang: en
 ---
 

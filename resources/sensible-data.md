@@ -2,7 +2,7 @@
 layout: default
 title: Buenas prácticas para publicación de datos sensibles
 description: Buenas prácticas para publicación de datos sensibles
-lang-ref: sensible
+lang-ref: sensible-data
 lang: es
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Buenas prácticas para georreferenciación
 description: Buenas prácticas para georreferenciación
-lang-ref: practices
+lang-ref: georeferencing-practices
 lang: es
 ---
 

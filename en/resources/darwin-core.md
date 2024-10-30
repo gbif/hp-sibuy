@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Estándar Darwin Core
-description: Conocé sus elementos, definiciones y extensiones
+title: Darwin Core Standard
+description: Know its elements, definitions and extensions
 lang-ref: dwc
-lang: es
+lang: en
 toc: true
 ---
 
