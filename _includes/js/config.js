@@ -46,7 +46,7 @@ var siteConfig = {
       displayOnNHCPortal: true,
       active: true
     },
-    excludedFilters: ['countrySingleGrSciColl'],// no reason to show a filter on country, when there is only one
+    excludedFilters: ['code','countrySingleGrSciColl','collectionDescriptorCountry'],// no reason to show a filter on country, when there is only one
   },
   institution: {
     rootFilter: {
