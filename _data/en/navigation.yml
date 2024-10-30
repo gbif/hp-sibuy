@@ -18,19 +18,19 @@
 - text: Resources
   menu: # Dropdown menu (one level deep only)
   - text: Darwin Core Standard
-    href: /resources/estandar-darwin-core.md
+    href: /resources/estandar-darwin-core
   - text: Template for data publishing
-    href: /en/resources/data-publishing.md
+    href: /en/resources/data-publishing
   - text: IPT Manual (Integrated Publishing Toolkit) 
     href: /en/resources/manual-IPT
   - text: Best practices for georeferencing
-    href: /en/resources/georeferencing-practices.md
+    href: /en/resources/georeferencing-practices
   - text: Guide for georeferencing data
-    href: /en/resources/georeference-guide.md
+    href: /en/resources/georeference-guide
   - text: Best practices for publication of sensitive data
-    href: /en/resources/sensible-data.md
+    href: /en/resources/sensible-data
   - text: Data Cleansing Guide
-    href: /en/resources/open-refine.md
+    href: /en/resources/open-refine
  
 - text: Barcoding
   href: /en/about
