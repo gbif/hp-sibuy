@@ -19,15 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: SIBUy # the title of your site should go here
-email: your-email@example.com
+email: biodiversidad@ambiente.gub.uy
 description: >- # this means to ignore newlines (until baseurl:)
   Acá podrán encontrar información abierta de registros sobre la biodiversidad de Uruguay
   aportada por los miembros del nodo uruguayo en GBIF y otros publicadores de datos. 
   Los datos publicados a través de este portal son de uso público.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-sibuy.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 theme: minima
