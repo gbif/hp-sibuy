@@ -1,7 +1,7 @@
 ---
-lang-ref: occurrence/search
 title: Búsqueda de datos
-description: We publish open data
+description: Datos del Uruguay en SIBuy
 layout: occurrence
 permalink: /occurrence/search
+lang-ref: occurrence/search
 ---
