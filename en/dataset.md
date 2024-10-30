@@ -1,7 +1,7 @@
 ---
 title: Datasets
-description: Datasets
+description: Datasets by the SIBUy
 permalink: /en/dataset/search
 layout: dataset
-noindex: true
+lang-ref: dataset/search
 ---
