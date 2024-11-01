@@ -833,7 +833,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de la geografía inmediatamente superior al sitio o ubicación donde se realizó el registro. Si hay modificaciones en la localidad para estandarizar su contenido puede documentar en este elemento los datos originales (sin estandarizar) de esos términos. |
-| Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América \| América del Sur \| Uruguay \| Región Metropolitanao \| Montevideo (Con los valores resultantes de América del Sur en continent, Colombia en country, Montevideo en stateProvince.|
+| Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América \| América del Sur \| Uruguay \| Región Metropolitanao \| Montevideo (Con los valores resultantes de América del Sur en continent, Uruguay en country, Montevideo en stateProvince.|
 | Ejemplo | América \| América del Sur \| Uruguay \| Región Metropolitana \| Montevideo|
 | Elementos relacionados | higherGeographyID, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
@@ -844,7 +844,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador de la región geográfica inmediatamente superior a la ubicación donde se realizó el registro. Este identificador debe ser acorde con la geografía superior documentada en el elemento higherGeography. |
-| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como los [(códigos de departamento del Instituo Geográfico Militar (IGM))](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} o el [Tesauro Getty de Nombres Geográficos](https://www.getty.edu/research/tools/vocabularies/tgn/){:target="_blank"} , como se muestra en el ejemplo a continuación:<br><br>
+| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como los [códigos de departamento del Instituto Geográfico Militar (IGM)](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} o el [Tesauro Getty de Nombres Geográficos](https://www.getty.edu/research/tools/vocabularies/tgn/){:target="_blank"} , como se muestra en el ejemplo a continuación:<br><br>
 
 | Ejemplo | <br> UYAR<br> [[http://vocab.getty.edu/page/tgn/7002639](http://vocab.getty.edu/page/tgn/7002639){:target="_blank"}|
 | Elementos relacionados | higherGeography, continent, country, stateProvince, county, municipality |
