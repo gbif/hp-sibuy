@@ -26,13 +26,13 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 -    _**Core (Obligatoriedad)**_: _core_ al que hace parte el **elemento** y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio).
 -    **Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlados. Adicionalmente, en este campo se puede hacer un redireccionamiento al listado y definiciones de los vocabularios controlados del **elemento**.
 
-- La documentación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/)
-- La documentación oficial y en inglés de las extensiones: [https://rs.gbif.org/extensions.html](https://rs.gbif.org/extensions.html)
+- La documentación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
+- La documentación oficial y en inglés de las extensiones: [https://rs.gbif.org/extensions.html](https://rs.gbif.org/extensions.html){:target="_blank"}
 
 *Fuentes:*
-- Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, et al. (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. [https://doi.org/10.1371/journal.pone.0029715](https://doi.org/10.1371/journal.pone.0029715)
-- Darwin Core Maintenance Group. 2021. Darwin Core Quick Reference Guide. Biodiversity Information Standards (TDWG). [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/)
-- SiB Colombia (2020, abril 10) Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: [https://biodiversidad.co/](https://biodiversidad.co/)
+- Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, et al. (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. [https://doi.org/10.1371/journal.pone.0029715](https://doi.org/10.1371/journal.pone.0029715){:target="_blank"}
+- Darwin Core Maintenance Group. 2021. Darwin Core Quick Reference Guide. Biodiversity Information Standards (TDWG). [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
+- SiB Colombia (2020, abril 10) Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: [https://biodiversidad.co/](https://biodiversidad.co/){:target="_blank"}
 
 *Fecha de última actualización: mayo de 2024.*
 
@@ -833,8 +833,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de la geografía inmediatamente superior al sitio o ubicación donde se realizó el registro. Si hay modificaciones en la localidad para estandarizar su contenido puede documentar en este elemento los datos originales (sin estandarizar) de esos términos. |
-| Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América \| Sudamérica \| Colombia \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco (Con los valores resultantes de América del Sur en continent, Colombia en country, Valle del Cauca en stateProvince, La Cumbre en county y Bitaco en municipality). |
-| Ejemplo | América \| Sudamérica \| Uruguay \| Región del Pacífico \| Valle del Cauca \| La Cumbre \| Bitaco |
+| Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América \| América del Sur \| Uruguay \| Región Metropolitanao \| Montevideo (Con los valores resultantes de América del Sur en continent, Colombia en country, Montevideo en stateProvince.|
+| Ejemplo | América \| América del Sur \| Uruguay \| Región Metropolitana \| Montevideo|
 | Elementos relacionados | higherGeographyID, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -844,8 +844,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador de la región geográfica inmediatamente superior a la ubicación donde se realizó el registro. Este identificador debe ser acorde con la geografía superior documentada en el elemento higherGeography. |
-| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como los códigos de departamento del Instituo Geográfico Militar (IGM) [(https://igm.gub.uy/geoportal/codigos-departamentos/)](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} {:target="_blank"} precedida por "CO:" o el Tesauro Getty de Nombres Geográficos, como se muestra a continuación:<br><br> CO:15572 (Código Divipola para el Municipio de Puerto Boyacá en Boyacá)<br> CO:68 (Código Divipola para el Departamento de Santander)<br> TGN: 7005075 (San Agustín (Huila), Colombia) |
-| Ejemplo | CO:15572<br> CO:68<br> TGN: 7005075 |
+| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como los [(códigos de departamento del Instituo Geográfico Militar (IGM))](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} o el [Tesauro Getty de Nombres Geográficos](https://www.getty.edu/research/tools/vocabularies/tgn/){:target="_blank"} , como se muestra en el ejemplo a continuación:<br><br>
+
+| Ejemplo | <br> UYAR<br> [[http://vocab.getty.edu/page/tgn/7002639](http://vocab.getty.edu/page/tgn/7002639){:target="_blank"}|
 | Elementos relacionados | higherGeography, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -882,7 +883,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre de la isla en o cerca al lugar de la ubicación. |
-| Ejemplo | Isla de Providencia<br> Isla Gorgona<br> Isla de Tierra Bomba |
+| Ejemplo | Isla de Flores<br> Isla de las Gaviotas<br> Isla San Gabriel |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -890,9 +891,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="country">**country** (País)</a>
 
 | ---: | :--- |
-| Definición | El nombre del país o unidad administrativa de mayor jerarquía de la ubicación. Se recomienda utilizar un identificador persistente de un vocabulario controlado como el Tesauro Getty de Nombres Geográficos o la norma ISO 3166. Se recomienda acompañar este elemento con el elemento countryCode. |
-| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Colombia y Brasil", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality |
-| Ejemplo | Colombia<br> España<br> Dinamarca |
+| Definición | El nombre del país o unidad administrativa de mayor jerarquía de la ubicación. Se recomienda utilizar un identificador persistente de un vocabulario controlado como el [Tesauro Getty de Nombres Geográficos](https://www.getty.edu/research/tools/vocabularies/tgn/){:target="_blank"} o la [Norma ISO 3166](https://www.iso.org/obp/ui/#search){:target="_blank"}. Se recomienda acompañar este elemento con el elemento countryCode. |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Uruguay y Brasil", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality |
+| Ejemplo | Uruguay<br> Colombia<br> Dinamarca |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Obligatorio)_ |
 
 <br>
@@ -901,11 +902,11 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El código estándar para el país de la ubicación. |
-| Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la norma ISO 3166-1-alfa-2 de códigos de países, como se muestra a continuación:<br><br> CO (=Para Colombia)<br> AR (=Para Argentina)<br> La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "CO y BR", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality |
+| Comentarios | Documente este elemento de acuerdo al vocabulario controlado de la [Norma ISO 3166-1-alfa-2](https://www.iso.org/obp/ui/#search){:target="_blank"} de códigos de países, como se muestra a continuación:<br><br> UY (=Para Uruguay)<br> AR (=Para Argentina)<br> La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "UY y BR", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality |
 | Elementos relacionados | country |
-| Ejemplo | Colombia<br> España<br> Dinamarca |
+| Ejemplo | UY<br> CO<br> AR |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
-| [Vocabulario controlado](#vc_countryCode) | Consultar en: [https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO](https://es.wikipedia.org/wiki/ISO_3166-1_alfa-2#CO){:target="_blank"} |
+| [Vocabulario controlado](#vc_countryCode) | Consultar en: [Norma ISO 3166-1-alfa-2](https://www.iso.org/obp/ui/#search){:target="_blank"}|
 
 <br>
 
