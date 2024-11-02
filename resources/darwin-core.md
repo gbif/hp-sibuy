@@ -846,7 +846,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador de la región geográfica inmediatamente superior a la ubicación donde se realizó el registro. Este identificador debe ser acorde con la geografía superior documentada en el elemento higherGeography. |
 | Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como los códigos de departamento del [Instituto Geográfico Militar (IGM)](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} o el [Tesauro Getty de Nombres Geográficos](https://www.getty.edu/research/tools/vocabularies/tgn/){:target="_blank"} , como se muestra en el ejemplo a continuación:<br><br>
 
-| Ejemplo | <br> UYAR<br> [http://vocab.getty.edu/page/tgn/7002639](http://vocab.getty.edu/page/tgn/7002639){:target="_blank"}|
+| Ejemplo | <br> UYAR<br> http://vocab.getty.edu/page/tgn/7002639]|
 | Elementos relacionados | higherGeography, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -923,7 +923,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="county">**county** (Municipio)</a>
 
 | ---: | :--- |
-| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Departamento de la ubicación (_Municipio_). Se recomienda usar los nombres asignados en la [lista Municipios Uruguay de Oficina de Planeamiento y Presupuesto](https://municipios.gub.uy/municipios){:target="_blank"} |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Departamento de la ubicación (_Municipio_). Se recomienda usar los nombres asignados en la [lista de Municipios Uruguay de la Oficina de Planeamiento y Presupuesto](https://municipios.gub.uy/municipios){:target="_blank"} |
 | Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Matojo o Tranqueras", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
 | Ejemplo | Tambores<br> Arévalo<br> Cañas |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
