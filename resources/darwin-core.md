@@ -823,7 +823,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador de la región geográfica, división político administrativa o del sitio específico donde se realizó el registro. |
-| Comentarios | Se sugiere utilizar un código o identificador persistente, como los códigos de departamento del Instituo Geográfico Militar (IGM) [(https://igm.gub.uy/geoportal/codigos-departamentos/)](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} o utilizar MarineRegions [(https://www.marineregions.org/)](https://www.marineregions.org/){:target="_blank"} para regiones marinas, como se muestra a continuación:<br><br> UYAR (Código IGM para el Departamento de 'Artigas')<br> http://marineregions.org/mrgid/8467 (Zona Económica Exclusiva de Uruguay) |
+| Comentarios | Se sugiere utilizar un código o identificador persistente, como los códigos de departamento del [Instituto Geográfico Militar (IGM)](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} o utilizar [MarineRegions](https://www.marineregions.org/){:target="_blank"} para regiones marinas, como se muestra a continuación:<br><br> UYAR (Código IGM para el Departamento de 'Artigas')<br> http://marineregions.org/mrgid/8467 (Zona Económica Exclusiva de Uruguay) |
 | Ejemplo | http://marineregions.org/mrgid/25370<br> UYCA<br>|
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -833,7 +833,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de la geografía inmediatamente superior al sitio o ubicación donde se realizó el registro. Si hay modificaciones en la localidad para estandarizar su contenido puede documentar en este elemento los datos originales (sin estandarizar) de esos términos. |
-| Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América \| América del Sur \| Uruguay \| Región Metropolitanao \| Montevideo (Con los valores resultantes de América del Sur en continent, Uruguay en country, Montevideo en stateProvince.|
+| Comentarios | Este elemento debe estar acompañado de otros elementos del estándar, como se muestra en el ejemplo a continuación:<br><br> América \| América del Sur \| Uruguay \| Región Metropolitana \| Montevideo (Con los valores resultantes de América del Sur en continent, Uruguay en country, Montevideo en stateProvince.|
 | Ejemplo | América \| América del Sur \| Uruguay \| Región Metropolitana \| Montevideo|
 | Elementos relacionados | higherGeographyID, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
@@ -844,9 +844,9 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador de la región geográfica inmediatamente superior a la ubicación donde se realizó el registro. Este identificador debe ser acorde con la geografía superior documentada en el elemento higherGeography. |
-| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como los [códigos de departamento del Instituto Geográfico Militar (IGM)](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} o el [Tesauro Getty de Nombres Geográficos](https://www.getty.edu/research/tools/vocabularies/tgn/){:target="_blank"} , como se muestra en el ejemplo a continuación:<br><br>
+| Comentarios | Se recomienda utilizar un identificador persistente de un vocabulario controlado como los códigos de departamento del [Instituto Geográfico Militar (IGM)](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} o el [Tesauro Getty de Nombres Geográficos](https://www.getty.edu/research/tools/vocabularies/tgn/){:target="_blank"} , como se muestra en el ejemplo a continuación:<br><br>
 
-| Ejemplo | <br> UYAR<br> [[http://vocab.getty.edu/page/tgn/7002639](http://vocab.getty.edu/page/tgn/7002639){:target="_blank"}|
+| Ejemplo | <br> UYAR<br> [http://vocab.getty.edu/page/tgn/7002639](http://vocab.getty.edu/page/tgn/7002639){:target="_blank"}|
 | Elementos relacionados | higherGeography, continent, country, stateProvince, county, municipality |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -913,30 +913,30 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="stateProvince">**stateProvince** (Departamento)</a>
 
 | ---: | :--- |
-| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que País de la ubicación (Departamento). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
-| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Santander y Boyacá", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
-| Ejemplo | Antioquia<br> Atlántico<br> Bogotá, D.C. |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que País de la ubicación (Departamento). Se recomienda usar los nombres asignados en la [lista de departamentos del Instituto Geográfico Militar (IGM)](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Montevideo y Rocha", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
+| Ejemplo | Colonia<br> Rocha<br> Maldonado |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 
 <br>
 
 <a id="county">**county** (Municipio)</a>
 
 | ---: | :--- |
-| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Departamento de la ubicación (Municipio). Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
-| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "San Juan del Cesar o Riohacha", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
-| Ejemplo | Medellín<br> Puerto Colombia<br> Bogotá, D.C. |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Departamento de la ubicación (_Municipio_). Se recomienda usar los nombres asignados en la [lista Municipios Uruguay de Oficina de Planeamiento y Presupuesto](https://municipios.gub.uy/municipios){:target="_blank"} |
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Matojo o Tranqueras", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
+| Ejemplo | Tambores<br> Arévalo<br> Cañas |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 
 <br>
 
-<a id="municipality">**municipality** (Cabecera municipal / Centro poblado)</a>
+<a id="municipality">**municipality** (Centro Poblado / Localidad Censal)</a>
 
 | ---: | :--- |
-| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Municipio de la ubicación. Puede ser un centro poblado, cabecera municipal, corregimiento o inspección de policía. No utilice este elemento para el nombre de un lugar cercano que no contiene la ubicación real. Se recomienda usar los nombres asignados en la División Política Administrativa de Colombia - DANE [(https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD)](https://www.datos.gov.co/api/views/gdxc-w37w/rows.pdf?accessType=DOWNLOAD){:target="_blank"}. |
-| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "San Luis o Punta Sur", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
-| Ejemplo | Palmitas<br> Puerto Colombia<br> Bogotá, D.C. |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Opcional)_ |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que Municipio de la ubicación. Puede ser un Centro Poblado o Localidad Censal. No utilice este elemento para el nombre de un lugar cercano que no contiene la ubicación real. Se recomienda usar los nombres asignados en la [lista de centros poblados/localidades censales del Instituto Geográfico Militar (IGM)](https://igm.gub.uy/geoportal/codigos-centros-poblados/){:target="_blank"}|
+| Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Progreso o San Ramón", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
+| Ejemplo | Pintado<br> Colon<br> Santa Teresa |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Opcional)_ |
 
 <br>
 
@@ -945,7 +945,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | La información geográfica más específica de la ubicación. Información geográfica de menor especificidad puede ser provista en otros elementos geográficos (higherGeography, continent, country, stateProvince, county, municipality, waterBody, island, islandGroup). Este elemento puede contener información modificada de la original para corregir errores o estandarizar la descripción. |
 | Ejemplo | Ruta del Sol, kilómetro 25 entre Guaduas y La Dorada<br> Vereda Santa Ana<br> Quebrada Aguasclaras<br> Parque Nacional Natural Serranía de Chiribiquete |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos  - Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 
 <br>
 
