@@ -19,20 +19,22 @@
   menu: # Dropdown menu (one level deep only)
   - text: Estándar Darwin Core
     href: /resources/darwin-core
-  - text: Plantilla para publicación de datos 
+  - text: Plantillas Darwin Core 
     href: /resources/data-publishing
-  - text: Manual IPT (Kit de herramientas de publicación integrada) 
+  - text: Herramienta de publicación - IPT
     href: /resources/manual-IPT
-  - text: Buenas prácticas para georreferenciación 
-    href: /resources/georeferencing-practices
-  - text: Guía para georreferenciación de datos
-    href: /resources/georeference-guide
-  - text: Buenas prácticas para publicación de datos sensibles
-    href: /resources/sensible-data
-  - text: Guía para la limpieza de datos
-    href: /resources/open-refine
+  - text: Calidad de datos
+    href: /resources/calidad-datos
+#  - text: Buenas prácticas para georreferenciación 
+#    href: /resources/georeferencing-practices
+#  - text: Guía para georreferenciación de datos
+#   href: /resources/georeference-guide
+#  - text: Buenas prácticas para publicación de datos sensibles
+#   href: /resources/sensible-data
+#  - text: Guía para la limpieza de datos
+#   href: /resources/open-refine
 
-- text: Barcoding
+- text: Datos genéticos
   href: /about
 
 - text: Noticias
