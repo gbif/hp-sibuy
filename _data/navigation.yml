@@ -11,9 +11,19 @@
     href: /dataset/search?type=CHECKLIST
   - text: Mapa de ocurrencias
     href: /occurrence/search/?view=MAP
+  - text: Colecciones
+    href: /collection/search
 
-- text: Colecciones
-  href: /collection/search
+
+- text: Publicar
+  menu: # Dropdown menu (one level deep only)
+  - text: Cómo publicar
+    href: /resources/manual-IPT
+  - text: Herramienta de publicación - IPT
+    href: https://cloud.gbif.org/uy/
+  - text: Registrarse como publicador
+    href: https://forms.gle/zibJmZEsJwbxuPok9
+
   
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
@@ -21,8 +31,6 @@
     href: /resources/darwin-core
   - text: Plantillas Darwin Core 
     href: /resources/data-publishing
-  - text: Herramienta de publicación - IPT
-    href: /resources/manual-IPT
   - text: Calidad de datos
     href: /resources/calidad-datos
 #  - text: Buenas prácticas para georreferenciación 
