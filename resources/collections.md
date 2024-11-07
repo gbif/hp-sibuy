@@ -8,7 +8,7 @@ imageLicense: |
   Fotografía de: Biodiversidata [Wikimedia Commons](https:https://en.wikipedia.org/wiki/en:National_Museum_of_Natural_History,_Uruguay)
 toc: true
 parallax: true
-height: 80vh
+height: 50vh
 lang-ref: col
 lang: es
 ---
