@@ -7,10 +7,10 @@
   menu:
   - text: Registros
     href: /occurrence/search
+ - text: Mapa de registros
+    href: /occurrence/search/?view=MAP
   - text: Listas de especies
     href: /dataset/search?type=CHECKLIST
-  - text: Mapa de ocurrencias
-    href: /occurrence/search/?view=MAP
   - text: Colecciones
     href: /collection/search
 
@@ -33,6 +33,8 @@
     href: /resources/data-publishing
   - text: Calidad de datos
     href: /resources/calidad-datos
+  - text: Datos de ADN
+    href: /resources/datos-adn
 #  - text: Buenas prácticas para georreferenciación 
 #    href: /resources/georeferencing-practices
 #  - text: Guía para georreferenciación de datos
@@ -41,9 +43,6 @@
 #   href: /resources/sensible-data
 #  - text: Guía para la limpieza de datos
 #   href: /resources/open-refine
-
-- text: Datos genéticos
-  href: /about
 
 - text: Noticias
   href: /news/
