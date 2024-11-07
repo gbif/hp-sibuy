@@ -4,7 +4,8 @@ title: Colecciones Biológicas
 description: Catálogo nacional de colecciones biológicas de Uruguay
 background: https://upload.wikimedia.org/wikipedia/commons/c/ca/Espec%C3%ADmen_montado_de_Pata_de_Vaca_-_Bauhinia_candicans_%28%3DBauhinia_forficata%29_del_MNHN-Uruguay.jpg
 imageLicense: |
-  Especímen montado de Pata de Vaca - Bauhinia candicans Fotografía de: Biodiversidata [Wikimedia Commons](https:https://en.wikipedia.org/wiki/en:National_Museum_of_Natural_History,_Uruguay)
+  Especímen montado de Pata de Vaca - Bauhinia candicans
+  Fotografía de: Biodiversidata [Wikimedia Commons](https:https://en.wikipedia.org/wiki/en:National_Museum_of_Natural_History,_Uruguay)
 toc: true
 parallax: true
 height: 80vh
