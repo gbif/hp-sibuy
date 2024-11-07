@@ -1,8 +1,5 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Acerca de
-  href: /about
-  
 - text: Datos
   menu:
   - text: Registros
@@ -43,6 +40,9 @@
 #   href: /resources/sensible-data
 #  - text: Guía para la limpieza de datos
 #   href: /resources/open-refine
+
+- text: Acerca de
+  href: /about
 
 - text: Noticias
   href: /news/
