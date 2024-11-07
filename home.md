@@ -3,7 +3,7 @@ layout: home
 klass: home
 title: SIB Uruguay
 description: |
-  Sistema de Información sobre la Biodiversidad de Uruguay.  
+  Sistema de Información sobre la Biodiversidad de Uruguay  
   Nodo Uruguay GBIF
 background: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tucu_tucu_%28Ctenomys_pearsoni%29%2C_Uruguay%2C_2022.jpg/1280px-Tucu_tucu_%28Ctenomys_pearsoni%29%2C_Uruguay%2C_2022.jpg
 imageLicense: |
