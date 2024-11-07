@@ -1,18 +1,19 @@
 ---
-lang-ref: faq
 layout: default
 title: Preguntas frecuentes
 description: En esta sección podés encontrar información sobre el SIBUy.
 permalink: /faq/
 toc: true
+lang-ref: faq
+lang: es
 ---
 En esta sección podés encontrar información sobre el SIBUy.
 
 # ¿Por qué compartir datos de biodiversidad?
 
-La [**Estrategia Nacional de Biodiversidad 2016 - 2020**](https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/estrategia-nacional-biodiversidad-2016-2020){:target="_blank"} destaca las debilidades en la generación y gestión de información como una de las causas subyacentes de pérdida de biodiversidad. La falta de de sistemas de información ambiental, particularmente vinculados a la biodiversidad, siguen siendo una necesidad. En este sentido, la falta de articulación entre instituciones públicas y privadas, tanto del ámbito académico como de la gestión, es una de las mayores debilidades. A su vez, el no contar con un sistema que reúna la información sobre biodiversidad con la que cuenta el país, dificulta los procesos de evaluación ambiental y la identificación de vacíos de información.   
+En Uruguay la falta de sistemas de información ambiental, particularmente vinculados a la biodiversidad, siguen siendo una necesidad. En este sentido, la falta de articulación entre instituciones públicas y privadas, tanto del ámbito académico como de la gestión, es una de las mayores debilidades. A su vez, el no contar con un sistema que reúna la información sobre biodiversidad con la que cuenta el país, dificulta los procesos de evaluación ambiental y la identificación de vacíos de información.   
 
-En este contexto, **SIBUy** invita a publicar, y por tanto compartir, datos de biodiversidad para facilitar la investigación y la gestión de la biodiversidad, disponibilizado también los datos al conjunto de la sociedad. Para la publicación de datos se utiliza un formato estándar globalmente aceptado ([Darwin Core](https://dwc.tdwg.org/terms/){:target="_blank"}), ofreciendo libre acceso y uso de acuerdo con las licencias de uso establecidas por cada conjunto de datos. En todos los casos los colectores, generadores, y custodios de los datos son quienes reciben el crédito correspondiente.
+En este contexto, **SIBUy** invita a publicar, y por tanto compartir, datos de biodiversidad para facilitar la investigación y la gestión de la biodiversidad, disponiendo también los datos al conjunto de la sociedad. Para la publicación de datos se utiliza un formato estándar globalmente aceptado ([Darwin Core](https://dwc.tdwg.org/terms/){:target="_blank"}), ofreciendo libre acceso y aprovechamiento de acuerdo con las licencias de uso establecidas por cada conjunto de datos. En todos los casos los colectores, generadores, y custodios de los datos son quienes reciben el crédito correspondiente.
 
 # ¿Cómo pueden aportar los datos a la toma de decisiones? 
 
@@ -66,11 +67,11 @@ El [Biological Collection Access Service](http://www.biocase.org/){:target="_bla
 - [Acceso de los usuarios de los datos de BioCASe a través de GBIF.org](http://www.biocase.org/whats_biocase/gbif_downloads.cgi?view=2){:target="_blank"}
 
 
-# ¿Cómo puedo convertirme en una organización publicador de datos?
+# ¿Cómo puedo convertirme en una organización publicadora de datos?
 
-El kit de herramientas de publicación integrado (IPT) es una herramienta de software de código abierto gratuito escrita en Java que se utiliza para publicar y compartir conjuntos de datos de biodiversidad a través de la red GBIF. El siguiente video (idioma inglés) es una demostración sobre cómo un conjunto de datos se publica y registra correctamente a través de GBIF.org.
+Las instituciones u organizaciones que quieran publicar sus datos a través del Sistema de Información de Biodiversidad de Uruguay en GBIF.org, deben completar un formulario de registro. Luego de tener la aprobación del nodo GBIF de Uruguay recibirán un usuario para publicar sus datos a través de la herramienta IPT.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eDH9IoTrMVE?si=UfFDxVGLLYkALSZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Puede acceder al formulario [AQUÍ](https://forms.gle/zibJmZEsJwbxuPok9){:target="_blank"}
 
-Las instituciones u organizaciones que quieran publicar sus datos a través del Sistema de Información de Biodiversidad de Uruguay en GBIF.org, deben completar un formulario de registro y luego de tener la aprobación del nodo GBIF de Uruguay recibirán un usuario para publicar sus datos a través de la herramienta IPT - LAC. El IPT-LAC es una herramienta de publicación de datos para los países de América Latina y el Caribe.
+Por cualquier consulta puede mandar un mail a [biodiversidad@ambiente.gub.uy](mailto:biodiversidad@ambiente.gub.uy)
 

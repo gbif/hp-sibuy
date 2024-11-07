@@ -1,18 +1,19 @@
 ---
-lang-ref: faq
 layout: default
 title: FAQ
 description: In this section you can find information about the SIBUy.
 permalink: /en/faq/
 toc: true
+lang-ref: faq
+lang: en
 ---
 In this section you can find information about the SIBUy.
 
 # Why share biodiversity data?
 
-The [**National Biodiversity Strategy 2016 - 2020**](https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/estrategia-nacional-biodiversidad-2016-2020){:target=“_blank”} highlights weaknesses in information generation and management as one of the underlying causes of biodiversity loss. The lack of environmental information systems, particularly linked to biodiversity, remains a necessity. In this sense, the lack of articulation between public and private institutions, both in academia and management, is one of the greatest weaknesses. At the same time, not having a system that gathers information on biodiversity available in the country makes it difficult to carry out environmental assessment processes and to identify information gaps.  
+In Uruguay, the lack of environmental information systems, particularly related to biodiversity, continues to be a necessity. In this sense, the lack of coordination between public and private institutions, both academic and management, is one of the greatest weaknesses. At the same time, not having a system that gathers information on biodiversity available in the country makes environmental evaluation processes and the identification of information gaps difficult.    
 
-In this context, **SIBUy** invites to publish, and therefore share, biodiversity data to facilitate biodiversity research and management, also making the data available to society as a whole. A globally accepted standard format ([Darwin Core](https://dwc.tdwg.org/terms/){:target=“_blank”}) is used for data publication, offering free access and use according to the licenses established for each dataset. In all cases the collectors, generators, and custodians of the data are credited.
+In this context, **SIBUy** invites to publish, and therefore share, biodiversity data to facilitate biodiversity research and management, making the data available to society as a whole. A globally accepted standard format ([Darwin Core](https://dwc.tdwg.org/terms/){:target="_blank"}) is used for data publication, offering free access and use according to the licenses established for each dataset. In all cases the collectors, generators, and custodians of the data receive the corresponding credit.
 
 # How can data contribute to decision-making?  
 
@@ -68,9 +69,9 @@ The [Biological Collection Access Service](http://www.biocase.org/){:target="_bl
 
 # How can I become a data publishing organization?
 
-The Integrated Publishing Toolkit (IPT) is a free open source software tool written in Java that is used to publish and share biodiversity datasets through the GBIF network. The following video is a demonstration of how a dataset is successfully published and recorded through GBIF.org.
+Institutions or organizations that want to publish their data through the Biodiversity Information System of Uruguay in GBIF.org, must complete a registration form. After approval from the Uruguay GBIF node, they will receive a user to publish their data through the IPT tool.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eDH9IoTrMVE?si=UfFDxVGLLYkALSZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+You can access the form [HERE](https://forms.gle/zibJmZEsJwbxuPok9){:target="_blank"}
 
-Institutions or organizations that want to publish their data through the Uruguay Biodiversity Information System in GBIF.org, must complete a registration form and after approval from the Uruguay GBIF node will receive a user to publish their data through the IPT - LAC tool. The IPT-LAC is a data publication tool for Latin American and Caribbean countries.
+For any questions you can send an email to [biodiversidad@ambiente.gub.uy](mailto:biodiversidad@ambiente.gub.uy)
 
