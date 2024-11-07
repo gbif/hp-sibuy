@@ -22,7 +22,7 @@ var siteConfig = {
       zoom: 5
     },
     rootPredicate: {
-      "type": "and",
+      "type": "or",
       "predicates": [
         {
           "type": "equals",
@@ -31,8 +31,8 @@ var siteConfig = {
         },
         {
           "type": "equals",
-          "key": "notIssues",
-          "value": "COUNTRY_COORDINATE_MISMATCH"
+          "key": "publishingCountry",
+          "value": "UY"
         }
       ]
     },
@@ -44,7 +44,6 @@ var siteConfig = {
     rootFilter: {
       country: 'UY',
       displayOnNHCPortal: true,
-      active: true
     },
     excludedFilters: ['code','countrySingleGrSciColl','collectionDescriptorCountry'],// no reason to show a filter on country, when there is only one
   },
