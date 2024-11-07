@@ -5,9 +5,9 @@ title: SIB Uruguay
 description: |
   Biodiversity Information System of Uruguay  
   Uruguay GBIF Node
-background: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tucu_tucu_%28Ctenomys_pearsoni%29%2C_Uruguay%2C_2022.jpg/1280px-Tucu_tucu_%28Ctenomys_pearsoni%29%2C_Uruguay%2C_2022.jpg
+background: /assets/images/flamencos.jpg
 imageLicense: |
-  CC BY 4.0 - <em>Ctenomys pearsoni</em> (Tucu Tucu). By Enrique González, Museo Nacional de Historia Natural de Uruguay. 2022. Via Wikimedia Commons
+  CC BY 4.0 - <em>Phoenicopterus chilensis</em> (Flamencos)
 parallax: true
 lang: en
 lang-ref: home
