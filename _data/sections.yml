@@ -19,9 +19,9 @@ welcome:
   description: |
       Acá podrán encontrar información abierta de registros sobre la biodiversidad de Uruguay aportada por los miembros del nodo uruguayo en GBIF y otros publicadores de datos.  
       Los datos publicados a través de este portal son de uso público.
-  background: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Misto_%28Sicalis_luteola%29%2C_Uruguay%2C_2019.jpg/523px-Misto_%28Sicalis_luteola%29%2C_Uruguay%2C_2019.jpg
+  background: https://upload.wikimedia.org/wikipedia/commons/1/11/Leones_marino_%28Otaria_flavescens%29%2C_Uruguay%2C_2022.jpg
   imageLicense: |
-    CC BY 4.0 - <em>Sicalis luteola</em> (Misto). Por Enrique González, Museo Nacional de Historia Natural de Uruguay. 2019. Via Wikimedia Commons.
+    CC BY 4.0 - <em>Leones marino (Otaria flavescens)</em>. Por Enrique González, Museo Nacional de Historia Natural de Uruguay. 2022. Via Wikimedia Commons.
   cta: 
     - text: ¿Querés compartir tus datos?
       href: /faq/#cómo-puedo-convertirme-en-una-organización-publicador-de-datos
