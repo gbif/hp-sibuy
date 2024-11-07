@@ -12,6 +12,6 @@ lang-ref: barcoding-uy
 lang: es
 ---
 
-## Barcoding Uruguay
+## Datos de ADN
 Aquí se está construyendo la página del Consorcio Barcoding UY
 
