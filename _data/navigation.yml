@@ -9,7 +9,7 @@
   - text: Listas de especies
     href: /dataset/search?type=CHECKLIST
   - text: Colecciones
-    href: /collection/search
+    href: /resources/collections
 
 
 - text: Publicar
