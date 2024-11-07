@@ -1,21 +1,24 @@
 ---
-lang-ref: about
 title: About SIBUy
 description: Welcome!
-background: /assets/images/about.JPG
+background: /assets/images/about.png
 imageLicense: |
-  Photo by 
-    jmass via [gbif.org](https://www.gbif.org/occurrence/2573800569)
-height: 80vh
+  CC BY 4.0
+parallax: true
+height: 75vh
+lang-ref: about
+lang: en
 ---
 
 ## Biodiversity Data Portal of Uruguay
 
-The Global Biodiversity Information Infrastructure ([**GBIF**](http://www.gbif.org/){: target="_blank"}), founded and funded by governments in 2001, is the world's largest multilateral initiative created to facilitate free access to biodiversity data via the Internet.
+The Global Biodiversity Information System ([**GBIF**](http://www.gbif.org/){: target=“_blank”}), founded and funded by several governments in 2001, is the world's largest multilateral initiative created to give anyone, anywhere, open access to data on all forms of life on Earth.
 
-GBIF's mission is to promote and facilitate free and open access to biodiversity data worldwide through the Internet to support science, conservation and sustainable development. 
+GBIF's mission is to mobilize the data, skills and technologies needed to make comprehensive biodiversity information freely available for science and decisions that address biodiversity loss and sustainable development.
 
-SIBUy is the node of **GBIF** in Uruguay. It is currently formed by the [**Ministry of Environment**](https://www.gub.uy/ministerio-ambiente/inicio){: target=“_blank”} and the [**National Museum of Natural History**](https://www.mnhn.gub.uy/){: target="_blank"}. 
+The GBIF network of countries -which are structured as nodes- and participating organizations, provides data-providing institutions around the world with common standards and open source tools that allow them to share information on where and when species have been recorded.
+
+SIBUy is the **GBIF** node in Uruguay and offers free access to data on collections, records and occurrence of species in the country and is currently formed by the [**Ministry of Environment**](https://www.gub.uy/ministerio-ambiente/inicio){: target=“_blank”} and the [**National Museum of Natural History**](https://www.mnhn.gub.uy/){: target=“_blank”}.
 
 ## The objectives of the node are: 
 
@@ -26,5 +29,4 @@ SIBUy is the node of **GBIF** in Uruguay. It is currently formed by the [**Minis
 
 
 The Uruguay node in GBIF is part of the Latin American and Caribbean network, where we coordinate joint cooperation and training actions with countries in the region to promote the mobilization of biodiversity data.
-
 
