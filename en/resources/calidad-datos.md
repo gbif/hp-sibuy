@@ -8,7 +8,7 @@ imageLicense: |
 toc: true
 height: 80vh
 lang-ref: data-quality
-lang: es
+lang: en
 ---
 
 La **calidad de datos** se puede definir como una característica esencial y necesaria para que los datos sean “adecuados para su uso” o tengan un “uso potencial valioso” [(Chapman, 2005)](https://assets.ctfassets.net/uo17ejk9rkwj/2gupj7dJIw62UeOUYiqSsm/0a4bb732bd7fd8cf28f7703dc20a43ba/Data_Quality_-_ENGLISH.pdf){:target="_blank"}.

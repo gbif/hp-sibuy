@@ -16,10 +16,20 @@
   menu: # Dropdown menu (one level deep only)
   - text: Cómo publicar
     href: /resources/manual-IPT
-  - text: Herramienta de publicación - IPT
+  - text: |
+      <span>Herramienta de publicación - IPT
+        <span class="icon-text">
+            <i class="fa fa-link"></i>
+        </span>
+      </span>
     href: https://cloud.gbif.org/uy/
-  - text: Registrarse como publicador
-    href: https://forms.gle/zibJmZEsJwbxuPok9
+  - text: |
+      <span>Registrarse como publicador
+        <span class="icon-text">
+            <i class="fa fa-link"></i>
+        </span>
+      </span>
+    href: https://forms.gle/zibJmZEsJwbxuPok9 
 
   
 - text: Recursos
@@ -35,11 +45,11 @@
 #  - text: Buenas prácticas para georreferenciación 
 #    href: /resources/georeferencing-practices
 #  - text: Guía para georreferenciación de datos
-#   href: /resources/georeference-guide
+#    href: /resources/georeference-guide
 #  - text: Buenas prácticas para publicación de datos sensibles
-#   href: /resources/sensible-data
+#    href: /resources/sensible-data
 #  - text: Guía para la limpieza de datos
-#   href: /resources/open-refine
+#    href: /resources/open-refine
 
 - text: Acerca de
   href: /about

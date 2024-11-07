@@ -1,38 +1,57 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
-  href: /en/about
-  
 - text: Data
   menu:
   - text: Ocurrences
     href: /en/occurrence/search
-  - text: Checklist
-    href: /en/dataset/search?type=CHECKLIST
   - text: Ocurrences map
     href: /en/occurrence/search/?view=MAP   
+  - text: Checklist
+    href: /en/dataset/search?type=CHECKLIST
+  - text: Collections
+    href: /en/collection/search
 
-- text: Collections
-  href: /en/collection/search
+
+- text: Publish
+  menu: # Dropdown menu (one level deep only)
+  - text: How to publish
+    href: /en/resources/manual-IPT
+  - text: |
+      <span>Publishing tool - IPT
+        <span class="icon-text">
+            <i class="fa fa-link"></i>
+        </span>
+      </span>
+    href: https://cloud.gbif.org/uy/
+  - text: |
+      <span>Register as publisher
+        <span class="icon-text">
+            <i class="fa fa-link"></i>
+        </span>
+      </span>
+    href: https://forms.gle/zibJmZEsJwbxuPok9 
+
   
-- text: Resources
+- text: Recursos
   menu: # Dropdown menu (one level deep only)
   - text: Darwin Core Standard
     href: /en/resources/darwin-core
   - text: Template for data publishing
     href: /en/resources/data-publishing
-  - text: IPT Manual (Integrated Publishing Toolkit) 
-    href: /en/resources/manual-IPT
-  - text: Best practices for georeferencing
-    href: /en/resources/georeferencing-practices
-  - text: Guide for georeferencing data
-    href: /en/resources/georeference-guide
-  - text: Best practices for publication of sensitive data
-    href: /en/resources/sensible-data
-  - text: Data Cleansing Guide
-    href: /en/resources/open-refine
- 
-- text: Barcoding
+  - text: Data quality
+    href: /en/resources/calidad-datos
+  - text: Barcoding UY
+    href: /en/resources/barcoding-uy
+  # - text: Best practices for georeferencing
+  #   href: /en/resources/georeferencing-practices
+  # - text: Guide for georeferencing data
+  #   href: /en/resources/georeference-guide
+  # - text: Best practices for publication of sensitive data
+  #   href: /en/resources/sensible-data
+  # - text: Data Cleansing Guide
+  #   href: /en/resources/open-refine
+
+- text: About
   href: /en/about
 
 - text: News

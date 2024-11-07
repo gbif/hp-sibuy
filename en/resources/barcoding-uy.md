@@ -8,7 +8,7 @@ imageLicense: |
     jmass via 
 height: 80vh
 lang-ref: barcoding-uy
-lang: es
+lang: en
 ---
 
 ## Barcoding Uruguay
