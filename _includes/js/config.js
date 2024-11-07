@@ -25,14 +25,24 @@ var siteConfig = {
       "type": "or",
       "predicates": [
         {
+          "key": "publishingCountry",
           "type": "equals",
-          "key": "country",
           "value": "UY"
         },
         {
-          "type": "equals",
-          "key": "publishingCountry",
-          "value": "UY"
+          "type": "and",
+          "predicates": [
+            {
+              "key": "country",
+              "type": "equals",
+              "value": "UY"
+            },
+            {
+              "key": "notIssues",
+              "type": "equals",
+              "value": "COUNTRY_COORDINATE_MISMATCH"
+            }
+          ]
         }
       ]
     },
