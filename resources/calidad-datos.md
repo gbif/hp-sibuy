@@ -6,6 +6,7 @@ background: https://upload.wikimedia.org/wikipedia/commons/9/9d/Tortuga_morrocoy
 imageLicense: |
   Trachemys dorbigni Fotografía de: Enrique González [Wikimedia Commons](https:https://en.wikipedia.org/wiki/en:National_Museum_of_Natural_History,_Uruguay)
 toc: true
+parallax: true
 height: 80vh
 lang-ref: data-quality
 lang: es

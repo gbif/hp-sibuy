@@ -7,6 +7,7 @@ imageLicense: |
   Trachemys dorbigni Fotografía de: Enrique González [Wikimedia Commons](https:https://en.wikipedia.org/wiki/en:National_Museum_of_Natural_History,_Uruguay)
 toc: true
 height: 80vh
+parallax: true
 lang-ref: data-quality
 lang: en
 ---
