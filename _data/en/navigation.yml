@@ -9,7 +9,7 @@
   - text: Checklist
     href: /en/dataset/search?type=CHECKLIST
   - text: Collections
-    href: /en/collection/search
+    href: /en/resources/collections
 
 
 - text: Publish
@@ -39,7 +39,7 @@
   - text: Template for data publishing
     href: /en/resources/data-publishing
   - text: Data quality
-    href: /en/resources/calidad-datos
+    href: /en/resources/data-quality
   - text: ADN Data
     href: /en/resources/barcoding-uy
   # - text: Best practices for georeferencing
