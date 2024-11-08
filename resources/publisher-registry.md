@@ -2,7 +2,7 @@
 layout: compose
 title: Regístrate como publicador
 description: Las entidades, redes o iniciativas que deseen compartir datos e información pueden registrarse aquí para convertirse en socios publicadores.
-background: https://p1.pxfuel.com/preview/964/177/82/feathers-wing-macro.jpg
+background: https://upload.wikimedia.org/wikipedia/commons/9/9b/Garcitas_bueyeras_%28Bubulcus_ibis%29_sobre_ceibo%2C_Uruguay%2C_2019.jpg
 imageLicense: |
   Vía Pxfuel
 height: 41vh
@@ -13,34 +13,33 @@ composition:
 
 ---
 
-El SiB Colombia, como red nacional de datos abiertos sobre biodiversidad, busca que este tipo de contenidos estén disponibles de forma abierta y universal bajo los principios de libre acceso, cooperación, transparencia, reconocimiento y responsabilidad compartida, aportando a la construcción de una sociedad sostenible.
+En alineación con los principios de GBIF, el SIBUy, como nodo nacional, respalda la publicación de cuatro tipos de conjuntos de datos utilizando estándares reconocidos internacionalmente en biodiversidad.
 
-La publicación de datos a través del SiB Colombia inicia con el registro de la entidad, red o iniciativa a través de este formulario en línea, denominada de aquí en adelante como organización.
+Actualmente, el SIBUy publica exclusivamente datos provenientes de organizaciones. Aquellas personas interesadas en compartir datos relevantes deben hacerlo a través de sus organizaciones afiliadas.
 
-Al completar este formulario con la información solicitada, la organización:
+Para los participantes de proyectos de ciencia ciudadana, es posible publicar sus registros de manera indirecta, colaborando en alguno de los numerosos proyectos globales que comparten sus datos a través de la red de GBIF (como eBird o NaturalistaUY).
 
-  1. Iniciará el proceso formal para publicar sus datos.
-  2. Recibirá apoyo en el proceso de publicación por parte del Equipo Coordinador del SiB Colombia.
-  3. Asegurará que sus conjuntos de datos sean publicados formalmente a su nombre con la información exacta que aquí se consigna.
-  4. Ayudará a los usuarios a comprender más sobre la procedencia de los datos compartidos a través del SiB Colombia.
-  5. Establecerá los contactos oficiales entre la organización y el SiB Colombia.
+Como red nacional de datos abiertos sobre biodiversidad, el SIBUy promueve el acceso libre y universal a estos contenidos bajo principios de acceso abierto, cooperación, transparencia, reconocimiento y responsabilidad compartida, contribuyendo así a la construcción de una sociedad sostenible.
 
-A la fecha, el SiB Colombia únicamente publica datos desde organizaciones y no de personas naturales. Las personas que deseen publicar sus datos, deben trabajar a través de sus organizaciones afiliadas para obtener el respaldo como publicador.
+El proceso para publicar datos en el SIBUy comienza con el registro de la organización, red o iniciativa, a través de un formulario en línea. Esta entidad será referida en adelante como _publicador_.
 
-Si eres una persona natural titular de un permiso de recolección de especímenes, por favor ponte en contacto con el Equipo Coordinador del SiB Colombia a través del correo electrónico sib@humboldt.org.co o al teléfono (1) 3202767 ext. 7152.
+Al completar este formulario, la organización:
 
-Antes de llenar el formulario, asegúrate que tu organización aún no se encuentra registrada como publicador de datos a través del SiB Colombia. [Consulta el listado de organizaciones publicadoras aquí](http://bit.do/socios_sib_colombia). Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de datos.
+  1. Iniciará el proceso formal para la publicación de sus datos.
+  2. Recibirá asistencia en cada paso del proceso de publicación por parte del equipo del SIBUy.
+  3. Garantizará que sus conjuntos de datos se publiquen a su nombre con la información precisa proporcionada.
+  4. Ayudará a los usuarios a comprender mejor la procedencia de los datos compartidos a través del SIBUy.
+  5. Establecerá los contactos oficiales entre su organización y el SIBUy.
 
+Es importante destacar que, hasta la fecha, el SIBUy publica únicamente datos provenientes de organizaciones y no de individuos. Aquellas personas que deseen publicar datos deben hacerlo a través de sus organizaciones afiliadas para obtener el respaldo como publicadores.
+
+Antes de llenar el formulario, asegúrate que tu organización aún no se encuentra registrada como publicador de datos del SIBUy y GBIF. [Consulta el listado de organizaciones publicadoras nacionales aquí](https://www.gbif.org/publisher/search?country=UY). Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de datos.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScP6n8b9roP33eF374CcKsJeVNjRb2JdcwnLsWhTbpjeEOWaQ/viewform?embedded=true" width="640" height="4207" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
 
-En consonancia con GBIF, el SIBUy, como nodo nacional, apoya la publicación de cuatro clases de conjuntos de datos empleando estándares de biodiversidad ampliamente aceptados.
 
-Por el momento, solo se publican directamente datos provenientes de organizaciones. Las personas que deseen publicar conjuntos de datos relevantes deben hacerlo a través de sus organizaciones.
-
-Los participantes en iniciativas de ciencia ciudadana pueden publicar indirectamente sus registros, participando en alguno de los numerosos proyectos que se desarrollan en todo el mundo y que publican sus conjuntos de datos a través de la red de GBIF (e.g. eBird, NaturalistaUY).
-
+<!-- 
 # Asegurar los acuerdos institucionales
 
 Una vez tomada la decisión de compartir sus datos a través del SIBUy, se debe avisar a los coordinadores de la organización sobre el plan de publicar datos en nombre de la institución. Compartir datos a través del SIBUy y GBIF puede incrementar la visibilidad y el impacto global de su institución, añadiéndose a métodos tradicionales como las publicaciones académicas o el préstamo de especímenes para descrubir nuevas oportunidades de colaboración y, mediante el uso de citas basadas en el DOI, vinculados directamente a los usos en investigación (ejemplo).
@@ -90,4 +89,3 @@ Los administradores de colecciones pueden rastrear el uso y las citas de los dat
 Algunas entidades financiadoras ahora exigen que los investigadores que reciben fondos públicos hagan que los datos sean accesibles al final de un proyecto.
 
 [Accedé al manual](https://ipt.gbif.org/manual/es/ipt/latest/){: .button .is-primary target="_blank"}
-
