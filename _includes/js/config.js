@@ -25,9 +25,19 @@ var siteConfig = {
       "type": "or",
       "predicates": [
         {
-          "key": "publishingCountry",
-          "type": "equals",
-          "value": "UY"
+          "type": "and",
+          "predicates": [
+            {
+              "key": "publishingCountry",
+              "type": "equals",
+              "value": "UY"              
+            },
+            {
+              "key": "country",
+              "type": "equals",
+              "value": "UY"              
+            },
+          ]
         },
         {
           "type": "and",
