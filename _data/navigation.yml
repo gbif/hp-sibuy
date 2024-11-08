@@ -15,7 +15,7 @@
 - text: Publicar
   menu: # Dropdown menu (one level deep only)
   - text: Cómo publicar
-    href: /resources/manual-IPT
+    href: /resources/publisher-registry
   - text: |
       <span>Herramienta de publicación - IPT
         <span class="icon-text">
