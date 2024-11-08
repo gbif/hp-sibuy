@@ -1,18 +1,22 @@
 stats:
   klass: contentTypesStat
   features:
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY">1700000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY&country=UY">1500000</span>
       description: Ocurrences
+      background: assets/images/icons/registers.png
+      href: /en/occurrence/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY&country=UY&notIssues=COUNTRY_COORDINATE_MISMATCH">1500000</span>
+      description: Occurrences with coordinates
       background: assets/images/icons/ocurrences.png
-      href: /occurrence/search
-    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&hostingCountry=UY">2</span>
-      description: Checklists
-      background: assets/images/icons/checklists.png
-      href: /dataset/search?type=CHECKLIST
-    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?country=UY&displayOnNHCPortal=true">15</span>
-      description: Collections
+      href: /en/occurrence/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=UY">12</span>
+      description: Datasets
+      background: assets/images/icons/datasets.png
+      href: /en/dataset/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?country=UY&displayOnNHCPortal=true">25</span>
+      description: Registered collections
       background: assets/images/icons/collections.png
-      href: /collection/search
+      href: /en/collection/search
 welcome:
   reverse: true
   title: Welcome!

@@ -1,16 +1,20 @@
 stats:
   klass: contentTypesStat
   features:
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY">1700000</span>
-      description: Registros biológicos
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY&country=UY">1500000</span>
+      description: Registros
+      background: assets/images/icons/registers.png
+      href: /occurrence/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY&country=UY&notIssues=COUNTRY_COORDINATE_MISMATCH">1500000</span>
+      description: Registros con coordenadas
       background: assets/images/icons/ocurrences.png
       href: /occurrence/search
-    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&hostingCountry=UY">2</span>
-      description: Listas de especies
-      background: assets/images/icons/checklists.png
-      href: /dataset/search?type=CHECKLIST
-    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?country=UY&displayOnNHCPortal=true">15</span>
-      description: Colecciones
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=UY">12</span>
+      description: Conjuntos de datos
+      background: assets/images/icons/datasets.png
+      href: /dataset/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?country=UY&displayOnNHCPortal=true">25</span>
+      description: Colecciones registradas
       background: assets/images/icons/collections.png
       href: /collection/search
 welcome:
