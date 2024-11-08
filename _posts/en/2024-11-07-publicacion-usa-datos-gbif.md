@@ -1,7 +1,7 @@
 ---
 title: Scientific publication with participation of researchers from Uruguay used data from GBIF
 date: 2024-07-11 00:00:00
-categories: [Publicaciones, Puma concolor, Datos]
+categories: [Publication, Puma concolor, Data]
 background: /assets/images/news/img7.jpg
 imageLicense: CC BY 4.0
 lang: en
