@@ -8,7 +8,7 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY&country=UY&hasCoordinate=true">1500000</span>
       description: Registros con coordenadas
       background: assets/images/icons/ocurrences.png
-      href: /occurrence/search
+      href: /occurrence/search/search?hasCoordinate=true
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=UY">12</span>
       description: Conjuntos de datos
       background: assets/images/icons/datasets.png
