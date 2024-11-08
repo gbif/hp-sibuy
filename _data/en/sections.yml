@@ -5,7 +5,7 @@ stats:
       description: Ocurrences
       background: assets/images/icons/registers.png
       href: /en/occurrence/search
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY&country=UY&notIssues=COUNTRY_COORDINATE_MISMATCH">1500000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY&country=UY&hasCoordinate=true">1500000</span>
       description: Occurrences with coordinates
       background: assets/images/icons/ocurrences.png
       href: /en/occurrence/search
