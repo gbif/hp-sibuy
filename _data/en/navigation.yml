@@ -32,7 +32,7 @@
     href: https://forms.gle/zibJmZEsJwbxuPok9 
 
   
-- text: Recursos
+- text: Resources
   menu: # Dropdown menu (one level deep only)
   - text: Darwin Core Standard
     href: /en/resources/darwin-core
@@ -55,4 +55,4 @@
   href: /en/about
 
 - text: News
-  href: /news/
+  href: /en/news/
