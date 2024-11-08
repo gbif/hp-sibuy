@@ -22,37 +22,12 @@ var siteConfig = {
       zoom: 5
     },
     rootPredicate: {
-      "type": "or",
+      "type": "and",
       "predicates": [
         {
-          "type": "and",
-          "predicates": [
-            {
-              "key": "publishingCountry",
-              "type": "equals",
-              "value": "UY"              
-            },
-            {
-              "key": "country",
-              "type": "equals",
-              "value": "UY"              
-            },
-          ]
-        },
-        {
-          "type": "and",
-          "predicates": [
-            {
-              "key": "country",
-              "type": "equals",
-              "value": "UY"
-            },
-            {
-              "key": "notIssues",
-              "type": "equals",
-              "value": "COUNTRY_COORDINATE_MISMATCH"
-            }
-          ]
+          "type": "equals",
+          "key": "country",
+          "value": "UY"
         }
       ]
     },
