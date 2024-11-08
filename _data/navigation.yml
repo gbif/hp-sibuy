@@ -23,14 +23,6 @@
         </span>
       </span>
     href: https://cloud.gbif.org/uy/
-  - text: |
-      <span>Registrarse como publicador
-        <span class="icon-text">
-            <i class="fa fa-link"></i>
-        </span>
-      </span>
-    href: https://forms.gle/zibJmZEsJwbxuPok9 
-
   
 - text: Recursos
   menu: # Dropdown menu (one level deep only)
