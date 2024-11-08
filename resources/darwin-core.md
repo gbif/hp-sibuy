@@ -1,10 +1,18 @@
 ---
-layout: default
+layout: compose
 title: Estándar Darwin Core
 description: Conocé sus elementos, definiciones y extensiones
+background: https://upload.wikimedia.org/wikipedia/commons/8/87/Caparazon_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg
 lang-ref: dwc
 lang: es
 toc: true
+imageLicense: |
+  Vía Pxfuel
+height: 41vh
+composition: 
+  - type: heroImage
+  - type: blank
+  - type: pageMarkdown
 ---
 
 # Estándar Darwin Core
@@ -32,7 +40,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 *Fuentes:*
 - Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, et al. (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. [https://doi.org/10.1371/journal.pone.0029715](https://doi.org/10.1371/journal.pone.0029715){:target="_blank"}
 - Darwin Core Maintenance Group. 2021. Darwin Core Quick Reference Guide. Biodiversity Information Standards (TDWG). [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
-- SiB Colombia (2020, abril 10) Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: [https://biodiversidad.co/](https://biodiversidad.co/){:target="_blank"}
+- SiB Colombia (2024, octubre 10) Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: [https://biodiversidad.co/](https://biodiversidad.co/){:target="_blank"}
 
 *Fecha de última actualización: mayo de 2024.*
 
@@ -76,8 +84,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="institutionCode">**institutionCode** (Código de la institución)</a>
 
 | ---: | :--- |
-| Definición | El nombre completo de la institución que custodia el espécimen o la información del registro; seguido por su acrónimo en paréntesis, si tiene. |
-| Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS)<br> Universidad de Antioquia (UdeA)<br> Jardín Botánico de Bogotá José Celestino Mutis (JBB) |
+| Definición | El acrónimo de la institución que custodia el espécimen o la información del registro. Si la organización no cuenta con un acrónimo se puede poner el nombre completo |
+| Ejemplo | UdelaR (para _Universidad de la República_) <br> MNHN (para _Museo Nacional de Historia Natural_) |
 | Elementos relacionados | institutionID |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Recomendado)_ |
 
@@ -86,8 +94,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="institutionID">**institutionID** (ID de la institución)</a>
 
 | ---: | :--- |
-| Definición | Un identificador, preferiblemente el NIT, de la institución registrada en el elemento institutionCode. |
-| Ejemplo | 586.697.465-1<br> 890.105.528-3<br> 860.030.197-0 |
+| Definición | Un identificador de la institución registrada en el elemento _institutionCode_. Si corresponde a una colección ya registrada en el Catálogo nacional de colecciones de Uruguay emplear el identificador asignado |
+| Ejemplo | 334f6c8d-5727-446c-a8c9-afcceb142c33 (para _Museo Nacional de Historia Natural_) |
 | Elementos relacionados | institutionCode |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -96,8 +104,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="collectionCode">**collectionCode** (Código de la colección)</a>
 
 | ---: | :--- |
-| Definición | El nombre, acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Aunque es válido el uso del acrónimo que implemente la colección internamente se recomienda hacer uso del acrónimo registrado en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search){:target="_blank"}<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"} |
-| Ejemplo | COL<br> ANDES-E<br> FMB |
+| Definición | El acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Aunque es válido el uso del acrónimo que implemente la colección internamente se recomienda hacer uso del acrónimo registrado en el:<br><br> [Catálogo nacional de colecciones de Uruguay –GRSciColl](https://hp-sibuy.gbif-staging.org/resources/collections/){:target="_blank"}|
+| Ejemplo | MVFA<br> MNHN-E |
 | Elementos relacionados | collectionID |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 
@@ -106,8 +114,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="collectionID">**collectionID** (ID de la colección)</a>
 
 | ---: | :--- |
-| Definición | Un identificador de la colección registrada en el elemento collectionCode. Se recomienda hacer uso de los identificadores registrados en:<br><br> - GBIF Registry of Scientific Collections [(https://www.gbif.org/grscicoll/collection/search)](https://www.gbif.org/grscicoll/collection/search){:target="_blank"}<br> - Registro Único Nacional de Colecciones Biológicas-RNC [(http://rnc.humboldt.org.co/admin/index.php/registros/colecciones)](http://rnc.humboldt.org.co/admin/index.php/registros/colecciones){:target="_blank"} |
-| Ejemplo | [https://www.gbif.org/grscicoll/collection/0d0e813e-dc60-4357-82b1-810d0af640a5](https://www.gbif.org/grscicoll/collection/0d0e813e-dc60-4357-82b1-810d0af640a5){:target="_blank"} <br> RNC:250 |
+| Definición | Un identificador de la colección registrada en el elemento collectionCode. Se recomienda hacer uso de los identificadores registrados en el:<br><br> [Catálogo nacional de colecciones de Uruguay –GRSciColl](https://hp-sibuy.gbif-staging.org/resources/collections/){:target="_blank"}|
+| Ejemplo | [2c46f767-ed9b-4a04-a85c-2b577b5d08ad](https://hp-sibuy.gbif-staging.org/collection/2c46f767-ed9b-4a04-a85c-2b577b5d08ad){:target="_blank"} <br> [52e99efe-4665-43da-96fd-8dc9dd1365cd](https://hp-sibuy.gbif-staging.org/collection/52e99efe-4665-43da-96fd-8dc9dd1365cd) |
 | Elementos relacionados | collectionCode |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 
@@ -117,7 +125,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El título que identifica el conjunto de datos referenciado en ID del conjunto de datos. |
-| Ejemplo | Colombia Bio<br> Fondo Adaptación<br> Boyacá Bio<br>  Cenipalma<br> |
+| Ejemplo | Fondo Adaptación<br> Cenipalma<br> |
 | Elementos relacionados | datasetID |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -127,7 +135,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador para  conjunto  o sub conjunto de datos. Puede ser un identificador único global como un DOI o un identificador específico de una colección o institución. |
-| Ejemplo | doi.org/10.15472/8xjulj<br> IAvH:CE16-062:8956:2016<br> SINCHI:CE17-845:2017<br> |
+| Ejemplo | doi.org/10.15472/8xjulj |
 | Elementos relacionados | datasetName |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -164,7 +172,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre de persona u organización propietaria o administradora de los derechos sobre el recurso. |
-| Ejemplo | Secretaría de Agricultura<br> Ministerio de Medio Ambiente<br> Secretaría Distrital de Ambiente |
+| Ejemplo | Secretaría de Agricultura<br> Ministerio de Ambiente |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -182,7 +190,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Indica la manera de citar el registro cuando sea utilizado, incluyendo la referencia del recurso al que pertenece el registro. Se recomienda incluir el doi si se tiene junto con los detalles bibliográficos para identificar el recurso claramente. |
-| Ejemplo | Raz L, Agudelo H (2019). Herbario Nacional Colombiano (COL). Versión 13.12. Universidad Nacional de Colombia. Occurrence dataset https://doi.org/10.15472/ea8sek. occurrenceID: 1a399be0-9ca9-4efe-84be-b8974a5548fc |
+| Ejemplo | Rand, K.M., Logerwell, E.A. The first demersal trawl survey of benthic fish and invertebrates in the Beaufort Sea since the late 1970s. Polar Biol 34, 475–488 (2011). https://doi.org/10.1007/s00300-010-0900-2 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -200,7 +208,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre completo (o acrónimo) de la institución que tiene la propiedad del objeto o de la información consignada en el registro. Usar sólo si la organización propietaria de los datos es diferente a la organización publicadora consignada en el elemento institutionCode. |
-| Ejemplo | Ministerio de Ambiente y Desarrollo Sostenible (MADS)<br> Celsia S.A. E.S.P. |
+| Ejemplo | Ministerio de Ambiente<br> Universidad de la República |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -251,8 +259,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="occurrenceID">**occurrenceID** (ID del Registro biológico)</a>
 
 | ---: | :--- |
-| Definición | Un identificador único del registro biológico (observación, ejemplar, fotografía, etc.).<br><br> En ausencia de un identificador único global persistente, se recomienda construir uno a partir de la combinación:<br><br> Cuando pertenece a una observación: [código corto de la institución]:[palabra(s) clave del recurso]:[número de campo/número consecutivo]<br> Cuando pertenece a una colección: [código corto de la institución]:[código de la colección]:[número de catálogo].<br> No debe contener espacios en blanco o caracteres especiales.<br><br> Si usted ya maneja en su conjunto de datos un identificador único por registros biológico, puede usarlo como identificador en el conjunto de datos. |
-| Ejemplo | Promigas:Compensacion-SanJuan:Fauna-00001<br> UCO:RESCATE_FAUNA_MULATOSII:1<br> UNIVALLE:CRM-UV:1974-001-1 |
+| Definición | Un identificador único del registro biológico (observación, ejemplar, fotografía, etc.).<br><br> En ausencia de un identificador único global persistente, se recomienda construir uno a partir de la combinación:<br><br> Cuando pertenece a una observación: [código corto de la institución]:[palabra(s) clave del recurso]:[número de campo/número consecutivo]<br> Cuando pertenece a una colección: [código de la institución]:[código de la colección]:[número de catálogo].<br> No debe contener espacios en blanco o caracteres especiales.<br><br> Si usted ya maneja en su conjunto de datos un identificador único por registros biológico, puede usarlo como identificador en el conjunto de datos. |
+| Ejemplo | Promigas:Compensacion-SanJuan:Fauna-00001<br> UCO:RESCATE_FAUNA_MULATOSII:1 |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_ |
 
 <br>
@@ -261,7 +269,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Un identificador (preferiblemente único) asignado al espécimen, muestra o lote en la colección biológica. Puede repetirse en caso de que los especímenes están agrupados en la colección (Lote, Frasco, Caja, etc).<br><br> Debe documentarse de la misma forma que está en la etiqueta. |
-| Ejemplo | 00001<br> 1974-001-1<br> 1732a<br> ANDES-E0813<br> Lepid0784 |
+| Ejemplo | 00001<br> Lepid0784 |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
 
 <br>
