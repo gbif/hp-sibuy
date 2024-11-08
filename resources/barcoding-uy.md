@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: heroImage
 title: Datos de ADN
 description: Barcoding Uruguay
 background: /assets/images/img6.jpg

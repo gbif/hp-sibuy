@@ -1,11 +1,12 @@
 ---
+layout: heroImage
 title: About SIBUy
 description: Welcome!
 background: /assets/images/about.png
 imageLicense: |
   CC BY 4.0
 parallax: true
-height: 75vh
+height: 80vh
 lang-ref: about
 lang: en
 ---
