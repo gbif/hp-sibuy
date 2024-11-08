@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Cómo publicaar
+title: Cómo publicar
 description: Kit de herramientas de publicación integrada
 lang-ref: ipt
 lang: es
 ---
-
 
 En consonancia con GBIF, el SIBUy, como nodo nacional, apoya la publicación de cuatro clases de conjuntos de datos empleando estándares de biodiversidad ampliamente aceptados.
 
@@ -45,7 +44,6 @@ CC0, para datos disponibles para todos los usos sin ninguna restricción
 CC BY, para datos disponibles para cualquier uso con las atribuciones correspondientes
 CC BY-NC, para datos disponibles para todos los usos no comerciales con las atribuciones correspondientes
 
-
 Tenga en cuenta que las licencias CC-BY-NC tienen un efecto significativo en la reusabilidad de los datos. GBIF anima a los publicadores a elegir las opciones más abiertas siempre que sea posible.
 
 # Publicar conjuntos de datos
@@ -63,3 +61,4 @@ Los administradores de colecciones pueden rastrear el uso y las citas de los dat
 Algunas entidades financiadoras ahora exigen que los investigadores que reciben fondos públicos hagan que los datos sean accesibles al final de un proyecto.
 
 [Accedé al manual](https://ipt.gbif.org/manual/es/ipt/latest/){: .button .is-primary target="_blank"}
+
