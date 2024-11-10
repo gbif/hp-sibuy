@@ -1,14 +1,13 @@
 ---
 layout: heroImage
-title: Data quality
+title: Calidad de datos
 description: |
-  Documents, tools and courses for data validation and cleansing to ensure its use by a wide variety of audiences.
-background: https://upload.wikimedia.org/wikipedia/commons/9/9d/Tortuga_morrocoyo_%28Trachemys_dorbigni%29%2C_Uruguay%2C_2018.jpg
+  Documentos, herramientas y cursos para la validación y limpieza de datos que permiten asegurar su uso por una amplia variedad de audiencias.
+background: https://upload.wikimedia.org/wikipedia/commons/a/a6/Serpiente_parejera_%28Philodryas_patagoniensis%29%2C_Uruguay%2C_2019.jpg
 imageLicense: |
-  Trachemys dorbigni Fotografía de: Enrique González [Wikimedia Commons](https:https://en.wikipedia.org/wiki/en:National_Museum_of_Natural_History,_Uruguay)
+  Specimen of Philodryas patagoniensis  Fotografía de: Enrique González [Wikimedia Commons](https:https://en.wikipedia.org/wiki/en:National_Museum_of_Natural_History,_Uruguay)
 toc: true
-parallax: true
-height: 80vh
+height: 41vh
 lang-ref: data-quality
 lang: en
 ---
@@ -39,7 +38,7 @@ Name | Description
 [IPT - Integrated Publishing Toolkit](https://cloud.gbif.org/uy/){:target="_blank"} | The GBIF Publication Tool (IPT) is an open source web application, available free of charge, that facilitates the publication of biodiversity data. During the process of accompanying the data publication, the SIB Uruguay Team will provide you with a user and password for metadata documentation. <br><br>[Learn more](https://ipt.gbif.org/manual/es/ipt/latest/){: .button .is-small target="_blank"}
 
 
-## Date cleaning
+## Dates
 
 Name | Description
 ------------ | -------------
@@ -74,14 +73,14 @@ Name | Description
 [geo:truc](http://www.geotruc.net/?hl=en_US){:target="_blank"} | Allows to obtain the coordinates of a selected point on the map through google maps.
 [CartoDB](https://carto.com/){:target="_blank"} | Allows you to import and visualize geospatial data by creating dynamic maps.
 [infoXY](http://splink.cria.org.br/infoxy?criaLANG=en){:target="_blank"} | When entering decimal coordinates the tool returns information about each point, such as the name of the country, department and other political-administrative divisions. If the point falls on the sea the tool calculates the nearest distance to the coast, indicating the name of the country.
-
+[GeoPick](https://geopick.gbif.org){:target=“_blank”} | GeoPick is a complementary open source online tool based on the [Georeferencing Best Practices](https://docs.gbif.org/georeferencing-best-practices/1.0/en/){:target="_blank"} (Chapman A.D. and Wieczorek J.R., 2020) that follows its recommendations and practices. Their idea arose from work done at the Museu de Ciències Naturals de Barcelona (MCNB) and the MOBILISE Cost Action. It aims to provide georeferencers with a simple, easy-to-use, yet powerful tool to help them follow georeferencing best practices and data standards (i.e., Darwin Core). The guiding principle of its design is to remain as simple and easy to use as possible.
 
 # Courses
 
 Name | Year | Description
 ------------ | ------------- | -------------
 [Introduction to GBIF](https://docs.gbif.org/course-introduction-to-gbif/en/){:target="_blank"} | 2021 | This course provides an introduction to GBIF, the data available on the GBIF portal, how to access that data, and information on how to participate in GBIF and its community of practice.
-[Curso de Movilización de Datos sobre Biodiversidad](https://docs.gbif.org/course-introduction-to-gbif/en/){:target="_blank"} | 2021 | This course will enable participants to effectively plan and implement biodiversity data mobilization efforts using community accepted standards. It aims to increase the volume, richness and quality of data published through the GBIF network.
+[Biodiversity Data Mobilization Course](https://docs.gbif.org/course-introduction-to-gbif/en/){:target="_blank"} | 2021 | This course will enable participants to effectively plan and implement biodiversity data mobilization efforts using community accepted standards. It aims to increase the volume, richness and quality of data published through the GBIF network.
 [Virtual training cycle SiB Colombia](https://biodiversidad.co/formacion/laboratorios/){:target="_blank"} | 2021 | The data labs designed and instructed by EC-SiB will help you to strengthen your skills in data management and publication through SiB Colombia.
 
 
