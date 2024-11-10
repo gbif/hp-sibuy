@@ -1,16 +1,19 @@
 ---
 layout: compose
 title: Regístrate como publicador
-description: Las entidades, redes o iniciativas que deseen compartir datos e información pueden registrarse aquí para convertirse en socios publicadores.
+description: | 
+  Las entidades, redes o iniciativas que deseen compartir datos e información pueden registrarse aquí para convertirse en socios publicadores.
 background: https://upload.wikimedia.org/wikipedia/commons/9/9b/Garcitas_bueyeras_%28Bubulcus_ibis%29_sobre_ceibo%2C_Uruguay%2C_2019.jpg
 imageLicense: |
   Vía Pxfuel
-height: 41vh
+height: 80vh
+parallax: true
+lang-ref: publisher-registry
+lang: es
 composition: 
   - type: heroImage
   - type: blank
   - type: pageMarkdown
-
 ---
 
 En alineación con los principios de GBIF, el SIBUy, como nodo nacional, respalda la publicación de cuatro tipos de conjuntos de datos utilizando estándares reconocidos internacionalmente en biodiversidad.
@@ -21,7 +24,7 @@ Para los participantes de proyectos de ciencia ciudadana, es posible publicar su
 
 Como red nacional de datos abiertos sobre biodiversidad, el SIBUy promueve el acceso libre y universal a estos contenidos bajo principios de acceso abierto, cooperación, transparencia, reconocimiento y responsabilidad compartida, contribuyendo así a la construcción de una sociedad sostenible.
 
-El proceso para publicar datos en el SIBUy comienza con el registro de la organización, red o iniciativa, a través de un formulario en línea. Esta entidad será referida en adelante como _publicador_.
+El proceso para publicar datos en el SIBUy comienza con el registro de la organización, red o iniciativa, a través de un formulario en línea. Esta entidad será referida en adelante como *publicador*.
 
 Al completar este formulario, la organización:
 
@@ -33,13 +36,12 @@ Al completar este formulario, la organización:
 
 Es importante destacar que, hasta la fecha, el SIBUy publica únicamente datos provenientes de organizaciones y no de individuos. Aquellas personas que deseen publicar datos deben hacerlo a través de sus organizaciones afiliadas para obtener el respaldo como publicadores.
 
-Antes de llenar el formulario, asegúrate que tu organización aún no se encuentra registrada como publicador de datos del SIBUy y GBIF. [Consulta el listado de organizaciones publicadoras nacionales aquí](https://www.gbif.org/publisher/search?country=UY). Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de datos.
+Antes de llenar el formulario, asegúrate que tu organización aún no se encuentra registrada como publicador de datos del SIBUy y GBIF. [Consulta el listado de organizaciones publicadoras nacionales aquí](https://www.gbif.org/publisher/search?country=UY){:target="_blank"}. Si tu organización ya está registrada, debes acercarte a uno de los contactos allí registrados para obtener información sobre la publicación de datos.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScP6n8b9roP33eF374CcKsJeVNjRb2JdcwnLsWhTbpjeEOWaQ/viewform?embedded=true" width="640" height="4207" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScP6n8b9roP33eF374CcKsJeVNjRb2JdcwnLsWhTbpjeEOWaQ/viewform?embedded=true" width="700" height="4550" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
+{::comment}
 
-
-<!-- 
 # Asegurar los acuerdos institucionales
 
 Una vez tomada la decisión de compartir sus datos a través del SIBUy, se debe avisar a los coordinadores de la organización sobre el plan de publicar datos en nombre de la institución. Compartir datos a través del SIBUy y GBIF puede incrementar la visibilidad y el impacto global de su institución, añadiéndose a métodos tradicionales como las publicaciones académicas o el préstamo de especímenes para descrubir nuevas oportunidades de colaboración y, mediante el uso de citas basadas en el DOI, vinculados directamente a los usos en investigación (ejemplo).
@@ -89,3 +91,6 @@ Los administradores de colecciones pueden rastrear el uso y las citas de los dat
 Algunas entidades financiadoras ahora exigen que los investigadores que reciben fondos públicos hagan que los datos sean accesibles al final de un proyecto.
 
 [Accedé al manual](https://ipt.gbif.org/manual/es/ipt/latest/){: .button .is-primary target="_blank"}
+
+{:/comment}
+

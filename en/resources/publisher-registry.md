@@ -1,16 +1,46 @@
 ---
-layout: default
-title: How to publish
-description: Integrated publishing toolkit
-lang-ref: ipt
+layout: compose
+title: Register as publisher
+description: |
+    Entities, networks or initiatives wishing to share data and information can register here to become publishing partners.
+background: https://upload.wikimedia.org/wikipedia/commons/9/9b/Garcitas_bueyeras_%28Bubulcus_ibis%29_sobre_ceibo%2C_Uruguay%2C_2019.jpg
+imageLicense: |
+  Via Pxfuel
+height: 80vh
+parallax: true
+lang-ref: publisher-registry
 lang: en
+composition: 
+  - type: heroImage
+  - type: blank
+  - type: pageMarkdown
 ---
 
-In line with GBIF, SIBUy, as a national node, supports the publication of four classes of datasets using widely accepted biodiversity standards.
+In alignment with GBIF principles, SIBUy, as a national node, supports the publication of four types of datasets using internationally recognized biodiversity standards.
 
-At the moment, only data from organizations are published directly. Individuals wishing to publish relevant datasets should do so through their organizations.
+Currently, SIBUy only publishes data from organizations. Those interested in sharing relevant data should do so through their affiliated organizations.
 
-Participants in citizen science initiatives can indirectly publish their records by participating in one of the many projects around the world that publish their datasets through the GBIF network (e.g. eBird, NaturalistaUY).
+For participants in citizen science projects, it is possible to publish their records indirectly by collaborating in one of the many global projects that share their data through the GBIF network (such as eBird or NaturalistaUY).
+
+As a national network of open data on biodiversity, SIBUy promotes free and universal access to this content under principles of open access, cooperation, transparency, recognition and shared responsibility, thus contributing to the construction of a sustainable society.
+
+The process to publish data in SIBUy begins with the registration of the organization, network or initiative, through an online form. This entity will henceforth be referred to as *publisher*.
+
+By completing this form, the organization will:
+
+  1. Will initiate the formal process for the publication of its data.
+  Receive assistance at each step of the publication process from the SIBUy team.
+  3. Ensure that your datasets are published in your name with the accurate information provided.
+  4. Help users better understand the provenance of data shared through SIBUy.
+  5. Establish official contacts between your organization and SIBUy.
+
+It is important to emphasize that, to date, SIBUy only publishes data from organizations and not from individuals. Those who wish to publish data must do so through their affiliated organizations to obtain endorsement as publishers.
+
+Before filling out the form, make sure that your organization is not yet registered as a SIBUy and GBIF data publisher. [See the list of national publishing organizations here](https://www.gbif.org/publisher/search?country=UY){:target="_blank"}. If your organization is already registered, you should approach one of the contacts registered there to obtain information about publishing data.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScP6n8b9roP33eF374CcKsJeVNjRb2JdcwnLsWhTbpjeEOWaQ/viewform?embedded=true" width="700" height="4550" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+{::comment}
 
 # Securing institutional agreements
 
@@ -61,4 +91,6 @@ Collection managers can track the use and citations of digitized data published 
 Some funders now require researchers receiving public funding to make data accessible at the end of a project.
 
 [Access the manual](https://ipt.gbif.org/manual/en/ipt/latest/){: .button .is-primary target="_blank"}
+
+{:/comment}
 
