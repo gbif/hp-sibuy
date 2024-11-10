@@ -3,12 +3,10 @@ layout: heroImage
 title: Calidad de datos
 description: |
   Documentos, herramientas y cursos para la validación y limpieza de datos que permiten asegurar su uso por una amplia variedad de audiencias.
-background: https://upload.wikimedia.org/wikipedia/commons/9/9d/Tortuga_morrocoyo_%28Trachemys_dorbigni%29%2C_Uruguay%2C_2018.jpg
+background: https://upload.wikimedia.org/wikipedia/commons/a/a6/Serpiente_parejera_%28Philodryas_patagoniensis%29%2C_Uruguay%2C_2019.jpg
 imageLicense: |
-  Trachemys dorbigni Fotografía de: Enrique González [Wikimedia Commons](https:https://en.wikipedia.org/wiki/en:National_Museum_of_Natural_History,_Uruguay)
-toc: true
-parallax: true
-height: 80vh
+  Specimen of Philodryas patagoniensis  Fotografía de: Enrique González [Wikimedia Commons](https:https://en.wikipedia.org/wiki/en:National_Museum_of_Natural_History,_Uruguay)
+height: 41vh
 lang-ref: data-quality
 lang: es
 ---
@@ -39,7 +37,7 @@ Nombre | Descripción
 [IPT - Integrated Publishing Toolkit](https://cloud.gbif.org/uy/){:target="_blank"} | La Herramienta de Publicación (IPT) de GBIF es una aplicación web de código abierto, disponible de forma gratuita, que facilita la publicación de datos sobre biodiversidad. Durante el proceso de acompañamiento a la publicación de datos, el Equipo del SIB Uruguay le facilitará un usuario y contraseña para la documentación de los metadatos. <br><br>[Aprendé más](https://ipt.gbif.org/manual/es/ipt/latest/){: .button .is-small target="_blank"}
 
 
-## Limpieza de fechas
+## Fechas
 
 Nombre | Descripción
 ------------ | -------------
@@ -58,7 +56,7 @@ Nombre | Descripción
 [GBIF - Name parser](https://www.gbif.org/tools/name-parser){:target="_blank"} | Separa los nombres científicos en sus distintos componentes a partir del nombre introducido. Permite interpretar la mayoría de nombres científicos y atomizarlos independientemente de su código nomenclatural.
 [Global Names Index](http://gni.globalnames.org/){:target="_blank"} | Permite corregir y/o enlazar la información acerca de cualquier taxón por medio de un proceso de "reconciliación" entre los nombres ya que contiene ejemplos de nombres científicos escritos con alguna variación.
 
-## Limpieza geográfica
+## Calidad geográfica
 
 Nombre | Descripción
 ------------ | -------------
@@ -74,7 +72,7 @@ Nombre | Descripción
 [geo:truc](http://www.geotruc.net/?hl=es_ES){:target="_blank"} | Permite obtener las coordenadas de un punto seleccionado en el mapa a través de google maps.
 [CartoDB](https://carto.com/){:target="_blank"} | Permite importar y visualizar datos geoespaciales mediante la creación de mapas dinámicos.
 [infoXY](http://splink.cria.org.br/infoxy?criaLANG=en){:target="_blank"} | Al ingresar coordenadas decimales la herramienta retorna información sobre cada punto, como el nombre del país, departamento y otras divisiones politico-administrativas. Si el punto cae en el mar la herramienta calcula la distancia más cercana a la costa, indicando el nombre del país.
-
+[GeoPick](https://geopick.gbif.org){:target="_blank"} | GeoPick es una herramienta complementaria en línea de código abierto basada en la [Guía de buenas prácticas de georreferenciación](https://docs.gbif.org/georeferencing-best-practices/1.0/es/){:target="_blank"} (Chapman A.D. y Wieczorek J.R., 2020) que sigue sus recomendaciones y prácticas. Su idea surgió en el marco del trabajo realizado en el Museu de Ciències Naturals de Barcelona (MCNB) y la MOBILISE Cost Action. Su objetivo es proporcionar a los georreferenciadores una herramienta sencilla, fácil de usar y, a la vez, potente que les ayude a seguir las mejores prácticas de georreferenciación y los estándares de datos (i.e., Darwin Core). El principio rector de su diseño es seguir siendo lo más simple y fácil de usar posible.
 
 # Cursos
 
