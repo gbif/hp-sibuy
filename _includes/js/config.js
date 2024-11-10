@@ -28,11 +28,6 @@ var siteConfig = {
           "type": "equals",
           "key": "country",
           "value": "UY"
-        },
-        {
-          "type": "equals",
-          "key": "publishingCountry",
-          "value": "UY"
         }
       ]
     },

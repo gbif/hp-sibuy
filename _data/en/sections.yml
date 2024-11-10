@@ -1,11 +1,11 @@
 stats:
   klass: contentTypesStat
   features:
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY&country=UY">1500000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=UY">1500000</span>
       description: Ocurrences
       background: assets/images/icons/registers.png
       href: /en/occurrence/search
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingCountry=UY&country=UY&hasCoordinate=true">1500000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=UY&hasCoordinate=true">1500000</span>
       description: Occurrences with coordinates
       background: assets/images/icons/ocurrences.png
       href: /en/occurrence/search?hasCoordinate=true
@@ -13,6 +13,10 @@ stats:
       description: Datasets
       background: assets/images/icons/datasets.png
       href: /en/dataset/search
+    - title: 4
+      description: National publishers
+      background: assets/images/icons/publishers.png
+      href: https://www.gbif.org/publisher/search?country=UY
     - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?country=UY&displayOnNHCPortal=true">25</span>
       description: Registered collections
       background: assets/images/icons/collections.png
