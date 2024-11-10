@@ -2,8 +2,8 @@
 title: Scientific publication with participation of researchers from Uruguay used data from GBIF
 date: 2024-07-11 00:00:00
 categories: [Publication, Puma concolor, Data]
-background: /assets/images/news/img7.jpg
-imageLicense: CC BY 4.0
+background: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Puma_face.jpg/1280px-Puma_face.jpg
+imageLicense: Creative Commons Attribution 2.0 Puma, Belgrade Zoo by Bas Lammers, 2009
 lang: en
 ---
 
