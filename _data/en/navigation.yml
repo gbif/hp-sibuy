@@ -11,11 +11,12 @@
   - text: Collections
     href: /en/resources/collections
 
-
 - text: Publish
   menu: # Dropdown menu (one level deep only)
   - text: How to publish
-    href: /en/resources/manual-IPT
+    href: /en/resources/publisher-registry
+  - text: ADN Data
+    href: /en/resources/barcoding-uy
   - text: |
       <span>Publishing tool - IPT
         <span class="icon-text">
@@ -23,15 +24,7 @@
         </span>
       </span>
     href: https://cloud.gbif.org/uy/
-  - text: |
-      <span>Register as publisher
-        <span class="icon-text">
-            <i class="fa fa-link"></i>
-        </span>
-      </span>
-    href: https://forms.gle/zibJmZEsJwbxuPok9 
 
-  
 - text: Resources
   menu: # Dropdown menu (one level deep only)
   - text: Darwin Core Standard
@@ -40,8 +33,6 @@
     href: /en/resources/data-publishing
   - text: Data quality
     href: /en/resources/data-quality
-  - text: ADN Data
-    href: /en/resources/barcoding-uy
   # - text: Best practices for georeferencing
   #   href: /en/resources/georeferencing-practices
   # - text: Guide for georeferencing data

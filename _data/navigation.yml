@@ -11,11 +11,12 @@
   - text: Colecciones
     href: /resources/collections
 
-
 - text: Publicar
   menu: # Dropdown menu (one level deep only)
   - text: Cómo publicar
     href: /resources/publisher-registry
+  - text: Datos de ADN
+    href: /resources/barcoding-uy
   - text: |
       <span>Herramienta de publicación - IPT
         <span class="icon-text">
@@ -32,8 +33,6 @@
     href: /resources/data-publishing
   - text: Calidad de datos
     href: /resources/data-quality
-  - text: Datos de ADN
-    href: /resources/barcoding-uy
 #  - text: Buenas prácticas para georreferenciación 
 #    href: /resources/georeferencing-practices
 #  - text: Guía para georreferenciación de datos
