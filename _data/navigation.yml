@@ -12,13 +12,13 @@
     href: /dataset/search?type=CHECKLIST
   - text: Colecciones
     href: /resources/collections
+  - text: Datos de ADN
+    href: /resources/barcoding-uy
 
 - text: Publicar
   menu: # Dropdown menu (one level deep only)
   - text: Cómo publicar
     href: /resources/publisher-registry
-  - text: Datos de ADN
-    href: /resources/barcoding-uy
   - text: |
       <span>Herramienta de publicación - IPT
         <span class="icon-text">
