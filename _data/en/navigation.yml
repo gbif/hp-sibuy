@@ -5,7 +5,9 @@
   - text: Ocurrences
     href: /en/occurrence/search
   - text: Ocurrences map
-    href: /en/occurrence/search/?view=MAP   
+    href: /en/occurrence/search/?view=MAP
+  - text: Datasets
+    href: /en/dataset/search
   - text: Checklist
     href: /en/dataset/search?type=CHECKLIST
   - text: Collections

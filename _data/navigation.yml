@@ -6,6 +6,8 @@
     href: /occurrence/search
   - text: Mapa de registros
     href: /occurrence/search/?view=MAP
+  - text: Conjuntos de datos
+    href: /dataset/search
   - text: Listas de especies
     href: /dataset/search?type=CHECKLIST
   - text: Colecciones
