@@ -921,7 +921,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="stateProvince">**stateProvince** (Departamento)</a>
 
 | ---: | :--- |
-| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que País de la ubicación (Departamento). Se recomienda usar los nombres asignados en la [lista de departamentos del Instituto Geográfico Militar (IGM)](https://igm.gub.uy/geoportal/codigos-departamentos/){:target="_blank"} |
+| Definición | El nombre completo y sin abreviar de la siguiente región administrativa de menor jerarquía que País de la ubicación (Departamento). Se recomienda usar los nombres asignados en la [lista de departamentos del Global Administrative Areas GADM](https://gadm.org/maps/URY_1.html){:target="_blank"} |
 | Comentarios | La práctica recomendada es dejar este elemento en blanco si la información presente en la sección Ubicación abarca múltiples entidades en este mismo nivel administrativo o si hay incertidumbre sobre la entidad a la que corresponden los datos. Esta información de multiplicidad e incertidumbre se puede documentar en los elementos higherGeography y locality. Por ejemplo, si hay dos entidades "Montevideo y Rocha", la recomendación es dejar este elemento vacío y dejar el comentario en higherGeography y locality. |
 | Ejemplo | Colonia<br> Rocha<br> Maldonado |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
@@ -952,7 +952,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | La información geográfica más específica de la ubicación. Información geográfica de menor especificidad puede ser provista en otros elementos geográficos (higherGeography, continent, country, stateProvince, county, municipality, waterBody, island, islandGroup). Este elemento puede contener información modificada de la original para corregir errores o estandarizar la descripción. |
-| Ejemplo | Ruta del Sol, kilómetro 25 entre Guaduas y La Dorada<br> Vereda Santa Ana<br> Quebrada Aguasclaras<br> Parque Nacional Natural Serranía de Chiribiquete |
+| Ejemplo | Cerro Boquerón. Est. El Caudillo. Lunarejo |
 | Core _(Obligatoriedad)_ | Registros _(Condicional)_. Recomendado para la buena documentación de un registro biológico<br> Evento de muestreo _(Recomendado)_ |
 
 <br>
@@ -961,7 +961,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | La descripción textual original del lugar (como fue tomada en campo o documentada en el voucher). |
-| Ejemplo | km 25 Rutal del Sol, Guaduas-La Dorada<br> Vda Santa ana<br> Q. Aguasclaras<br> PNN Chiribiquete |
+| Ejemplo | Cerro Boquerón. Est. El Caudillo. Lunarejo |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -3350,62 +3350,6 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 | Definición | Descripción de la secuencia (orden) de diferentes observaciones realizadas a la muestra. Por ejemplo como se muestra a continuación:<br><br> 1 (= Más antigua)<br> 4 (= Más reciente) |
 | Ejemplo | 1<br> 4 |
 | _(Obligatoriedad)_ | _(Opcional)_ |
-
-<br>
-<br>
-
-### Permiso GGBN
-
-| Índice |	|	|
-| ---|--- |--- |
-| [**permitType**<br> (Tipo de permiso)](#permitType) | [**permitStatus**<br> (Estado del permiso)](#permitStatus) | [**permitStatusQualifier**<br> (Calificador del estado del permiso)](#permitStatusQualifier) |
-| [**permitURI**<br> (Identificador del permiso)](#permitURI) | [**permitText**<br> (Texto del permiso)](#permitText) |  |
-
-<br>
-<br>
-
-<a id="permitType">**permitType** (Tipo de permiso)</a>
-
-| ---: | :--- |
-| Definición | El tipo del permiso (documento que le permite a alguien tomar una acción que de otra manera no estaría permitida). Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | Permiso para la recolección de especímenes de especies silvestres<br> Permiso de importación<br> Permiso de exportación<br> Acto legal<br> Amnistía<br> Contrato de acceso a recursos genéticos<br> Contrato<br> Derechos de propiedad intelectual<br> Derechos de autor<br> Patente<br>Fitosanitario<br> Acuerdo de transferencia de material<br> Memorando de entendimiento<br> Organismo modificado genéticamente|
-| _(Obligatoriedad)_ | _(Obligatorio)_ |
-
-<br>
-
-<a id="permitStatus">**permitStatus** (Estado del permiso)</a>
-
-| ---: | :--- |
-| Definición | La información sobre la presencia, ausencia u otro estado básico de los permisos asociados a la(s) muestra(s). Se recomienda el uso de un vocabulario controlado. |
-| Ejemplo | Permiso cerrado<br> Permiso vigente<br> Permiso no requerido<br> Desconocido |
-| _(Obligatoriedad)_ | _(Obligatorio)_ |
-
-<br>
-
-<a id="permitStatusQualifier">**permitStatusQualifier** (Calificador del estado del permiso)</a>
-
-| ---: | :--- |
-| Definición | La descripción de por qué no se requirió cierto permiso o por qué se desconoce el estado del permiso. |
-| Ejemplo | Las entidades adscritas al Ministerio de Medio Ambiente y Desarrollo Sostenible no requieren permiso<br> Ningún requisito nacional para un permiso en la fecha de acceso<br> Recolectado en tierras privadas<br> Pre-Nagoya |
-| _(Obligatoriedad)_ | _(Opcional)_ |
-
-<br>
-
-<a id="permitURI">**permitURI** (Identificador del permiso)</a>
-
-| ---: | :--- |
-| Definición | Un enlace a la referencia del permiso con la información de recolección o envío. |
-| Ejemplo | https://corponor.gov.co/ACTOSJURIDICOS/RESOLUCIONES/2015/ene0200.pdf<br> https://www.utadeo.edu.co/files/collections/documents/field_attached_file/resolucion_anla_1715.pdf |
-| _(Obligatoriedad)_ | _(Opcional)_ |
-
-<br>
-
-<a id="permitText">**permitText** (Texto del permiso)</a>
-
-| ---: | :--- |
-| Definición | Un texto estructurado con la información principal del permiso.<br><br> Identifique a cuál de los siguientes casos corresponde a su permiso y construya el texto según las indicaciones del caso:<br><br> (i) El registro biológico proviene de una entidad vinculada y adscrita al Ministerio de Medio Ambiente y Desarrollo Sostenible que no requiere un permiso de recolección.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios <br> -Acrónimo de la entidad.<br> -Número del convenio, proyecto marco o programa.<br> -Número del sub-proyecto, o sub-convenio, si existen.<br> -Año de inicio del convenio o proyecto.<br><br> (ii) El registro biológico proviene de un proyecto amparado por un permiso de recolección de especímenes o contrato de acceso a recursos genéticos de acuerdo a lo establecido en el Decreto 1076 de 2015.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios<br> -Acrónimo de la autoridad ambiental que otorgó el permiso.<br> -Número de la resolución donde se otorga el permiso.<br> -Año de expedición del permiso.<br> -Acrónimo de la organización títular del permiso o el nombre del títular del permiso en caso de ser una persona natural.<br><br> (iii) El registro biológico proviene de un espécimen depositado en una colección biológica por solicitud expresa de una autoridad ambiental o gubernamental mediante un acto legal. Por ejemplo, en los casos de incautación de fauna y flora silvestre por tráfico de especies.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios <br> -La palabra ‘ACTO_LEGAL’.<br> -Acrónimo de la autoridad ambiental o gubernamental que genera el acto legal.<br> -Identificador del proceso, corresponde el número del acto legal emitido por la autoridad competente. Cuando la autoridad no genere un identificador del acto legal, corresponde al identificador del proceso asignado internamente por la colección.<br> -Año de expedición del acto legal.<br><br> (iv) El registro biológico proviene de un espécimen preservado en una colección biológica y legalizado a través de una amnistía.<br> Formato: incluya los siguientes elementos separados por dos puntos (:) y sin espacios <br> -La palabra ‘AMNISTÍA’<br> -Número de la resolución donde se otorga la amnistía<br> -Año de expedición de la amnistía<br> -Acrónimo de la organización que solicita la amnistía |
-| Ejemplo | IAvH:CE16-062:8956:2016<br> SINCHI:CE17-845:2017<br><br> ANLA:1608:2017:UNAL<br> CORNARE:5D800FGH:2015:SandraArambulo<br><br> ACTO_LEGAL:CORMACARENA:34f-19:2017<br> ACTO_LEGAL:POLICIA_AMBIENTAL:PF-19075C:201<br><br> AMNISTÍA:8962:2019:UNIVALLE<br> AMNISTÍA:59VI-196:2018:UNIMAG |
-| _(Obligatoriedad)_ | _(Obligatorio)_ |
 
 <br>
 <br>
