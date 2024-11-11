@@ -1,6 +1,6 @@
 ---
 layout: compose
-title: Regístrate como publicador
+title: Cómo publicar
 description: | 
   Las entidades, redes o iniciativas que deseen compartir datos e información pueden registrarse aquí para convertirse en socios publicadores.
 background: https://upload.wikimedia.org/wikipedia/commons/9/9b/Garcitas_bueyeras_%28Bubulcus_ibis%29_sobre_ceibo%2C_Uruguay%2C_2019.jpg
