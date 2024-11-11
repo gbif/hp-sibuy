@@ -15,7 +15,7 @@ cta:
   - text: Colecciones
     href: /collection/search
     isPrimary: true
-    - text: Instituciones
+  - text: Instituciones
     href: /institution/search
 ---
 
