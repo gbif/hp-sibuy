@@ -15,9 +15,9 @@ cta:
   - text: Colecciones
     href: /collection/search
     isPrimary: true
-
+cta:
     - text: Instituciones
-    href: https://hp-sibuy.gbif-staging.org/institution/search?
+    href: /institution/search
     isPrimary: true
 ---
 
