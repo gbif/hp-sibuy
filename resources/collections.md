@@ -12,8 +12,12 @@ height: 80vh
 lang-ref: collections
 lang: es
 cta:
-  - text: Explorá
+  - text: Colecciones
     href: /collection/search
+    isPrimary: true
+
+    - text: Instituciones
+    href: /institution/search
     isPrimary: true
 ---
 
