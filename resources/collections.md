@@ -17,7 +17,7 @@ cta:
     isPrimary: true
 
     - text: Instituciones
-    href: /institution/search
+    href: https://hp-sibuy.gbif-staging.org/institution/search?
     isPrimary: true
 ---
 
