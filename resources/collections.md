@@ -15,10 +15,8 @@ cta:
   - text: Colecciones
     href: /collection/search
     isPrimary: true
-cta:
     - text: Instituciones
     href: /institution/search
-    isPrimary: true
 ---
 
 ## ¿Qué es el Catálogo nacional de colecciones biológicas de Uruguay?
