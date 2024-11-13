@@ -1,6 +1,6 @@
 ---
 layout: compose
-title: Register as publisher
+title: How to publish
 description: |
     Entities, networks or initiatives wishing to share data and information can register here to become publishing partners.
 background: https://upload.wikimedia.org/wikipedia/commons/9/9b/Garcitas_bueyeras_%28Bubulcus_ibis%29_sobre_ceibo%2C_Uruguay%2C_2019.jpg

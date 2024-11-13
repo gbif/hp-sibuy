@@ -12,9 +12,11 @@ height: 80vh
 lang-ref: collections
 lang: en
 cta:
-  - text: Explore
+  - text: Collections
     href: /en/collection/search
     isPrimary: true
+  - text: Institutions
+    href: /en/institution/search
 ---
 
 ## What is the National Catalog of Biological Collections of Uruguay?
