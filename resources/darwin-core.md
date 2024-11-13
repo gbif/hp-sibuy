@@ -3,16 +3,17 @@ layout: compose
 title: Estándar Darwin Core
 description: Conocé sus elementos, definiciones y extensiones
 background: https://upload.wikimedia.org/wikipedia/commons/8/87/Caparazon_de_tatu_de_rabo_molle_%28Cabassous_tatouay%29%2C_Uruguay%2C_2022.jpg
-lang-ref: dwc
-lang: es
 toc: true
 imageLicense: |
   Vía Pxfuel
-height: 41vh
+height: 80vh
+parallax: true
 composition: 
   - type: heroImage
   - type: blank
   - type: pageMarkdown
+lang-ref: dwc
+lang: es
 ---
 
 # Estándar Darwin Core
@@ -21,28 +22,28 @@ El estándar **Darwin Core (DwC)** permite la consolidación de datos sobre biod
 
 El modelo de datos conceptual del estándar es un esquema con una tabla principal, mejor conocida como _core_. Los _core_ del **DwC** son: **listas de especies** (taxon Core), **registros biológicos** (occurrence Core) o registros de **eventos de muestreo** (event Core).
 
-El **DwC** está compuesto por **categorías** que se utilizan para agrupar conjuntos de **elementos** de acuerdo a su naturaleza. Cada **elemento** a su vez, está compuesto por una definición, especificaciones y requerimientos. Los **elementos** pueden hacer parte de todos o algunos de los _core_.
+El **DwC** está compuesto por **categorías** que se utilizan para agrupar conjuntos de **elementos** de acuerdo a su naturaleza. Cada **elemento** a su vez, está compuesto por una definición, especificaciones y requerimientos. Los **elementos** pueden hacer parte de todos o algunos de los *core*.
  
-Adicionalmente, existen **extensiones** que se pueden asociar principalmente al _core_. Las **extensiones** también están conformadas por **elementos** los cuales son usados para documentar información adicional y específica que no se relaciona dentro del _core_ (ej., descripción de las especies, rasgos funcionales, información genética, entre otros). Las **extensiones** pueden ser compatibles con todos o algunos de los _core_.
+Adicionalmente, existen **extensiones** que se pueden asociar principalmente al *core*. Las **extensiones** también están conformadas por **elementos** los cuales son usados para documentar información adicional y específica que no se relaciona dentro del _core_ (ej., descripción de las especies, rasgos funcionales, información genética, entre otros). Las **extensiones** pueden ser compatibles con todos o algunos de los *core*.
 
-En esta página se presenta una aplicación del **DwC** en español y enfocada a la necesidades de país, la cual contiene a mano derecha una tabla de contenido con las **categorías** y **extensiones** del estándar, que llevan a su vez al listado de **elementos** que conforman cada **categoría** o **extensión**. Dentro del listado de **elementos** es posible dirigirse directamente al **elemento** de interés en donde se encontrará la siguiente información detallada:
+En esta página se presenta una aplicación del **DwC** en español y enfocada a las necesidades de país, la cual contiene a mano derecha una tabla de contenido con las **categorías** y **extensiones** del estándar, que llevan a su vez al listado de **elementos** que conforman cada **categoría** o **extensión**. Dentro del listado de **elementos** es posible dirigirse directamente al **elemento** de interés en donde se encontrará la siguiente información detallada:
 
 -    **Definición**: Texto que describe el alcance del **elemento**.
 -    **Comentarios**:  Texto que complementa, a manera de anotación o aclaración, la información de la definición.
 -    **Ejemplo**: Ejemplos textuales que hacen referencia a cómo se puede documentar el **elemento**.
--    **Elementos relacionados**: **Elementos** del estándar **DwC** que tienen relación estrecha con el **elemento** que esta siendo descrito.
--    _**Core (Obligatoriedad)**_: _core_ al que hace parte el **elemento** y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio).
+-    **Elementos relacionados**: **Elementos** del estándar **DwC** que tienen relación estrecha con el **elemento** que está siendo descrito.
+-    _**Core (Obligatoriedad)**: *core* al que hace parte el **elemento** y su obligatoriedad dentro de cada uno de estos (opcional, condicional, obligatorio).
 -    **Vocabulario controlado**: Opciones de textos preestablecidos que deben documentarse de manera obligatoria dentro del elemento. No se puede documentar información diferente a la relacionada en los vocabularios controlados. Adicionalmente, en este campo se puede hacer un redireccionamiento al listado y definiciones de los vocabularios controlados del **elemento**.
 
 - La documentación oficial y en inglés del estándar se puede consultar en: [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
 - La documentación oficial y en inglés de las extensiones: [https://rs.gbif.org/extensions.html](https://rs.gbif.org/extensions.html){:target="_blank"}
 
-*Fuentes:*
+*Fuentes*:
 - Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, et al. (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. [https://doi.org/10.1371/journal.pone.0029715](https://doi.org/10.1371/journal.pone.0029715){:target="_blank"}
 - Darwin Core Maintenance Group. 2021. Darwin Core Quick Reference Guide. Biodiversity Information Standards (TDWG). [https://dwc.tdwg.org/terms/](https://dwc.tdwg.org/terms/){:target="_blank"}
 - SiB Colombia (2024, octubre 10) Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: [https://biodiversidad.co/](https://biodiversidad.co/){:target="_blank"}
 
-*Fecha de última actualización: mayo de 2024.*
+*Fecha de última actualización: mayo de 2024*.
 
 ## Categorías DwC
 
@@ -84,7 +85,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="institutionCode">**institutionCode** (Código de la institución)</a>
 
 | ---: | :--- |
-| Definición | El acrónimo de la institución que custodia el espécimen o la información del registro. Si la organización no cuenta con un acrónimo se puede poner el nombre completo |
+| Definición | El acrónimo de la institución que custodia el espécimen o la información del registro. Si la organización no cuenta con un acrónimo se puede poner el nombre completo. |
 | Ejemplo | UdelaR (para _Universidad de la República_) <br> MNHN (para _Museo Nacional de Historia Natural_) |
 | Elementos relacionados | institutionID |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Recomendado)_ |
@@ -94,7 +95,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 <a id="institutionID">**institutionID** (ID de la institución)</a>
 
 | ---: | :--- |
-| Definición | Un identificador de la institución registrada en el elemento _institutionCode_. Si corresponde a una colección ya registrada en el Catálogo nacional de colecciones de Uruguay emplear el identificador asignado |
+| Definición | Un identificador de la institución registrada en el elemento _institutionCode_. Si corresponde a una colección ya registrada en el Catálogo nacional de colecciones de Uruguay emplear el identificador asignado. |
 | Ejemplo | 334f6c8d-5727-446c-a8c9-afcceb142c33 (para _Museo Nacional de Historia Natural_) |
 | Elementos relacionados | institutionCode |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Evento de muestreo _(Opcional)_ |
@@ -107,7 +108,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El acrónimo, código alfanumérico, o iniciales que identifican la colección o conjunto de datos del que procede el organismo. Aunque es válido el uso del acrónimo que implemente la colección internamente se recomienda hacer uso del acrónimo registrado en el:<br><br> [Catálogo nacional de colecciones de Uruguay –GRSciColl](https://hp-sibuy.gbif-staging.org/resources/collections/){:target="_blank"}|
 | Ejemplo | MVFA<br> MNHN-E |
 | Elementos relacionados | collectionID |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica. |
 
 <br>
 
@@ -117,7 +118,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | Un identificador de la colección registrada en el elemento collectionCode. Se recomienda hacer uso de los identificadores registrados en el:<br><br> [Catálogo nacional de colecciones de Uruguay –GRSciColl](https://hp-sibuy.gbif-staging.org/resources/collections/){:target="_blank"}|
 | Ejemplo | [2c46f767-ed9b-4a04-a85c-2b577b5d08ad](https://hp-sibuy.gbif-staging.org/collection/2c46f767-ed9b-4a04-a85c-2b577b5d08ad){:target="_blank"} <br> [52e99efe-4665-43da-96fd-8dc9dd1365cd](https://hp-sibuy.gbif-staging.org/collection/52e99efe-4665-43da-96fd-8dc9dd1365cd) |
 | Elementos relacionados | collectionCode |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para especímenes depositados en una colección biológica. |
 
 <br>
 
@@ -190,7 +191,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Indica la manera de citar el registro cuando sea utilizado, incluyendo la referencia del recurso al que pertenece el registro. Se recomienda incluir el doi si se tiene junto con los detalles bibliográficos para identificar el recurso claramente. |
-| Ejemplo | Rand, K.M., Logerwell, E.A. The first demersal trawl survey of benthic fish and invertebrates in the Beaufort Sea since the late 1970s. Polar Biol 34, 475–488 (2011). https://doi.org/10.1007/s00300-010-0900-2 |
+| Ejemplo | Rand, K.M., Logerwell, E.A. The first demersal trawl survey of benthic fish and invertebrates in the Beaufort Sea since the late 1970s. _Polar Biol_ 34, 475–488 (2011). https://doi.org/10.1007/s00300-010-0900-2 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -226,7 +227,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Medidas adoptadas para que los datos compartidos sean menos específicos o completos. Sugiere que los datos con mayor detalle existen y pueden estar disponibles bajo petición. |
-| Ejemplo | Coordenadas generalizadas a partir de las coordenadas originales del GPS a la celda más cercana de la grilla |
+| Ejemplo | Coordenadas generalizadas a partir de las coordenadas originales del GPS a la celda más cercana de la grilla. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -288,7 +289,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los nombres de las personas (observadores o recolectores) responsables de realizar el registro.<br><br> El colector u observador principal, especialmente si está asociado al recordNumber tomado en campo, se debe listar en primer lugar. Se debe mantener el mismo formato del nombre a lo largo de todos los registros y se recomienda evitar el uso de solo iniciales ya que esto genera ambigüedades para reconocer a las personas que realizaron el registro, de ser posible siempre escriba nombres completos. Documente el nombre de las personas y evite documentar nombres de grupos u organizaciones. |
 | Ejemplo | Eduardo Amat García<br> Javier Maldonado Ocampo<br> Mónica Andrea Sánchez Torres \| Esteban Andrés Novoa López |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico. |
 
 <br>
 
@@ -314,10 +315,10 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Valor que representa una cantidad colectada u observada del organismo, expresada en un sistema de medida estándar para el organismo como cepas, células, porcentaje de biomasa, etc. Documentar este elemento junto con el elemento organismQuantityType. |
-| Comentarios| El sistema de medida se debe documentar en el elemento organismQuantityType, como se muestra en el ejemplo a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: % de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
+| Comentarios | El sistema de medida se debe documentar en el elemento organismQuantityType, como se muestra en el ejemplo a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: % de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
 | Ejemplo | 30<br> 253<br> r |
 | Elementos relacionados | organismQuantityType |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico. |
 
 <br>
 
@@ -328,7 +329,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Comentarios| La cantidad de organismos se debe documentar en el elemento organismQuantity, como se muestra a continuación:<br><br> Para el registro de cobertura de líquenes: organismQuantity: 30 / organismQuantityType: % de cobertura<br> Para la abundancia de fitoplancton: organismQuantity: 253 / organismQuantityType: Células por litro<br> Para comunidades vegetales: organismQuantity: r / organismQuantityType: Escala Braun-Blanquet |
 | Ejemplo | Porcentaje de cobertura<br> Células por litro<br> Escala Braun-Blanquet |
 | Elementos relacionados | organismQuantity |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos - Recomendado para la buena documentación de un registro biológico. |
 
 <br>
 
@@ -369,7 +370,6 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 <br>
 
-
 <a id="behavior">**behavior** (Comportamiento)</a>
 
 | ---: | :--- |
@@ -384,7 +384,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | Indicación de la vitalidad del organismo en el momento de la colecta u observación (vivo o muerto). |
 | Comentarios | Se requiere el uso de un vocabulario controlado. Usar este elemento en registros documentados como PreservedSpecimen, MaterialSample, o HumanObservation en el elemento basisOfRecord. |
-|  Ejemplo |  Vivo<br> Muerto<br> Grupo mixto<br> Incierto<br> No evaluado |
+|  Ejemplo | Vivo<br> Muerto<br> Grupo mixto<br> Incierto<br> No evaluado |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
 <br>
@@ -396,7 +396,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Comentarios| Actualmente el estándar DwC no posee un elemento que permita documentar de manera adecuada la información de endemismos, este elemento es el más cercano para la documentación de esta información por lo cual se incluye el vocabulario 'Endémica'.|
 | Elementos relacionados | degreeOfEstablishment, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#vc_establishmentMeans) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain<br> Endémica |
+| [Vocabulario controlado](#vc_establishmentMeans) | native<br> nativeReintroduced<br> introduced<br> introducedAssistedColonisation<br> vagrant<br> uncertain<br> Endémica |
 
 <br>
 
@@ -406,7 +406,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El grado en cual el organismo sobrevive, se reproduce y expande su rango de distribución en un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y pathway. |
 | Elementos relacionados | establishmentMeans, pathway |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#vc_degreeOfEstablishment) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
+| [Vocabulario controlado](#vc_degreeOfEstablishment) | native<br> cultivated<br> released<br> established<br> colonising<br> widespreadInvasive |
 
 <br>
 
@@ -416,7 +416,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Definición | El proceso por el cual un organismo llegó a un lugar y tiempo determinado. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. Se recomienda documentar este elemento acompañado de los elementos establishmentMeans y degreeOfEstablishment. |
 | Elementos relacionados | establishmentMeans, degreeOfEstablishment |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
-|  [Vocabulario controlado](#vc_pathway) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
+| [Vocabulario controlado](#vc_pathway) | releasedForUse<br> otherEscape<br> transportContaminant<br> transportStowaway<br> corridor<br> unaided |
 
 <br>
 
@@ -424,8 +424,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Estado que da cuenta de la presencia o ausencia de un taxón en una ubicación. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. Para este elemento se debe emplear el vocabulario controlado en inglés. |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para registros marinos - Recomendado para la buena documentación de un registro biológico |
-|  [Vocabulario controlado](#vc_occurrenceStatus) | present<br> absent |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio para registros marinos - Recomendado para la buena documentación de un registro biológico. |
+| [Vocabulario controlado](#vc_occurrenceStatus) | present<br> absent |
 
 <br>
 
@@ -434,7 +434,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de las preparaciones y los métodos de conservación de un ejemplar o una muestra del ejemplar.<br><br> Adicionalmente, si el espécimen fue colectado bajo un permiso de recolección de especímenes o acceso a recursos genéticos, debe indicar si fue una colecta temporal o una colecta definitiva seguido por el tipo de preparación. |
 | Ejemplo | Colecta definitiva: Animal completo (ETOH)<br> Colecta definitiva: Preparación de muestra microbiológica<br> Colecta temporal: Extracción de ADN<br> Piel \| Cráneo \| Esqueleto<br> Animal completo (ETOH) \| Tejido (EDTA)<br> Fósil<br> Molde<br> Fotografía |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos. |
 
 <br>
 
@@ -443,8 +443,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | El estado actual de un espécimen en relación a la colección identificada en collectionCode o collectionID. Se recomienda el uso de un vocabulario controlado. Si el espécimen fue colectado bajo un permiso de recolección de especímenes o acceso a recursos genéticos y fue entregado a una colección biológica se debe documentar "En colección", de lo contrario dejar vacío el elemento. |
 | Ejemplo | En colección<br> Extraviado<br> Ejemplar testigo<br> Duplicados en otro lugar |
-| Elementos relacionados| collectionCode, collectionID |
-| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos |
+| Elementos relacionados | collectionCode, collectionID |
+| Core _(Obligatoriedad)_ | Registros _(Condicional)_. Obligatorio cuando el registro está asociado a un permiso de recolección o de acceso a recursos genéticos. |
 
 <br>
 
@@ -457,7 +457,6 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
 <br>
-
 
 <a id="otherCatalogNumbers">**otherCatalogNumbers** (Otros números de catálogo)</a>
 
@@ -481,8 +480,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores de otros registros biológicos y su relación con este registro. Aplica para relaciones con organismos de diferente grupo taxonómico y se recomiendo documentar junto a el elemento associatedTaxa. Se recomienda hacer uso de la extensión Resource Relationship para documentar en más detalle la relación entre los registros biológicos asociados. |
-| Ejemplo | http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3175067 \| http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3177393<br>  SELVA:Anillamiento:AA7330a |
-| Elementos relacionados| associatedTaxa |
+| Ejemplo | http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3175067 \| http://arctos.database.museum/guid/MSB:Mamm:292063?seid=3177393<br> SELVA:Anillamiento:AA7330a |
+| Elementos relacionados | associatedTaxa |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
 <br>
@@ -491,7 +490,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (publicación, referencia bibliográfica, identificador único global, URI) de la literatura asociada al registro biológico. Se recomienda hacer uso de la extensión Literature References la cual cuenta con más elementos para describir la información de referencias asociada. |
-| Ejemplo | http://www.sciencemag.org/cgi/content/abstract/322/5899/261<br> Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus Journal of Mammalogy, 89(3):755-767. |
+| Ejemplo | http://www.sciencemag.org/cgi/content/abstract/322/5899/261<br> Christopher J. Conroy, Jennifer L. Neuwald. 2008. Phylogeographic study of the California vole, Microtus californicus. _Journal of Mammalogy_, 89(3):755-767. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
 <br>
@@ -500,7 +499,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|") de los identificadores (publicación, identificador único global, URI) de la información de la secuencia genética asociada al registro biológico. Se recomienda hacer uso de la extensión GGBN Amplification Extension la cual cuenta con más elementos para describir la información de secuencia genética asociada. |
-| Ejemplo | https://www.ncbi.nlm.nih.gov/nuccore/U34853.1<br>  https://www.boldsystems.org/index.php/Public_RecordView?processid=ABBAC141-12 |
+| Ejemplo | https://www.ncbi.nlm.nih.gov/nuccore/U34853.1<br> https://www.boldsystems.org/index.php/Public_RecordView?processid=ABBAC141-12 |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
 <br>
