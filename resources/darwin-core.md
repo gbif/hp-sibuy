@@ -6,7 +6,7 @@ background: https://upload.wikimedia.org/wikipedia/commons/8/87/Caparazon_de_tat
 toc: true
 imageLicense: |
   Vía Pxfuel
-height: 80vh
+height: 41vh
 parallax: true
 composition: 
   - type: heroImage
