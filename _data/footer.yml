@@ -3,23 +3,25 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Integrantes Nodo GBIF Uruguay
-    description: | # Can be Markdown
-      [<img src="/assets/images/logoMA.png" alt="Logo Ministerio de Ambiente" style="width: 220px"/>](https://www.gub.uy/ministerio-ambiente)
-      [<img src="/assets/images/logoMNHN.png" alt="Logo Museo de Historia Natural" style="width: 220px"/>](https://www.mna.gub.uy/innovaportal/v/3811/14/mecweb/museo-nacional-de-historia-natural)
-  
-  - name: Enlaces
-    links:
-    - text: Preguntas frecuentes
-      href: /faq/
-
   - name: Contacto
     description: |
       * Juncal 1385
       * 2917 3380
       * Uruguay
       * [Administrador del nodo SIBUy](mailto:biodiversidad@ambiente.gub.uy)
-    connectIcons: false
+    connectIcons: false  
+    links:
+    - text: Preguntas frecuentes
+      href: /faq/
+
+  - description: | # Can be Markdown
+      [<img src="/assets/images/logos/logoMinEducacion.png" alt="Logo Ministerio de Educación y Cultura" style="width: 220px"/>](https://www.gub.uy/ministerio-educacion-cultura/)
+
+  - description: | # Can be Markdown
+      [<img src="/assets/images/logos/logoDNC.png" alt="Logo Dirección Nacional de Cultura" style="width: 220px"/>](https://www.gub.uy/ministerio-educacion-cultura/institucional/estructura-del-organismo/direccion-nacional-cultura)
+
+  - description: | # Can be Markdown
+      [<img src="/assets/images/logos/logoMNHN.png" alt="Logo Museo Nacional de Historia Natural" style="width: 220px"/>](https://www.gub.uy/ministerio-educacion-cultura/)  
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
