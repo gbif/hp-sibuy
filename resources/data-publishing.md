@@ -38,7 +38,6 @@ _Campos DwC recomendados_
 [Descargá la plantilla](https://drive.google.com/uc?export=download&id=1XsHT0NCxlw0vn3aqLZWrRcN2mp9Z5cxq){: .button .is-primary target="_blank"}
 
 <br>
-<br>
 
 
 ## Eventos de muestreo
@@ -62,7 +61,6 @@ _Campos DwC recomendados_
 [Descargá la plantilla](https://drive.google.com/uc?export=download&id=1n4F2PkBzN85trnhsgcxxhl6KQx12KI4Z){: .button .is-primary target="_blank"}
 
 <br>
-<br>
 
 ## Listas de especies
 Son recursos que contienen un conjunto de especies agrupadas según alguna categoría, como criterios taxonómicos, geográficos, de riesgo (por ejemplo, listas rojas) o variedades silvestres relacionadas con cultivos. Estas listas pueden incluir información adicional, como clasificaciones jerárquicas o atributos específicos asociados a cada especie. Algunos ejemplos comunes incluyen listas de especies a nivel regional o global, listas rojas nacionales o internacionales, catálogos de especies en colecciones no digitalizadas, o inventarios de especies presentes en parques y áreas protegidas.
@@ -76,7 +74,8 @@ _Campos DwC recomendados_
 - parentNameUsageID - en situaciones en las que se pretende publicar una taxonomía
 
 [Descargá la plantilla](https://drive.google.com/uc?export=download&id=18IhayNCKr1ct12YpqIbvYczQPY37DByk){: .button .is-primary target="_blank"}
-
+<br>
+<br>
 *Fuentes:*
 - Adaptado de Wieczorek J, Blissett M, Braak K & Podolskiy M (2024) The GBIF Integrated Publishing Toolkit User Manual, version 3.0. Copenhagen: GBIF Secretariat. [https://ipt.gbif.org/manual/en/ipt/3.0/]([url](https://ipt.gbif.org/manual/en/ipt/3.0/))
 - SiB Colombia (2024, octubre 10) Sistema de Información sobre Biodiversidad de Colombia. Recuperado de: [https://biodiversidad.co/](https://biodiversidad.co/){:target="_blank"}
