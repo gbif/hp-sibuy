@@ -4,6 +4,8 @@ date: 2024-07-11 00:00:00
 categories: [Publicaciones, Puma concolor, Datos]
 background: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Puma_face.jpg/1280px-Puma_face.jpg
 imageLicense: Creative Commons Attribution 2.0 Puma, Belgrade Zoo by Bas Lammers, 2009
+lang: es
+lang-ref: datapuma
 ---
 
 # Publicación científica con participación de investigadores uruguayos utilizó datos de GBIF

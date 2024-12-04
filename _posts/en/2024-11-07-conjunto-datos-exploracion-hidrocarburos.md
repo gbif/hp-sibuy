@@ -5,6 +5,7 @@ categories: [Datasets]
 background: https://au-hw-media-m.happywhale.com/496459c0-5a61-4b93-9e97-115f492d0a5c.jpg
 imageLicense: CC BY 4.0
 lang: en
+lang-ref: dataocean
 ---
 
 # New dataset: "Database of environmental, oceanographic and meteorological data generated in hydrocarbon exploration projects 2007-2017".
