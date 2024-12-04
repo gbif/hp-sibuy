@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   aportada por los miembros del nodo uruguayo en GBIF y otros publicadores de datos. 
   Los datos publicados a través de este portal son de uso público.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-sibuy.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sibuy.ambiente.gub.uy" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
