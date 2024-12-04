@@ -31,7 +31,7 @@ _Campos DwC obligatorios_
 _Campos DwC recomendados_
 - taxonRank - para justificar el nombre científico (scientificName)
 - kingdom - y otra taxonomía superior si es posible
-- decimalLatitude & decimalLongitude & geodeticDatum - para proporcionar un punto específico de ubicació
+- decimalLatitude & decimalLongitude & geodeticDatum - para proporcionar un punto específico de ubicación
 - countryCode
 - individualCount / organismQuantity & organismQuantityType - para registrar la cantidad de registros biológicos de una especie
 
@@ -64,6 +64,7 @@ _Campos DwC recomendados_
 
 ## Listas de especies
 Son recursos que contienen un conjunto de especies agrupadas según alguna categoría, como criterios taxonómicos, geográficos, de riesgo (por ejemplo, listas rojas) o variedades silvestres relacionadas con cultivos. Estas listas pueden incluir información adicional, como clasificaciones jerárquicas o atributos específicos asociados a cada especie. Algunos ejemplos comunes incluyen listas de especies a nivel regional o global, listas rojas nacionales o internacionales, catálogos de especies en colecciones no digitalizadas, o inventarios de especies presentes en parques y áreas protegidas.
+
 _Campos DwC obligatorios_
 - taxonID
 - scientificName
