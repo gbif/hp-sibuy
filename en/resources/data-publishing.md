@@ -1,7 +1,7 @@
 ---
 layout: compose
-title: Template for data publishing
-description: Template for data publishing
+title: Templates for data publishing
+description: Templates for data publishing
 background: https://upload.wikimedia.org/wikipedia/commons/1/1b/Carao_en_Uruguay.jpg
 lang-ref: data-publishing
 lang: en
