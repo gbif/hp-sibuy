@@ -30,6 +30,11 @@ Fue dictado por  En ambas jornadas los participantes recibieron capacitación en
 - _Leonardo Buitrago_ (consultor en Informática de la Biodiversidad) <br>
 - _Ricardo Ortíz_ (Ing. Ambiental especialista en Sistemas de Información Geográfica) de Colombia.
 
+![Foto 1](assets/images/foto_leo.jpg "Logo del SIBUy")
+
+![Foto 2](assets/images/foto_richie.jpg "Logo del SIBUy")
+
+
 **ENLACES DE INTERÉS**
 - [Agenda](https://drive.google.com/file/d/1hEt8xM9Qo61sy9Cx_LOhOrTwk04NNtqS/view?usp=sharing)
 - [Presentaciones](https://drive.google.com/drive/folders/1h6GKasBKWvd6qbBnMYfeHSQMWfDmEBTu?usp=sharing)
