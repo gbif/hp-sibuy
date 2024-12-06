@@ -32,9 +32,9 @@ En ambas jornadas los participantes recibieron capacitación en estandarización
 - _Ricardo Ortíz_ (Ing. Ambiental especialista en Sistemas de Información Geográfica) de Colombia.
 
 
-![Foto Leonardo Buitrago](../assets/images/foto_leo.jpg)
+![Foto Leonardo Buitrago](/assets/images/foto_leo.jpg)
 
-![Foto Ricardo Ortiz](../assets/images/foto_richie.jpg)
+![Foto Ricardo Ortiz](/assets/images/foto_richie.jpg)
 
 **ENLACES DE INTERÉS**
 

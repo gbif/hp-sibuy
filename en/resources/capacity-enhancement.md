@@ -1,7 +1,7 @@
 ---
 layout: compose
-title: Formación
-description: Información sobre talleres y contenidos de creación de capacidad
+title: Training
+description: Information on workshops and capacity building content
 background: https://upload.wikimedia.org/wikipedia/commons/6/6b/Huellas_de_carpincho_%28Hydrochoerus_hydrochaeris%29%2C_Uruguay%2C_2019.jpg
 toc: true
 imageLicense: |
@@ -32,9 +32,9 @@ In both sessions, participants received training in data standardization, valida
 - _Ricardo Ortíz_ (Environmental Engineer specializing in Geographical Information Systems) from Colombia
 
 
-![Foto Leonardo Buitrago](../../assets/images/foto_leo.jpg)
+![Foto Leonardo Buitrago](/assets/images/foto_leo.jpg)
 
-![Foto Ricardo Ortiz](../../assets/images/foto_richie.jpg)
+![Foto Ricardo Ortiz](/assets/images/foto_richie.jpg)
 
 **ENLACES DE INTERÉS**
 
