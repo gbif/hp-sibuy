@@ -22,6 +22,8 @@ En esta sección encontrarás información sobre los talleres y actividades de c
 
 ## Taller para el Fortalecimiento de Capacidades en la Publicación de Datos de Biodiversidad (11-12 Nov. 2024)
 
+![Foto Leonardo Buitrago](/assets/images/foto_leo.jpg)
+
 Los días 11 y 12 de noviembre en Facultad de Ciencias se realizó el primer "Taller para el Fortalecimiento de Capacidades en la Publicación de Datos de Biodiversidad" realizado con el apoyo del Ministerio de Ambiente, GBIF, Museo Nacional de Historia Natural y el Programa de las Naciones Unidas para el Desarrollo.
 En ambas jornadas los participantes recibieron capacitación en estandarización de datos, herramientas de validación, limpieza y publicación. Asistieron integrantes de distintas colecciones biológicas e instituciones privadas.  
 
@@ -31,12 +33,9 @@ En ambas jornadas los participantes recibieron capacitación en estandarización
 - _Leonardo Buitrago_ (consultor en Informática de la Biodiversidad)
 - _Ricardo Ortíz_ (Ing. Ambiental especialista en Sistemas de Información Geográfica) de Colombia.
 
-
-![Foto Leonardo Buitrago](/assets/images/foto_leo.jpg)
-
 ![Foto Ricardo Ortiz](/assets/images/foto_richie.jpg)
 
-**ENLACES DE INTERÉS**
+**Enlaces de Interés**
 
 - [Agenda](https://drive.google.com/file/d/1hEt8xM9Qo61sy9Cx_LOhOrTwk04NNtqS/view?usp=sharing)
 - [Presentaciones](https://drive.google.com/drive/folders/1h6GKasBKWvd6qbBnMYfeHSQMWfDmEBTu?usp=sharing)
