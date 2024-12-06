@@ -33,10 +33,10 @@ En ambas jornadas los participantes recibieron capacitación en estandarización
 - _Leonardo Buitrago_ (consultor en Informática de la Biodiversidad)
 - _Ricardo Ortíz_ (Ing. Ambiental especialista en Sistemas de Información Geográfica) de Colombia.
 
-![Foto Ricardo Ortiz](/assets/images/foto_richie.jpg)
-
 **Enlaces de Interés**
 
 - [Agenda](https://drive.google.com/file/d/1hEt8xM9Qo61sy9Cx_LOhOrTwk04NNtqS/view?usp=sharing)
 - [Presentaciones](https://drive.google.com/drive/folders/1h6GKasBKWvd6qbBnMYfeHSQMWfDmEBTu?usp=sharing)
 - [Ejercicios prácticos](https://drive.google.com/drive/folders/12hXehfUr1RiNDmU5mLUom8C-grPXHQn6?usp=sharing)
+
+![Foto Ricardo Ortiz](/assets/images/foto_richie.jpg)
