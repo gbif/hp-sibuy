@@ -22,6 +22,8 @@ In this section you will find information on workshops and capacity building act
 
 ## Capacity Building Workshop on Biodiversity Data Publication (11-12 Nov. 2024)
 
+![Foto Leonardo Buitrago](/assets/images/foto_leo.jpg)
+
 On November 11 and 12, the first “Workshop for Capacity Building in the Publication of Biodiversity Data” was held at the Faculty of Sciences with the support of the Ministry of Environment, GBIF, the National Museum of Natural History and the United Nations Development Program.
 In both sessions, participants received training in data standardization, validation tools, cleaning and publication. Members of different biological collections and private institutions attended.  
 
@@ -31,13 +33,10 @@ In both sessions, participants received training in data standardization, valida
 - _Leonardo Buitrago_ (Biodiversity Informatics Consultant) 
 - _Ricardo Ortíz_ (Environmental Engineer specializing in Geographical Information Systems) from Colombia
 
-
-![Foto Leonardo Buitrago](/assets/images/foto_leo.jpg)
-
-![Foto Ricardo Ortiz](/assets/images/foto_richie.jpg)
-
-**ENLACES DE INTERÉS**
+**Links**
 
 - [Agenda](https://drive.google.com/file/d/1hEt8xM9Qo61sy9Cx_LOhOrTwk04NNtqS/view?usp=sharing)
 - [Presentaciones](https://drive.google.com/drive/folders/1h6GKasBKWvd6qbBnMYfeHSQMWfDmEBTu?usp=sharing)
 - [Ejercicios prácticos](https://drive.google.com/drive/folders/12hXehfUr1RiNDmU5mLUom8C-grPXHQn6?usp=sharing)
+
+![Foto Ricardo Ortiz](/assets/images/foto_richie.jpg)
