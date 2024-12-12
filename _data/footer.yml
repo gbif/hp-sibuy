@@ -18,7 +18,7 @@ columns:
   - name: Contacto
     description: |
       * Juncal 1385
-      * 2917 3380
+      * 2917 3380 int 6505
       * Uruguay
       * [biodiversidad@ambiente.gub.uy](mailto:biodiversidad@ambiente.gub.uy)
     connectIcons: false  
