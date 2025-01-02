@@ -126,7 +126,8 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El título que identifica el conjunto de datos referenciado en ID del conjunto de datos. |
-| Ejemplo | Fondo Adaptación<br> Cenipalma<br> |
+| Ejemplo | Especies de fauna del Uruguay evaluadas y reportadas en Listas Rojas
+<br> Las aves del palmar de Butiá (Butia odorata) en Rocha, Uruguay<br> |
 | Elementos relacionados | datasetID |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
@@ -770,7 +771,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Una categoría estandarizada o la descripción del hábitat en el que ocurrió el evento. |
-| Ejemplo | Sabana de roble<br> Estepa de la pre-cordillera |
+| Ejemplo | Bosque ribereño<br> Pastizal psamófilo |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 
 <br>
@@ -872,7 +873,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre y tipo del cuerpo de agua en el que tiene lugar la ubicación. Se recomienda usar este elemento solamente si el evento ocurrió en el cuerpo de agua propiamente dicho, no en cercanías de este. |
-| Ejemplo | Mar Caribe<br> Océano Pacífico <br>Río Lebrija<br> Golfo de Urabá<br> Caño Mojana |
+| Ejemplo | Río Uruguay<br> Arroyo Malo <br>Río de la Plata |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Evento de muestreo _(Recomendado)_ |
 
 <br>
@@ -969,7 +970,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | La descripción textual de la elevación (altitud, por lo general por encima del nivel del mar) de la ubicación. |
-| Ejemplo | 100-200 m<br> 1560 msnm |
+| Ejemplo | 100-200 m |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
 <br>
@@ -1491,7 +1492,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | Una lista (en una fila continua y separada por una barra vertical "\|")  de las referencias (publicación, identificador único global, URI) usadas en la identificación. |
-| Ejemplo | Aves del Noroeste Patagónico. Christie et al. 2004 |
+| Ejemplo | Azpiroz, A. B. 2012, Aves de las Pampas y Campos de Argentina, Brasil y Uruguay. Una guía de identificación. PRESSUR, Nueva Helvecia, Uruguay. |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_ |
 
 <br>
@@ -1567,7 +1568,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 | ---: | :--- |
 | Definición | El nombre científico canónico (sin la autoría) correspondiente a la categoría taxonómica a la que se logró la determinación del organismo observado o colectado. El nombre debe ser congruente con el elemento taxonRank, de modo que se informe a que nivel (especie, género, familia, etc.) se encuentra el nombre documentado. |
 | Comentarios| Para tener en cuenta:<br><br> - El nombre científico puede pertenecer a cualquier categoría taxonómica (reino, filo, clase, orden, familia, género, especie entre otros), en ningún caso es obligatorio la identificación a nivel de especie.<br> - No debe documentar la autoría del taxón en este elemento, para ello utilice el elemento scientificNameAuthorship.<br> - No debe documentar calificadores de identificación (“cf.”, “aff.”, etc.), para ello utilice el elemento identificationQualifier y deje en el nombre científico la categoría superior sobre la cual se tiene certeza.<br> - No debe documentar abreviaciones que no dan cuenta de el nombre específico o hacen referencia  a morfotipos (“sp.”, “sp1.”, “spp.”), para ello utilice el elemento verbatimTaxonRank.<br> - Nombres de híbridos para algas, hongos y plantas deberían seguir las reglas del Código Internacional de Nomenclatura para algas, hongos y plantas (Schenzhen Code Articles H.1, H.2 and H.3). Utilizando el signo de multiplicación  × (Unicode U+00D7, HTML ×) para identificar un híbrido, evitando usar una "x" o "X". <br><br> *Aunque oficialmente scientificName se define como el "nombre científico completo, con información de autoría y fecha si se conoce", desde el SiB Colombia se recomienda documentar solo el nombre canónico ya que hemos notado un detrimento de la calidad de este elemento por errores de tipeo cuando se incluye siguiendo la definición oficial.|
-| Ejemplo | Coleoptera<br> Bacteria<br> Ctenomys sociabilis<br> Abrus pulchellus subsp. tenuiflorus |
+| Ejemplo | Coleoptera<br> Bacteria<br> Austrolebias charrua<br> Abrus pulchellus subsp. tenuiflorus |
 | Elementos relacionados | taxonRank, scientificNameAuthorship, identificationQualifier, verbatimTaxonRank |
 | Core _(Obligatoriedad)_ | Registros _(Obligatorio)_<br> Lista de chequeo _(Obligatorio)_ |
 
@@ -1644,7 +1645,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre científico completo del orden al que pertenece el taxón. |
-| Ejemplo | Carnivora<br> Monocleales |
+| Ejemplo | Carnivora<br> Anura |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
 
 <br>
@@ -1664,7 +1665,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre científico completo de la familia al que pertenece el taxón. |
-| Ejemplo | Felidae<br> Monocleaceae |
+| Ejemplo | Felidae<br> Bufonidae |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
 
 <br>
@@ -1673,7 +1674,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre científico completo de la subfamilia al que pertenece el taxón. |
-| Ejemplo | Periptyctinae<br> Orchidoideae<br> Sphindociinae |
+| Ejemplo | Lophyohylinae<br> Scinaxinae |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
 
 <br>
@@ -1701,7 +1702,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre científico completo del género al que pertenece el taxón. |
-| Ejemplo | Puma<br> Monoclea |
+| Ejemplo | Lycosa<br> Scutia |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
 
 <br>
@@ -1741,7 +1742,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre del epíteto específico presente en el scientificName cuando la determinación se hizo hasta especie u otra categoría menor. |
-| Ejemplo | concolor<br> gottsche |
+| Ejemplo | erythrognatha<br> buxifolia |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
 
@@ -1793,7 +1794,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El nombre o nombres comunes del taxón (en una fila continua y separada por una barra vertical "\|"). |
-| Ejemplo | Cóndor Andino<br> Águila Americana<br> Buitre \| Chulo |
+| Ejemplo | Chupadientes<br> Mano pelada \| Aguará popé |
 | Elementos relacionados | scientificName |
 | Core _(Obligatoriedad)_ | Registros _(Recomendado)_<br> Lista de chequeo _(Recomendado)_ |
 
@@ -2383,7 +2384,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 
 | ---: | :--- |
 | Definición | Citación bibliográfica completa en formato de texto plano. |
-| Ejemplo | Granados-Martínez, C. y A. Batista. 2017. Macroinvertebrados acuáticos. Pp. 47-65. En: Lasso, C. A. y M. A. Morales-Betancourt (Eds.). III. Fauna de Caño Cristales, sierra La Macarena, Meta, Colombia. Serie Editorial Fauna Silvestre Neotropical. Instituto de Investigación de Recursos Biológicos Alexander von<br> Humboldt (IAvH). Bogotá, D. C., Colombia<br> Brander, K. (2015). Improving the Reliability of Fishery Predictions Under Climate Change. Current Climate Change Reports, 1(1): 40-48.  doi: 10.1007/s40641-015-0005-7 |
+| Ejemplo | Administración Nacional de Combustibles Alcohol y Pórtland (ANCAP) (2024). Base de datos ambientales, oceanográficos y meteorológicos generados en proyectos de exploración de hidrocarburos 2007-2017. Version 1.2. Dirección Nacional de Biodiversidad y Servicios Ecosistémicos, Ministerio de Ambiente / National Direction of Biodiversity and Ecosystem Services, Ministry of Environment. Occurrence dataset https://doi.org/10.15468/a9cxne accessed via GBIF.org on 2024-11-19. https://www.gbif.org/occurrence/4951977973<br> Brander, K. (2015). Improving the Reliability of Fishery Predictions Under Climate Change. Current Climate Change Reports, 1(1): 40-48.  doi: 10.1007/s40641-015-0005-7 |
 | _(Obligatoriedad)_ | _(Obligatorio)_ |
 
 <br>
