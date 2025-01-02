@@ -2554,7 +2554,7 @@ Las extensiones DwC están conformadas por elementos usados para documentar info
 <a id="threatStatus">**threatStatus** (Estado de amenaza)</a>
 
 | ---: | :--- |
-| Definición | Estado de amenaza de una especie de acuerdo a la IUCN (International Union for Conservation of Nature): https://www.iucnredlist.org/ o el estado en la lista del MADS (Ministerio de Medio ambiente y Desarrollo Sostenible): https://doi.org/10.15472/5an5tz. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
+| Definición | Estado de amenaza de una especie de acuerdo a la IUCN (International Union for Conservation of Nature): https://www.iucnredlist.org/ o a la Lista Roja correspondiente que figura en el listado de especies de fauna del Uruguay evaluadas y reportadas en Listas Rojas: https://doi.org/10.15468/tbrjqw. Documente este elemento de acuerdo a las definiciones e indicaciones que acompañan el vocabulario controlado. |
 | _(Obligatoriedad)_ | _(Opcional)_ |
 | [Vocabulario controlado](#vc_threatStatus) | EX<br> EW<br> RE<br> CR<br> EN<br> VU<br> NT<br> LC<br> DD<br> NA<br> NE |
 
