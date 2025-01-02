@@ -126,8 +126,7 @@ En esta página se presenta una aplicación del **DwC** en español y enfocada a
 
 | ---: | :--- |
 | Definición | El título que identifica el conjunto de datos referenciado en ID del conjunto de datos. |
-| Ejemplo | Especies de fauna del Uruguay evaluadas y reportadas en Listas Rojas
-<br> Las aves del palmar de Butiá (Butia odorata) en Rocha, Uruguay<br> |
+| Ejemplo | Especies de fauna del Uruguay evaluadas y reportadas en Listas Rojas<br> Las aves del palmar de Butiá (Butia odorata) en Rocha, Uruguay |
 | Elementos relacionados | datasetID |
 | Core _(Obligatoriedad)_ | Registros _(Opcional)_<br> Lista de chequeo _(Opcional)_<br> Evento de muestreo _(Opcional)_ |
 
