@@ -1,22 +1,21 @@
 ---
-title: Publicación científica con participación de investigadores uruguayos utilizó datos de GBIF
-date: 2024-07-11 00:00:00
-categories: [Publicaciones, Puma concolor, Datos]
-background: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Puma_face.jpg/1280px-Puma_face.jpg
-imageLicense: Creative Commons Attribution 2.0 Puma, Belgrade Zoo by Bas Lammers, 2009
+title: Primer conjunto de datos sobre biodiversidad publicado por una empresa en el SIBUy
+date: 2025-01-08 00:00:00
+categories: [Datos, UPM]
+background: https://cdn.prod.website-files.com/65032f287e7ca54bc4a77326/651092c86b7ad57df253461b_Mafalda_9039.jpg
+imageLicense: Ephedra tweediana (https://www.earu.site/fauna-y-flora) 
 lang: es
-lang-ref: datapuma
+lang-ref: dataflora
 ---
 
-# Publicación científica con participación de investigadores uruguayos utilizó datos de GBIF
+# Nuevo conjunto de datos disponible: Flora del Área Protegida Esteros y Algarrobales del Río Uruguay  
 
-Uno de los usos más relevantes de los datos abiertos en el estudio de la biodiversidad es la utilización de los registros de ocurrencia de las especies para poder explicar su distribución actual y también hacer escenarios a futuro.
+Este conjunto de datos contiene 713 registros de 276 especies de flora observadas en el Área Protegida Esteros y Algarrobales del Río Uruguay en el departamento de Río Negro. 
 
-Recientemente fue publicado el trabajo “Evaluando la idoneidad del hábitat del puma (Puma concolor) en los pastizales de Uruguay: explorando la dinámica fuente-sumidero y sus implicancias para la conservación” en el que formaron parte investigadores de la Universidad de la República.  
+Estos registros corresponden a una recorrida realizada en 2024 donde se visitaron distintos ecosistemas registrando las especies de flora allí presentes. 
 
-En este trabajo la principal herramienta utilizada fueron los Modelos de Distribución de Especies para evaluar la idoneidad de hábitat del puma en el área de estudio, en base a los registros de presencia de la especie y a factores ambientales. Las fuentes de estos registros de presencia fueron variadas e incluyeron: bibliografía, observaciones de investigadores, publicaciones científicas y datos disponibles a través de GBIF.
+Los principales atributos de este conjunto de datos son: nombres de las especies, coordenadas y hábitat donde se encuentran. 
 
+**Este conjunto representa el primer aporte que hace una empresa al Sistema de Información sobre Biodiversidad de Uruguay, sumándose a otros esfuerzos institucionales y de organizaciones para sistematizar la información de especies en nuestro territorio y disponiblizarla públicamente para la actividad científica y la generación de políticas sobre conservación y uso sostenible de la biodiversidad.**
 
-[Para conocer más sobre este trabajo te invitamos a leerlo](https://www.tandfonline.com/doi/full/10.1080/01650521.2024.2398970){: .button .is-primary target="_blank"}
-
-Artículo científico: Walker, E., Cuyckens, G. A. E., Martínez-Lanfranco, J. A., & Queirolo, D. (2024). Assessing puma habitat suitability in Uruguay’s Grasslands: exploring source-sink dynamics and conservation implications. *Studies on Neotropical Fauna and Environment*, 1-11.
+[Podés acceder a la descarga de los datos](https://www.gbif.org/dataset/3263584a-d002-4d60-9c21-60b32f6337c4){: .button .is-primary target="_blank"}
