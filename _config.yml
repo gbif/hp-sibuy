@@ -110,7 +110,7 @@ defaults:
     scope:
       path: ""
     values:
-      lang: en
+      lang: es
   -
     scope:
       path: "en/"
