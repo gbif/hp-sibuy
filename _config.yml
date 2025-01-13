@@ -52,7 +52,7 @@ siteMeasurements:
 
 algae:
   rootLang: es
-  latestPostLimit: 2
+  latestPostLimit: 3
   #logo: /assets/images/logoBeta.png  # Logo in navbar, will be displayed with 28px height
   #logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
@@ -76,19 +76,17 @@ algae:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - .LICENSE
   - .netlify.toml
   - .README.md
@@ -104,20 +102,24 @@ defaults:
       lang: es
   -
     scope:
-      path: "en"
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: ""
     values:
       lang: en
   -
     scope:
-      path: ""
-      type: "posts"
+      path: "en/"
     values:
-      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
-      layout: "post"
+      lang: en
   -
     scope:
-      path: "_posts/en"
+      path: "_posts/en/"
       type: "posts"
     values:
-      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
       layout: "post"
+      permalink: "/en/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
