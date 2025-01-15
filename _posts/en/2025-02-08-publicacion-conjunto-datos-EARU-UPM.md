@@ -18,4 +18,4 @@ The main attributes of this dataset are: names of the species, coordinates and h
 
 **This dataset represents the first contribution made by a company to the Biodiversity Information System of Uruguay, joining other institutional and organizational efforts to systematize species information in our territory and make it publicly available for scientific activities and the generation of policies on biodiversity conservation and sustainable use.**
 
-[You can download the data here] (https://www.gbif.org/dataset/3263584a-d002-4d60-9c21-60b32f6337c4){: .button .is-primary target="_blank"}
+[You can download the data here](https://www.gbif.org/dataset/3263584a-d002-4d60-9c21-60b32f6337c4){: .button .is-primary target="_blank"}
