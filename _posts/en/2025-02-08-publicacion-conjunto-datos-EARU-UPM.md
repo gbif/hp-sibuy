@@ -1,5 +1,5 @@
 ---
-title: Primer conjunto de datos sobre biodiversidad publicado por una empresa en el SIBUy
+title: First biodiversity dataset published by a company in the SIBUy
 date: 2025-01-08 00:00:00
 categories: [Datos, UPM]
 background: https://cdn.prod.website-files.com/65032f287e7ca54bc4a77326/651092c86b7ad57df253461b_Mafalda_9039.jpg
@@ -8,14 +8,14 @@ lang: es
 lang-ref: dataflora
 ---
 
-# Nuevo conjunto de datos disponible: Flora del Área Protegida Esteros y Algarrobales del Río Uruguay  
+# New dataset available: Flora of the "Esteros y Algarrobales del Río Uruguay" Protected Area  
 
-Este conjunto de datos contiene 713 registros de 276 especies de flora observadas en el Área Protegida Esteros y Algarrobales del Río Uruguay en el departamento de Río Negro. 
+This dataset contains 713 records of 276 flora species observed in "Esteros y Algarrobales del Río Uruguay" in the department of Río Negro.
 
-Estos registros corresponden a una recorrida realizada en 2024 donde se visitaron distintos ecosistemas registrando las especies de flora allí presentes. 
+These records correspond to a field survey conducted in 2024, where different ecosystems were visited and the plant species present in those areas were recorded.
 
-Los principales atributos de este conjunto de datos son: nombres de las especies, coordenadas y hábitat donde se encuentran. 
+The main attributes of this dataset are: names of the species, coordinates and habitat where they are found.
 
-**Este conjunto representa el primer aporte que hace una empresa al Sistema de Información sobre Biodiversidad de Uruguay, sumándose a otros esfuerzos institucionales y de organizaciones para sistematizar la información de especies en nuestro territorio y disponiblizarla públicamente para la actividad científica y la generación de políticas sobre conservación y uso sostenible de la biodiversidad.**
+**This dataset represents the first contribution made by a company to the Biodiversity Information System of Uruguay, joining other institutional and organizational efforts to systematize species information in our territory and make it publicly available for scientific activities and the generation of policies on biodiversity conservation and sustainable use.**
 
-[Podés acceder a la descarga de los datos](https://www.gbif.org/dataset/3263584a-d002-4d60-9c21-60b32f6337c4){: .button .is-primary target="_blank"}
+[You can download the data here] (https://www.gbif.org/dataset/3263584a-d002-4d60-9c21-60b32f6337c4){: .button .is-primary target="_blank"}
