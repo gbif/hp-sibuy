@@ -1,6 +1,6 @@
 ---
 title: Abrieron las postulaciones al “Premio Investigadores Graduados” de GBIF
-date: 2025-02-07 00:00:00
+date: 2025-02-06 00:00:00
 categories: [GBIF, Premio] 
 background: https://scontent.fmvd1-1.fna.fbcdn.net/v/t39.30808-6/476328205_1040663651419620_4215340719864368725_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=C5w6Lr3_1k4Q7kNvgEvBclY&_nc_oc=Adi65ryHP9vzVc1Ok001LCHPcULhiJ_pAONq8sYYpwi0cxKB1MwC7xtIVfLF-B04lnY&_nc_zt=23&_nc_ht=scontent.fmvd1-1.fna&_nc_gid=AzGY9J7cruNiRCdrtGspX97&oh=00_AYAeLsOpJkl6Ek5-zsrC3XZJsEC5bxxipy7jnI20h6la3w&oe=67AAD54E
 imageLicense: Ilustración de un ajolote (*Ambystoma mexicanum* (Shaw & Nodder, 1798)) from A classified index and synopsis of the animal kingdom, London, 1835 via Biodiversity Heritage Library. No rights reserved under CC0.
