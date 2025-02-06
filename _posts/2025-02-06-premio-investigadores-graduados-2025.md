@@ -1,20 +1,28 @@
 ---
-title: Nuevo juego de datos generados en proyectos de exploración de hidrocarburos 2007-2017
-date: 2024-07-11 00:00:00
-categories: [Datos]
-background: https://au-hw-media-m.happywhale.com/496459c0-5a61-4b93-9e97-115f492d0a5c.jpg
-imageLicense: CC BY 4.0
+title: Abrieron las postulaciones al “Premio Investigadores Graduados” de GBIF
+date: 2025-02-07 00:00:00
+categories: [GBIF, Premio] 
+background: https://scontent.fmvd1-1.fna.fbcdn.net/v/t39.30808-6/476328205_1040663651419620_4215340719864368725_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=C5w6Lr3_1k4Q7kNvgEvBclY&_nc_oc=Adi65ryHP9vzVc1Ok001LCHPcULhiJ_pAONq8sYYpwi0cxKB1MwC7xtIVfLF-B04lnY&_nc_zt=23&_nc_ht=scontent.fmvd1-1.fna&_nc_gid=AzGY9J7cruNiRCdrtGspX97&oh=00_AYAeLsOpJkl6Ek5-zsrC3XZJsEC5bxxipy7jnI20h6la3w&oe=67AAD54E
+imageLicense: Ilustración de un ajolote (*Ambystoma mexicanum* (Shaw & Nodder, 1798)) from A classified index and synopsis of the animal kingdom, London, 1835 via Biodiversity Heritage Library. No rights reserved under CC0.
 lang: es
-lang-ref: dataocean
+lang-ref: premioGBIF
 ---
 
-# Nuevo juego de datos: "Base de datos ambientales, oceanográficos y meteorológicos generados en proyectos de exploración de hidrocarburos 2007-2017"
+# Desde el nodo GBIF Uruguay extendemos la convocatoria de GBIF “Premio Investigadores Graduados” 2025
 
-Esta base de datos contiene eventos de detección visual y acústica de mamíferos marinos, tortugas marinas y una especie de ave realizados durante distintas campañas a bordo de buques de prospección sísmica, perforación exploratoria, o campañas científicas en la Zona Económica Exclusiva de Uruguay. 
+El Premio a Investigadores Graduados (“Graduate Researchers Award GBIF”) es un premio anual que busca destacar investigaciones y descubrimientos innovadores en informática de la biodiversidad realizados por estudiantes de posgrado cuyos estudios de maestría o doctorado se basen en datos facilitados por GBIF.  
 
-Los registros abarcan un marco temporal entre 2007 y 2017 y corresponden a detecciones visuales y acústicas realizadas por Observadores de Megafauna Marina (OMF) y operadores de Acústica Pasiva (PAM), respectivamente. 
+Los ganadores (idealmente un estudiante de maestría y uno de doctorado) reciben un reconocimiento y un premio en efectivo de €5,000. Como país miembro de GBIF, Uruguay puede nominar dos estudiantes. 
 
-Algunos de los datos principales que contiene la base son: nombres de las especies, coordenadas del registro, tipo y comportamiento. 
+Para ser elegibles, los candidatos deben:                      
+    a) Ser ciudadanos país miembro de GBIF o  
+    b) Ser estudiantes de una institución que se encuentre en un país miembro     
+    c) Presentar una carta que verifique su afiliación a un programa de posgrado universitario
 
+Además, las/los candidatas/candidatos deben presentar un **paquete de nominación** [detalles AQUÍ] (docs/paquete_de_nominacion_GRA2025.pdf) al nodo GBIF Uruguay que es el encargado de la nominación ante GBIF. 
 
-[Podés acceder a la descarga de los datos](https://www.gbif.org/dataset/bb37f9d3-0f70-4279-8f6b-7bb9b33011bc){: .button .is-primary target="_blank"}
+**La fecha límite de presentación es el 31 de mayo de 2025 a las 23:59hs a través del correo biodiversidad@ambiente.gub.uy** 
+
+Por consultas pueden escribir a biodiversidad@ambiente.gub.uy 
+
+Mas información en: [Call for nominations opens for 2025 GBIF Graduate Researchers Award] (https://www.gbif.org/es/news/4AAE2KOKBRJ0iS2DE2fT65/call-for-nominations-opens-for-2025-gbif-graduate-researchers-award)
