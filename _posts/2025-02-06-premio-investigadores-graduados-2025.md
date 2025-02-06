@@ -19,10 +19,10 @@ Para ser elegibles, los candidatos deben:
     b) Ser estudiantes de una institución que se encuentre en un país miembro     
     c) Presentar una carta que verifique su afiliación a un programa de posgrado universitario
 
-Además, las/los candidatas/candidatos deben presentar un **paquete de nominación** [detalles AQUÍ] (docs/paquete_de_nominacion_GRA2025.pdf) al nodo GBIF Uruguay que es el encargado de la nominación ante GBIF. 
+Además, las/los candidatas/candidatos deben presentar un **paquete de nominación** [detalles AQUÍ](docs/paquete_de_nominacion_GRA2025.pdf) al nodo GBIF Uruguay que es el encargado de la nominación ante GBIF. 
 
 **La fecha límite de presentación es el 31 de mayo de 2025 a las 23:59hs a través del correo biodiversidad@ambiente.gub.uy** 
 
 Por consultas pueden escribir a biodiversidad@ambiente.gub.uy 
 
-Mas información en: [Call for nominations opens for 2025 GBIF Graduate Researchers Award] (https://www.gbif.org/es/news/4AAE2KOKBRJ0iS2DE2fT65/call-for-nominations-opens-for-2025-gbif-graduate-researchers-award)
+Mas información en: [Call for nominations opens for 2025 GBIF Graduate Researchers Award](https://www.gbif.org/es/news/4AAE2KOKBRJ0iS2DE2fT65/call-for-nominations-opens-for-2025-gbif-graduate-researchers-award)
