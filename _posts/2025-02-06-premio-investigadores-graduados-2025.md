@@ -8,7 +8,7 @@ lang: es
 lang-ref: premioGBIF
 ---
 
-# Desde el nodo GBIF Uruguay extendemos la convocatoria al Premio Investigadores Graduados 2025
+# Desde el nodo Uruguay extendemos la convocatoria al Premio Investigadores Graduados 2025 de GBIF
 
 El Premio a Investigadores Graduados (“Graduate Researchers Award GBIF”) es un premio anual que busca destacar investigaciones y descubrimientos innovadores en informática de la biodiversidad realizados por estudiantes de posgrado cuyos estudios de maestría o doctorado se basen en datos facilitados por GBIF.  
 
@@ -19,7 +19,7 @@ Para ser elegibles, los candidatos deben:
     b) Ser estudiantes de una institución que se encuentre en un país miembro     
     c) Presentar una carta que verifique su afiliación a un programa de posgrado universitario
 
-Además, las/los candidatas/os deben presentar un **paquete de nominación** ([detalles AQUÍ](https://drive.google.com/uc?export=download&id=1r3BcxkmceEvotaQYkaRsQf9X01HKd3dN)) al nodo GBIF Uruguay que es el encargado de la nominación ante GBIF. 
+Además, las/los candidatas/os deben presentar **un conjunto de documentos para la nominación** ([detalles AQUÍ](https://drive.google.com/uc?export=download&id=1r3BcxkmceEvotaQYkaRsQf9X01HKd3dN)) al nodo GBIF Uruguay que es el encargado de la nominación ante GBIF. 
 
 **La fecha límite de presentación es el 31 de mayo de 2025 a las 23:59hs a través del correo [biodiversidad@ambiente.gub.uy](mailto:biodiversidad@ambiente.gub.uy)** 
 
