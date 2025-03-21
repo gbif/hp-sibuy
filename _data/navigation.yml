@@ -12,8 +12,7 @@
     href: /dataset/search?type=CHECKLIST
   - text: Colecciones
     href: /resources/collections
-  - text: Datos de ADN
-    href: /resources/barcoding-uy
+
 
 - text: Publicar
   menu: # Dropdown menu (one level deep only)
@@ -37,6 +36,9 @@
     href: /resources/data-quality
   - text: Formación
     href: /resources/capacity-enhancement
+  - text: Bol-UY
+    href: /resources/bol-uy/
+    
 
 - text: Acerca de
   href: /about
