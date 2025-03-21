@@ -4,7 +4,7 @@ title: Bol-UY
 description: Iniciativa Uruguaya Código de Barras de la Vida
 background: /assets/images/img6.jpg
 imageLicense: |
-  CC BY 4.0. Hydrochoerus hydrochaeris (Carpincho). Ministerio de Ambiente. 
+  CC BY 4.0 - <em> Hydrochoerus hydrochaeris (Carpincho)<em>. Ministerio de Ambiente. 
 parallax: true
 height: 80vh
 lang-ref: bol-uy
