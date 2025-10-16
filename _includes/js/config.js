@@ -14,7 +14,7 @@ var siteConfig = {
   },
   availableCatalogues: ['COLLECTION', 'OCCURRENCE', 'DATASET', 'INSTITUTION'],
   occurrence: {
-    highlightedFilters: ['taxonKey', 'gadmGid', 'hasCoordinate', 'iucnRedListCategory', 'year', 'basisOfRecord', 'publisherKey', 'q'],
+    highlightedFilters: ['taxonKey', 'gadmGid', 'hasCoordinate', 'iucnRedListCategory', 'year', 'basisOfRecord', 'publisherKey', 'location','q'],
     excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
     mapSettings: {
       lat: -34.531472,
