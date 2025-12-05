@@ -13,7 +13,7 @@ stats:
       description: Conjuntos de datos
       background: assets/images/icons/datasets.png
       href: /dataset/search
-    - title: 5
+    - title: 7
       description: Publicadores nacionales
       background: assets/images/icons/publishers.png
       href: https://www.gbif.org/publisher/search?country=UY
