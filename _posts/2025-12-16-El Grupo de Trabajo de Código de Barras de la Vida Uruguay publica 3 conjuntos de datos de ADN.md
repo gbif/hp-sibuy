@@ -14,10 +14,13 @@ El “Grupo de Trabajo de Código de Barras de la Vida Uruguay” (BoL-UY) es un
 
 Recientemente, BoL-UY publicó 3 conjuntos de datos:
 - **[Parasitoides (Insecta: Hymenoptera: Parasitica) de Uruguay](https://sibuy.ambiente.gub.uy/dataset/76b8c3a7-7983-4fa1-906d-0bf6ce777fd9)**
-  Relevamiento de avispas parasitoides en diferentes ecosistemas del Uruguay, como cultivos agrícolas, áreas naturales y ambientes urbanos, para establecer una base de datos de referencia   para identificación de parasitoides para la utilización como agentes de control biológico.
+  
+Relevamiento de avispas parasitoides en diferentes ecosistemas del Uruguay, como cultivos agrícolas, áreas naturales y ambientes urbanos, para establecer una base de datos de referencia para identificación de parasitoides para la utilización como agentes de control biológico.
+
 - **[Plantas melíferas de los ecosistemas bosque y pradera nativa del departamento de Rivera, Uruguay](https://sibuy.ambiente.gub.uy/dataset/a0a47a2c-2c41-4a7f-975f-d67b39166992)**
-  Relevamiento de plantas consideradas melíferas de los ecosistemas bosque y pradera nativa del departamento de Rivera, Uruguay, para establecer una base de datos de referencia para
-  identificación de polen en mieles cosechadas en la región.
+
+Relevamiento de plantas consideradas melíferas de los ecosistemas bosque y pradera nativa del departamento de Rivera, Uruguay, para establecer una base de datos de referencia para identificación de polen en mieles cosechadas en la región.
+
 -  **[Pastos y árboles claves de importancia productiva, simbólica y para la conservación](https://sibuy.ambiente.gub.uy/dataset/8c64a464-6302-4ec2-bcea-031a92971524)**
-  Biblioteca genética de referencia de algunas especies clave que representan la diversidad de plantas Uruguayas basadas en su valor productivo, importancia simbólica o estatus de
-  conservación. 
+
+Biblioteca genética de referencia de algunas especies clave que representan la diversidad de plantas Uruguayas basadas en su valor productivo, importancia simbólica o estatus de conservación. 
