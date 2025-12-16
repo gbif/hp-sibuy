@@ -2,8 +2,8 @@
 title: El Grupo de Trabajo de Código de Barras de la Vida Uruguay publica conjuntos de datos de ADN
 date: 2025-12-16 00:00:00
 categories: [BoL-UY, Datos]
-background: https://api.gbif.org/v1/image/cache/x800/occurrence/5890627331/media/74c40e286e48fb03ba1d250d991e8379 width="300">
-imageLicense: <img src=Ejemplar de _Mimosa ramulosa_ depositado en el Herbario Bernardo Rosengurtt de Facultad de Agronomía (CC BY 4.0)
+background: <img src=https://api.gbif.org/v1/image/cache/x800/occurrence/5890627331/media/74c40e286e48fb03ba1d250d991e8379 width="300">
+imageLicense: Ejemplar de _Mimosa ramulosa_ depositado en el Herbario Bernardo Rosengurtt de Facultad de Agronomía (CC BY 4.0)
 lang: es
 lang-ref: bol-uy
 ---
