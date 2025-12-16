@@ -18,8 +18,10 @@ Esta investigación resalta la importancia de las colecciones biológicas y la p
 
 [Accedé a la descarga de los datos y su información asociada](https://sibuy.ambiente.gub.uy/dataset/8b265593-9ae8-40b8-92d3-9b1b6556faab){: .button .is-primary target="_blank"}
 
-![IMG-20251209-WA0005]()
+<p align="center">
 <img src="https://github.com/user-attachments/assets/33ae796e-d4fb-4a74-8522-09cd2b41cb15" width="400">
-Presentación del trabajo en el octavo Congreso Uruguayo de Zoología. De izquierda a derecha: Miguel Simó, Damián Hagopián, Sofía Acerenza y Julieta Vázquez.
+</p>
+
+<small>Presentación del trabajo en el octavo Congreso Uruguayo de Zoología. De izquierda a derecha: Miguel Simó, Damián Hagopián, Sofía Acerenza y Julieta Vázquez.</small>
 
 
