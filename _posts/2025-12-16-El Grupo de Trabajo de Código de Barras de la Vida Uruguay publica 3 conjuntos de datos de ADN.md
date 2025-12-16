@@ -17,9 +17,11 @@ Recientemente, BoL-UY publicó 3 conjuntos de datos:
   
 Relevamiento de avispas parasitoides en diferentes ecosistemas del Uruguay, como cultivos agrícolas, áreas naturales y ambientes urbanos, para establecer una base de datos de referencia para identificación de parasitoides para la utilización como agentes de control biológico.
 
+
 - **[Plantas melíferas de los ecosistemas bosque y pradera nativa del departamento de Rivera, Uruguay](https://sibuy.ambiente.gub.uy/dataset/a0a47a2c-2c41-4a7f-975f-d67b39166992)**
 
 Relevamiento de plantas consideradas melíferas de los ecosistemas bosque y pradera nativa del departamento de Rivera, Uruguay, para establecer una base de datos de referencia para identificación de polen en mieles cosechadas en la región.
+
 
 -  **[Pastos y árboles claves de importancia productiva, simbólica y para la conservación](https://sibuy.ambiente.gub.uy/dataset/8c64a464-6302-4ec2-bcea-031a92971524)**
 
