@@ -10,9 +10,9 @@ lang-ref: bol-uy
 
 # La organización BoL-UY publicó tres conjuntos de datos de ADN en 2025
 
-El “Grupo de Trabajo de Código de Barras de la Vida Uruguay” (BoL-UY) es un consorcio de instituciones uruguayas que comprende a la Universidad de la República, Ministerio de Educación y Cultura, Ministerio de Ambiente, Agencia Nacional de Investigación e Innovación (ANII) e Instituto Nacional de Investigación Agropecuaria (INIA). Este grupo tiene el propósito de aplicar la técnica de Barcoding para generar la base molecular de referencia para la identificación de las especies y unidades taxonómicas que ocurren en Uruguay, así como fomentar su uso y sistematizar los datos en referencia a ellas. 
+El “Grupo de Trabajo de Código de Barras de la Vida Uruguay” (BoL-UY) es un consorcio de instituciones uruguayas que comprende a la Universidad de la República, Ministerio de Educación y Cultura, Ministerio de Ambiente, Ministerio de Ganadería, Agricultura y Pesca, Instituto Nacional de Investigación Agropecuaria y Laboratorio Tecnológico del Uruguay. Este grupo tiene el propósito de aplicar la técnica de Barcoding para generar la base molecular de referencia para la identificación de las especies y unidades taxonómicas que ocurren en Uruguay, así como fomentar su uso y sistematizar los datos en referencia a ellas. 
 
-<u>Recientemente, BoL-UY publicó 3 conjuntos de datos:</u>
+<u>En el marco del proyecto “Usina de códigos de barra de la vida-Uruguay” financiado por ANII e INIA, se publicaron 3 conjuntos de datos:</u>
 - **[Parasitoides (Insecta: Hymenoptera: Parasitica) de Uruguay](https://sibuy.ambiente.gub.uy/dataset/76b8c3a7-7983-4fa1-906d-0bf6ce777fd9)**
   
 Relevamiento de avispas parasitoides en diferentes ecosistemas del Uruguay, como cultivos agrícolas, áreas naturales y ambientes urbanos, para establecer una base de datos de referencia para identificación de parasitoides para la utilización como agentes de control biológico.
