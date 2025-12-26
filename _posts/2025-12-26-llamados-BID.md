@@ -10,13 +10,13 @@ lang-ref: BIDcall
 
 # Nuevo convocatoria GBIF para financiación de proyectos
 
-Esta convocatoria impulsada por GBIF con fondos de la Unión Europea, busca fortalecer la capacidad de las instituciones y los países para movilizar datos sobre biodiversidad, haciéndolos disponibles abiertamente para fundamentar la toma de decisiones y apoyar las necesidades de conocimiento del Marco Mundial de Biodiversidad Kunming-Montreal.
+Esta convocatoria impulsada por GBIF con fondos de la Unión Europea, busca fortalecer la capacidad de las instituciones y los países para movilizar datos sobre biodiversidad, haciéndolos disponibles de forma abierta para fundamentar la toma de decisiones y apoyar las necesidades de conocimiento del [Marco Mundial de Biodiversidad Kunming-Montreal.](https://www.cbd.int/gbf)
 
-Los proyectos seleccionados deberían abordar vacíos críticos de información sobre biodiversidad movilizando datos, promoviendo su aplicación en la investigación y la formulación de políticas y construyendo redes sostenibles y comunidades de práctica comprometidas con el intercambio de datos abiertos sobre biodiversidad.
+Los proyectos seleccionados deberán abordar vacíos críticos de información sobre biodiversidad movilizando datos, promoviendo su aplicación en la investigación y la formulación de políticas y construyendo redes sostenibles y comunidades de práctica comprometidas con el intercambio de datos abiertos sobre biodiversidad.
 
 <u>Tipos de subvenciones y financiación:</u>
-- Proyectos de movilización de datos de biodiversidad a nivel regional (2 años, hasta €90.000). 
-- Proyectos de movilización de datos de biodiversidad transregional (2 años, hasta €120.000). 
+- Proyectos de movilización de datos de biodiversidad a nivel regional (duración 2 años, hasta €90.000). 
+- Proyectos de movilización de datos de biodiversidad transregional (duración 2 años, hasta €120.000). 
 
 El llamado se encuentra abierto hasta el **_2 de febrero de 2026 a las 12hs_** (hora de Uruguay). 
 
