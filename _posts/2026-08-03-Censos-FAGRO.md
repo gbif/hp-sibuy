@@ -25,4 +25,6 @@ En este marco se publicaron desde la [Facultad de Agronomía de la Universidad d
 - **[Censos de vegetación de campo natural en clausura y pastoreo en San Miguel y Potrerillo, Uruguay](https://www.gbif.org/dataset/45d06671-3f09-49fd-a483-e5feb38903e7)** 
 
  
-Biblioteca genética de referencia de algunas especies clave que representan la diversidad de plantas Uruguayas basadas en su valor productivo, importancia simbólica o estatus de conservación. 
+Estos conjuntos contienen 25.314 registros pertenecientes a 606 especies de plantas.  
+
+**La disponibilidad y el acceso abierto a la  información es clave para avanzar en el diseño de políticas para la conservación de nuestros pastizales y el desarrollo de una ganadería sostenible.**
