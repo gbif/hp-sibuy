@@ -2,7 +2,7 @@
 title: Nuevos datos sobre vegetación de campo natural de Uruguay
 date: 2026-08-03
 categories: [Facultad de Agronomía, Censos de vegetación]
-background: ![Campo natural. Fotografía tomada por Mauricio Bonifacino (CC BY 4.0)](IMG-20260722-WA0031.jpg)
+background: ![Campo natural. Fotografía tomada por Mauricio Bonifacino (CC BY 4.0)](_posts/IMG-20260722-WA0031.jpg)
 imageLicense: Campo natural. Fotografía tomada por Mauricio Bonifacino (CC BY 4.0)
 lang: es
 lang-ref: FAGRO
