@@ -8,21 +8,21 @@ lang: es
 lang-ref: bol-uy
 ---
 
-# La organización BoL-UY publicó tres conjuntos de datos de ADN en 2025
+#  Facultad de Agronomía publica registros pertenencientes a 606 especies de plantas
 
-El “Grupo de Trabajo de Código de Barras de la Vida Uruguay” (BoL-UY) es un consorcio de instituciones uruguayas que comprende a la Universidad de la República, Ministerio de Educación y Cultura, Ministerio de Ambiente, Ministerio de Ganadería, Agricultura y Pesca, Instituto Nacional de Investigación Agropecuaria y Laboratorio Tecnológico del Uruguay. Este grupo tiene el propósito de aplicar la técnica de Barcoding para generar la base molecular de referencia para la identificación de las especies y unidades taxonómicas que ocurren en Uruguay, así como fomentar su uso y sistematizar los datos en referencia a ellas. 
+El proyecto (["Fortalecimiento de la Ganadería Sostenible en Uruguay"](https://www.linkedin.com/company/ganaderia-sostenible-uruguay/)), del programa EUROCLIMA LAC, implementado por el Ministerio de Ambiente y el Ministerio de Ganadería, Agricultura y Pesca, en articulación con la Agencia Uruguaya de Cooperación Internacional, busca fortalecer los sistemas de monitoreo con el fin de respaldar la formulación de políticas ambientales, la elaboración de reportes nacionales y la gestión sostenible del sector ganadero.
 
-<u>En el marco del proyecto “Usina de códigos de barra de la vida-Uruguay” financiado por ANII e INIA, se publicaron 3 conjuntos de datos:</u>
-- **[Parasitoides (Insecta: Hymenoptera: Parasitica) de Uruguay](https://sibuy.ambiente.gub.uy/dataset/76b8c3a7-7983-4fa1-906d-0bf6ce777fd9)**
-  
-Relevamiento de avispas parasitoides en diferentes ecosistemas del Uruguay, como cultivos agrícolas, áreas naturales y ambientes urbanos, para establecer una base de datos de referencia para identificación de parasitoides para la utilización como agentes de control biológico.
+En este marco se publicaron desde la ([Facultad de Agronomía de la Universidad de la República](https://www.gbif.org/publisher/aa60f06d-d365-45d7-8c05-dbf04bcf3991)) 4 conjuntos de datos correspondientes a censos de vegetación:
+- **[Censos de vegetación de campo natural en Uruguay 2001-2009](https://www.gbif.org/dataset/3ff25f75-662f-4069-b201-a0ce809b64a5)**
+ 
 
-
-- **[Plantas melíferas de los ecosistemas bosque y pradera nativa del departamento de Rivera, Uruguay](https://sibuy.ambiente.gub.uy/dataset/a0a47a2c-2c41-4a7f-975f-d67b39166992)**
-
-Relevamiento de plantas consideradas melíferas de los ecosistemas bosque y pradera nativa del departamento de Rivera, Uruguay, para establecer una base de datos de referencia para identificación de polen en mieles cosechadas en la región.
+- **[Censos de vegetación de campo natural en lomadas, colinas y planicies del Este de Uruguay](https://www.gbif.org/dataset/4037f5fd-8dda-4cdb-b526-ef2326132055)**
 
 
--  **[Pastos y árboles claves de importancia productiva, simbólica y para la conservación](https://sibuy.ambiente.gub.uy/dataset/8c64a464-6302-4ec2-bcea-031a92971524)**
+-  **[Censos de vegetación de campo natural en 2020 en Uruguay. Proyecto Ganadería y Clima](https://www.gbif.org/dataset/573ed14c-50b5-4d96-aed0-1c6906a2af0d)**
 
+
+-  **[Censos de vegetación de campo natural en clausura y pastoreo en San Miguel y Potrerillo, Uruguay](https://www.gbif.org/dataset/45d06671-3f09-49fd-a483-e5feb38903e7)** 
+
+ 
 Biblioteca genética de referencia de algunas especies clave que representan la diversidad de plantas Uruguayas basadas en su valor productivo, importancia simbólica o estatus de conservación. 
