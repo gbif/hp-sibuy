@@ -10,9 +10,9 @@ lang-ref: FAGRO
 
 #  Facultad de Agronomía publica registros de 606 especies de plantas
 
-El proyecto (["Fortalecimiento de la Ganadería Sostenible en Uruguay"](https://www.linkedin.com/company/ganaderia-sostenible-uruguay/)), del programa EUROCLIMA LAC, implementado por el Ministerio de Ambiente y el Ministerio de Ganadería, Agricultura y Pesca, en articulación con la Agencia Uruguaya de Cooperación Internacional, busca fortalecer los sistemas de monitoreo con el fin de respaldar la formulación de políticas ambientales, la elaboración de reportes nacionales y la gestión sostenible del sector ganadero.
+El proyecto ["Fortalecimiento de la Ganadería Sostenible en Uruguay"](https://www.linkedin.com/company/ganaderia-sostenible-uruguay/), del programa EUROCLIMA LAC, implementado por el Ministerio de Ambiente y el Ministerio de Ganadería, Agricultura y Pesca, en articulación con la Agencia Uruguaya de Cooperación Internacional, busca fortalecer los sistemas de monitoreo con el fin de respaldar la formulación de políticas ambientales, la elaboración de reportes nacionales y la gestión sostenible del sector ganadero.
 
-En este marco se publicaron desde la ([Facultad de Agronomía de la Universidad de la República](https://www.gbif.org/publisher/aa60f06d-d365-45d7-8c05-dbf04bcf3991)) 4 conjuntos de datos correspondientes a censos de vegetación:
+En este marco se publicaron desde la [Facultad de Agronomía de la Universidad de la República](https://www.gbif.org/publisher/aa60f06d-d365-45d7-8c05-dbf04bcf3991) 4 conjuntos de datos correspondientes a censos de vegetación:
 - **[Censos de vegetación de campo natural en Uruguay 2001-2009](https://www.gbif.org/dataset/3ff25f75-662f-4069-b201-a0ce809b64a5)**
  
 
