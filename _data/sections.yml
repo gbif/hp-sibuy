@@ -69,8 +69,8 @@ checklist:
       background: /assets/images/ozotoceros_bezoarticus.JPG
       imageLicense: |
         CC BY-SA 4.0 - <em>Ozotoceros_bezoarticus</em> (Venado de campo). Por Juan Carlos Gambarotta.
-      href: /resources/prioritarias-uy
+      href: /prioritarias-uy
       cta:
       - text: Explorá
-        href: /resources/prioritarias-uy
+        href: /prioritarias-uy
         isPrimary: true
