@@ -1,18 +1,30 @@
 ---
 layout: heroImage
-title: Bol-UY
-description: Iniciativa Uruguaya Código de Barras de la Vida
-background: /assets/images/img6.jpg
+title: Especies prioritarias para la conservación en Uruguay: vertebrados, moluscos, arácnidos, lepidópteros y plantas vasculares
+description: Lista actualizada de especies prioritarias para la conservación en Uruguay: vertebrados, moluscos, arácnidos, lepidópteros y plantas vasculares
+background: assets/images/news/Xanthopsar flavus.JPG
 imageLicense: |
-  CC BY 4.0 - <em>Hydrochoerus hydrochaeris</em> (Carpincho). Ministerio de Ambiente. 
+  CC BY 4.0 - <em>Xanthopsar flavus</em> (Dragón). Tomada por: Juan Carlos Gambarotta. 
 parallax: true
-height: 80vh
-lang-ref: bol-uy
+height: 60vh
+lang-ref: prioritarias-uy
 lang: es
 ---
 
-En respuesta a las limitantes de la taxonomía clásica, a partir de los años 80 se promovió el estudio molecular de la biodiversidad con el desarrollo de las técnicas de PCR y secuenciación automatizada del ADN, aportando herramientas rápidas, y accesibles, para la prospección y el monitoreo de la biodiversidad. Hace mas de dos décadas, [Hebert et al. (2003)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1691236/pdf/12614582.pdf) propuso un sistema estandarizado para la identificación de especies basado en ADN, se formó entonces el primer Consorcio para el Código de Barras de la Vida (CBoL; [www.barcodeoflife.org](www.barcodeoflife.org)).
+Las especies prioritarias para la conservación en Uruguay incluye tanto especies amenazadas como especies que, aun sin presentar problemas de conservación, poseen características biológicas, ecológicas o biogeográficas relevantes, tales como distribución restringida, endemismo, singularidad taxonómica, importancia ecológica o valor para el desarrollo sustentable, que justifican una especial atención en las estrategias de conservación del país. 
 
-La primera iniciativa para una base de referencia de secuencias tipo barcode (Código de Barras de la Vida, CBV) a escala país fue impulsada en 2014 por el entonces Ministro de Educación y Cultura, Dr. Ricardo Ehrlich. En 2018, con el financiamiento del CDB, se organizó un curso PEDECIBA-Universidad de la República (Udelar), responsables Mariana Cosse y Rosina Segui. Dentro de los objetivos del proyecto se planteó avanzar con la creación de un Nodo Nacional de CBV. A partir de 2020 la Dirección Nacional de Innovación, Ciencia y Tecnología (DICyT) del MEC acompaña el proceso iniciado por la Secretaría Nacional de Ciencia y Tecnología.
+Las especies prioritarias para el Sistema Nacional de Áreas Protegidas (SNAP) constituyen un subconjunto de las especies amenazadas para las cuales la conservación basada en la protección y gestión de sitios específicos puede contribuir significativamente a disminuir su riesgo de extinción en el país.
 
-[Más info](https://www.gub.uy/ministerio-educacion-cultura/politicas-y-gestion/usina-codigos-barra-vida-uruguay){: .button .is-primary}
+El presente trabajo de revisión y actualización de las especies prioritarias para la conservación se desarrolló en el marco del convenio entre la Dirección Nacional de Biodiversidad y Servicios Ecosistémicos (Ministerio de Ambiente) y el Centro Universitario Regional del Este (CURE), cuyo objetivo es brindar asistencia técnica para apoyar el proceso de actualización de la información sobre el estado de la biodiversidad, la revisión de los objetos de conservación y la actualización de la información de la red física de interés del componente continental del Sistema Nacional de Áreas Protegidas (SNAP) para el período 2025-2035.
+
+Podés consultar las listas en los siguientes links:
+
+- **[Especies de Plantas Vasculares prioritarias para la conservación en Uruguay](https://sibuy.ambiente.gub.uy/dataset/d852fad1-a839-41c3-a268-746c893fe149)**
+- **[Especies de Moluscos terrestres, marinos y estuarinos prioritarios para la conservación en Uruguay](https://sibuy.ambiente.gub.uy/dataset/3031fdce-f008-49ed-9b2c-3b28ab35e53a)**
+- **[Especies de Arácnidos prioritarias para la conservación en Uruguay](https://sibuy.ambiente.gub.uy/dataset/500a0343-e743-472f-b54f-2f92e36e4621)**
+- **[Especies de Lepidopteros prioritarios para la conservación en Uruguay](https://sibuy.ambiente.gub.uy/dataset/8ced3119-16e3-4162-b3d2-c093e7043d7b)**
+- **[Especies de Peces prioritarios para la conservación en Uruguay](https://sibuy.ambiente.gub.uy/dataset/f6ed1ed8-0c62-4cd4-a2d1-80008ca88f4c)**
+- **[Especies de Anfibios prioritarias para la conservación en Uruguay](https://sibuy.ambiente.gub.uy/dataset/1bc11231-8219-4a5f-9e51-335df0e8f412)**
+- **[Especies de Reptiles prioritarias para la conservación en Uruguay](https://sibuy.ambiente.gub.uy/dataset/490a0647-3145-475d-b54d-b9b8bc67cee7)**
+- **[Especies de Aves prioritarias para la conservación en Uruguay](https://sibuy.ambiente.gub.uy/dataset/529e52a7-1ba3-43d2-abad-891ce5a14b46)**
+- **[Especies de Mamíferos prioritarias para la conservación en Uruguay](https://sibuy.ambiente.gub.uy/dataset/8716603b-2100-4ea7-a56a-7121a7b0fd2f)**
