@@ -1,12 +1,12 @@
 ---
 layout: heroImage
-title: "Especies prioritarias para la conservación en Uruguay: vertebrados, moluscos, arácnidos, lepidópteros y plantas vasculares"
+title: "Especies prioritarias para la conservación en Uruguay"
 description: "Lista actualizada de especies prioritarias para la conservación en Uruguay: vertebrados, moluscos, arácnidos, lepidópteros y plantas vasculares"
 background: assets/images/news/Xanthopsar flavus.JPG
 imageLicense: |
   CC BY 4.0 - <em>Xanthopsar flavus</em> (Dragón). Tomada por: Juan Carlos Gambarotta. 
 parallax: true
-height: 60vh
+height: 80vh
 lang-ref: prioritarias-uy
 lang: es
 ---
@@ -17,7 +17,7 @@ Las especies prioritarias para el Sistema Nacional de Áreas Protegidas (SNAP) c
 
 El presente trabajo de revisión y actualización de las especies prioritarias para la conservación se desarrolló en el marco del convenio entre la Dirección Nacional de Biodiversidad y Servicios Ecosistémicos (Ministerio de Ambiente) y el Centro Universitario Regional del Este (CURE), cuyo objetivo es brindar asistencia técnica para apoyar el proceso de actualización de la información sobre el estado de la biodiversidad, la revisión de los objetos de conservación y la actualización de la información de la red física de interés del componente continental del Sistema Nacional de Áreas Protegidas (SNAP) para el período 2025-2035.
 
-Podés consultar las listas en los siguientes links:
+**Podés consultar las listas en los siguientes links:**
 
 - **[Especies de Plantas Vasculares prioritarias para la conservación en Uruguay](https://sibuy.ambiente.gub.uy/dataset/d852fad1-a839-41c3-a268-746c893fe149)**
 - **[Especies de Moluscos terrestres, marinos y estuarinos prioritarios para la conservación en Uruguay](https://sibuy.ambiente.gub.uy/dataset/3031fdce-f008-49ed-9b2c-3b28ab35e53a)**
