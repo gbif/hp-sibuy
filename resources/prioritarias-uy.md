@@ -9,6 +9,7 @@ parallax: true
 height: 70vh
 lang-ref: prioritarias-uy
 lang: es
+permalink: /prioritarias-uy
 ---
 
 Las especies prioritarias para la conservación en Uruguay incluye tanto especies amenazadas como especies que, aun sin presentar problemas de conservación, poseen características biológicas, ecológicas o biogeográficas relevantes, tales como distribución restringida, endemismo, singularidad taxonómica, importancia ecológica o valor para el desarrollo sustentable, que justifican una especial atención en las estrategias de conservación del país. 
