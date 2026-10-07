@@ -2,11 +2,11 @@
 layout: heroImage
 title: "Especies prioritarias para la conservación en Uruguay"
 description: "Lista actualizada de especies prioritarias para la conservación en Uruguay: vertebrados, moluscos, arácnidos, lepidópteros y plantas vasculares"
-background: assets/images/news/Xanthopsar flavus.JPG
+background: assets/images/Xanthopsar_flavus.JPG
 imageLicense: |
   CC BY 4.0 - <em>Xanthopsar flavus</em> (Dragón). Tomada por: Juan Carlos Gambarotta. 
 parallax: true
-height: 80vh
+height: 60vh
 lang-ref: prioritarias-uy
 lang: es
 ---
