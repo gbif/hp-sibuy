@@ -6,7 +6,7 @@ background: /assets/images/xanthopsar_flavus.JPG
 imageLicense: |
   CC BY 4.0 - <em>Xanthopsar flavus</em> (Dragón). Tomada por: Juan Carlos Gambarotta. 
 parallax: true
-height: 80vh
+height: 70vh
 lang-ref: prioritarias-uy
 lang: es
 ---
