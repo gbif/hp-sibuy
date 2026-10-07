@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: "Especies prioritarias para la conservación en Uruguay"
+title: "Especies prioritarias para la conservación en Uruguay - 2026"
 description: "Lista actualizada de especies prioritarias para la conservación en Uruguay: vertebrados, moluscos, arácnidos, lepidópteros y plantas vasculares"
 background: /assets/images/xanthopsar_flavus.JPG
 imageLicense: |
