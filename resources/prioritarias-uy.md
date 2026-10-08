@@ -12,11 +12,13 @@ lang: es
 permalink: /prioritarias-uy
 ---
 
-Las especies prioritarias para la conservación en Uruguay incluye tanto especies amenazadas como especies que, aun sin presentar problemas de conservación, poseen características biológicas, ecológicas o biogeográficas relevantes, tales como distribución restringida, endemismo, singularidad taxonómica, importancia ecológica o valor para el desarrollo sustentable, que justifican una especial atención en las estrategias de conservación del país. 
+Las especies prioritarias para la conservación en Uruguay incluyen tanto especies amenazadas como especies que, aun sin presentar problemas de conservación, poseen características biológicas, ecológicas o biogeográficas relevantes, tales como distribución restringida, endemismo, singularidad taxonómica, importancia ecológica o valor para el desarrollo sustentable, que justifican una especial atención en las estrategias de conservación del país. 
 
 Las especies prioritarias para el Sistema Nacional de Áreas Protegidas (SNAP) constituyen un subconjunto de las especies amenazadas para las cuales la conservación basada en la protección y gestión de sitios específicos puede contribuir significativamente a disminuir su riesgo de extinción en el país.
 
 El presente trabajo de revisión y actualización de las especies prioritarias para la conservación se desarrolló en el marco del convenio entre la Dirección Nacional de Biodiversidad y Servicios Ecosistémicos (Ministerio de Ambiente) y el Centro Universitario Regional del Este (CURE), cuyo objetivo es brindar asistencia técnica para apoyar el proceso de actualización de la información sobre el estado de la biodiversidad, la revisión de los objetos de conservación y la actualización de la información de la red física de interés del componente continental del Sistema Nacional de Áreas Protegidas (SNAP) para el período 2025-2035.
+
+En total, se identificaron 918 especies de plantas vasculares prioritarias para la conservación, de las cuales 811 son prioritarias para el SNAP. En el caso de los invertebrados, la totalidad de las especies prioritarias identificadas lo son también para el SNAP: 61 de moluscos, 96 de arácnidos y 88 de lepidópteros. En cuanto a los vertebrados, se identificaron 209 especies prioritarias de peces (53 de ellas prioritarias para el SNAP), 20 de anfibios (11), 40 de reptiles (28), 125 de aves (65) y 72 de mamíferos (36).
 
 **Podés consultar las listas en los siguientes links:**
 
